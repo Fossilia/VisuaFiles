@@ -18,23 +18,27 @@ public class FileScanner{
 		if(folder.isFile()){
 			files++;
 			size+=folder.length();
-			System.out.println(folder+" : "+folder.length()/1024+" kb");
+			if(folder.length()>(1024*1024*1024)){ //shows files above 1 GB
+				System.out.println(folder+" : "+folder.length()/(1024*1024)+" mb");
+			}
 			return;
 		}
-		subDirs = folder.list();
-		File item;
+		//System.out.println(folder);
 		folders++;
+		subDirs = folder.list();
+		if(subDirs==null){ //checks if folder is empty
+			return;
+		}
+		File item;
 		for(String string : subDirs){
+			//System.out.println(string);
 			item = new File(folder+"/"+string+"/");
-			//System.out.println(item);
-			//if(item.isFolder()){
-				scanFolder(item);
-			//}
+			scanFolder(item);
 		}
 	}
 
 	public int getNumberOfFolders(){
-		return folders;
+		return folders-1;
 	}
 
 	public int getNumberOfFiles(){
@@ -56,5 +60,7 @@ public class FileScanner{
 	public void printSizeGB(){
 		System.out.printf("%.2f GB\n", size/(1024.0*1024.0*1024.0));
 	}
+
+	//catch(Exception e){return;}
 
 }
