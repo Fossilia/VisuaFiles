@@ -1,3 +1,4 @@
+import java.util.*;
 import java.nio.file.*;
 import java.io.IOException; 
 import java.io.File;
@@ -5,13 +6,18 @@ import java.io.File;
 public class FileScannerLauncher{
 	public static void main(String[]args)throws IOException{
 		FileScanner fs = new FileScanner();
-		//Scanner s = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
+		String input;
+
 		System.out.println(new File("C:/").getFreeSpace()/(1024*1024*1024)+" GB");
 		/*for(String string : new File("C:/$Recycle.Bin/S-1-5-18").list()){
 			System.out.println(string);
 		}*/
 		//fs.scanFolder(new File("C:/"));
-		fs.scanFolder(new File("C:/Users/Faisal/Videos/"));
+
+		System.out.println("Input what path you want to scan:");
+		input = sc.nextLine();
+		fs.scanFolder(new File(input));
 		fs.printSizeKB();
 		fs.printSizeMB();
 		fs.printSizeGB();
