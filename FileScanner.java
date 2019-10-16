@@ -16,15 +16,14 @@ public class FileScanner{
 	}
 
 	public void scanFolder(String path){
+		File filePath = new File(path);
 		System.out.println("0%");
-		long usedSpace = new File(path).getTotalSpace()-new File(path).getUsableSpace();
-		//System.out.println(usedSpace/(1024.0*1024.0*1024.0));
-		scanFolder(new File(path), new File(path));
+		double usedSpace = filePath.getTotalSpace()-filePath.getUsableSpace();
+		scanFolder(filePath, filePath, usedSpace);
 	}
 
-	public void scanFolder(File basePath, File path){
+	public void scanFolder(File basePath, File path, double usedSpace){
 
-		double usedSpace = basePath.getTotalSpace()-basePath.getUsableSpace();
 		double percentageDone = ((double)size/(double)usedSpace)*100;
 		//System.out.println(size+" "+usedSpace);
 		//System.out.println(percentageDone);
@@ -54,7 +53,7 @@ public class FileScanner{
 		for(String string : subDirs){
 			//System.out.println(string);
 			item = new File(path+"/"+string+"/");
-			scanFolder(path, item);
+			scanFolder(path, item, usedSpace);
 		}
 	}
 
