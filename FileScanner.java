@@ -6,34 +6,55 @@ public class FileScanner{
 	private long size;
 	private int files;
 	private int folders;
+	private int percent;
 
 	public FileScanner(){
 		size = 0;
 		files = 0;
 		folders = 0;
+		percent = 0;
 	}
 
-	public void scanFolder(File folder){
+	public void scanFolder(String path){
+		System.out.println("0%");
+		long usedSpace = new File(path).getTotalSpace()-new File(path).getUsableSpace();
+		//System.out.println(usedSpace/(1024.0*1024.0*1024.0));
+		scanFolder(new File(path), new File(path));
+	}
+
+	public void scanFolder(File basePath, File path){
+
+		double usedSpace = basePath.getTotalSpace()-basePath.getUsableSpace();
+		double percentageDone = ((double)size/(double)usedSpace)*100;
+		//System.out.println(size+" "+usedSpace);
+		//System.out.println(percentageDone);
+		int newPercent = (int)percentageDone;
+		if(percent<newPercent){
+			percent = newPercent;
+			System.out.println(percent+"%");
+		}
+		//System.out.printf("%.2f%%\n", percentageDone);
+
 		String[] subDirs;
-		if(folder.isFile()){
+		if(path.isFile()){
 			files++;
-			size+=folder.length();
-			if(folder.length()>(1024*1024*1024)){ //shows files above 1 GB
-				System.out.println(folder+" : "+folder.length()/(1024*1024)+" mb");
+			size+=path.length();
+			if(path.length()>(1024*1024*1024)){ //shows files above 1 GB
+				System.out.println(path+" : "+path.length()/(1024*1024)+" mb");
 			}
 			return;
 		}
 		//System.out.println(folder);
 		folders++;
-		subDirs = folder.list();
+		subDirs = path.list();
 		if(subDirs==null){ //checks if folder is empty
 			return;
 		}
 		File item;
 		for(String string : subDirs){
 			//System.out.println(string);
-			item = new File(folder+"/"+string+"/");
-			scanFolder(item);
+			item = new File(path+"/"+string+"/");
+			scanFolder(path, item);
 		}
 	}
 

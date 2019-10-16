@@ -9,7 +9,10 @@ public class FileScannerLauncher{
 		Scanner sc = new Scanner(System.in);
 		String input;
 
-		System.out.println(new File("C:/").getFreeSpace()/(1024*1024*1024)+" GB");
+		System.out.println("Free Space: "+(new File("C:/").getUsableSpace()/(1024*1024*1024))+" GB");
+		System.out.println("Total Space: "+(new File("C:/").getTotalSpace()/(1024*1024*1024))+" GB");
+		System.out.println("Used Space: "+((new File("C:/").getTotalSpace())-(new File("C:/").getUsableSpace()))/(1024*1024*1024)+" GB");
+		//System.out.println(new File("C:/").getUsedSpace()/(1024*1024*1024)+" GB");
 		/*for(String string : new File("C:/$Recycle.Bin/S-1-5-18").list()){
 			System.out.println(string);
 		}*/
@@ -17,7 +20,8 @@ public class FileScannerLauncher{
 
 		System.out.println("Input what path you want to scan:");
 		input = sc.nextLine();
-		fs.scanFolder(new File(input));
+		//fs.scanFolder("C:/Users/Faisal/Videos");
+		fs.scanFolder(input);
 		fs.printSizeKB();
 		fs.printSizeMB();
 		fs.printSizeGB();
