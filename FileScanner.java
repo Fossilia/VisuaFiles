@@ -12,12 +12,12 @@ public class FileScanner{
 		size = 0;
 		files = 0;
 		folders = 0;
-		percent = 0;
+		percent = -1;
 	}
 
 	public void scanFolder(String path){
 		File filePath = new File(path);
-		System.out.println("0%");
+		//System.out.println("0%");
 		double usedSpace = filePath.getTotalSpace()-filePath.getUsableSpace();
 		scanFolder(filePath, filePath, usedSpace);
 	}
@@ -30,7 +30,12 @@ public class FileScanner{
 		int newPercent = (int)percentageDone;
 		if(percent<newPercent){
 			percent = newPercent;
-			System.out.println(percent+"%");
+			System.out.print("[");
+			for(int i=0; i<percent/5; i++){
+				System.out.print("#");
+			}
+			System.out.printf("%"+(22-percent/5)+"s", "] ");
+			System.out.print(percent+"%\r");
 		}
 		//System.out.printf("%.2f%%\n", percentageDone);
 
@@ -39,7 +44,7 @@ public class FileScanner{
 			files++;
 			size+=path.length();
 			if(path.length()>(1024*1024*1024)){ //shows files above 1 GB
-				System.out.println(path+" : "+path.length()/(1024*1024)+" mb");
+				//System.out.println(path+" : "+path.length()/(1024*1024)+" mb");
 			}
 			return;
 		}
