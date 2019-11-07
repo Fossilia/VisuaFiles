@@ -22,20 +22,20 @@ public class FileScanner{
 		scanFolder(filePath, filePath, usedSpace);
 	}
 
+	public void scanFolder(File path){
+		double usedSpace = path.getTotalSpace()-path.getUsableSpace();
+		scanFolder(path, path, usedSpace);
+	}
+
 	public void scanFolder(File basePath, File path, double usedSpace){
 
 		double percentageDone = ((double)size/(double)usedSpace)*100;
-		//System.out.println(size+" "+usedSpace);
-		//System.out.println(percentageDone);
 		int newPercent = (int)percentageDone;
-		if(percent<newPercent){
+		if(percent<newPercent && newPercent<=100){
 			percent = newPercent;
-			System.out.print("[");
-			for(int i=0; i<percent/5; i++){
-				System.out.print("#");
-			}
-			System.out.printf("%"+(22-percent/5)+"s", "] ");
-			System.out.print(percent+"%\r");
+			System.out.printf(FileScannerLauncher.getProgressBar(percent, 5)+" %3d%%\r",percent);
+			//System.out.print(percent+"%\r");
+			//System.out.print(percent+"% Currently scanning: "+path+" \r");
 		}
 		//System.out.printf("%.2f%%\n", percentageDone);
 
