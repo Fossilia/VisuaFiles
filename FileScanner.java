@@ -1,18 +1,21 @@
 import java.nio.file.*;
 import java.io.IOException; 
 import java.io.File;
+import java.util.*;
 
 public class FileScanner{
 	private long size;
 	private int files;
 	private int folders;
 	private int percent;
+	private ArrayList<File> filesList = new ArrayList<File>();
 
 	public FileScanner(){
 		size = 0;
 		files = 0;
 		folders = 0;
 		percent = -1;
+
 	}
 
 	public void scanFolder(String path){
@@ -42,6 +45,7 @@ public class FileScanner{
 		String[] subDirs;
 		if(path.isFile()){
 			files++;
+			filesList.add(path);
 			size+=path.length();
 			if(path.length()>(1024*1024*1024)){ //shows files above 1 GB
 				//System.out.println(path+" : "+path.length()/(1024*1024)+" mb");
@@ -59,6 +63,16 @@ public class FileScanner{
 			//System.out.println(string);
 			item = new File(path+"/"+string+"/");
 			scanFolder(path, item, usedSpace);
+		}
+	}
+
+	public void sort(){
+		Collections.sort(filesList, new SortbySize());
+	}
+
+	public void printFiles(int num){
+		for(int i=0; i<num; i++){
+			System.out.println(filesList.get(i)+" size:"+filesList.get(i).length()/(1024.0*1024.0*1024.0));
 		}
 	}
 

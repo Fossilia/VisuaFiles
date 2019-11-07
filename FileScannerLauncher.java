@@ -30,27 +30,10 @@ public class FileScannerLauncher{
 		}
 		//fs.scanFolder("C:/Users/Faisal/Videos");
 		//fs.scanFolder(roots[input]);
-		fs.printSizeKB();
-		fs.printSizeMB();
-		fs.printSizeGB();
 		System.out.println("folders: "+fs.getNumberOfFolders());
 		System.out.println("files:   "+fs.getNumberOfFiles());
-
-		//fs.scanFolder(new File("C:/UW.pdf"));
-		//System.out.println(fs.getSize()/(1024.0*1024.0));
-		
-		/*
-		String[] subDirs;
-		File path = new File("C:/UW.pdf");
-		double result = path.length();
-		System.out.println(result/1024.0);
-
-		File root = new File("C:/");
-		subDirs = root.list();
-
-		for(String item : subDirs){
-			System.out.println(item);
-		}*/
+		//fs.sort();
+		fs.printFiles(10);
 	}
 
 	public static String getExtension(String s){
