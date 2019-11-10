@@ -33,6 +33,16 @@ public class ExtensionGroup{
 		size+=f.length();
 	}
 
+	public void sortFiles(){
+		Collections.sort(files, new SortbySize());
+	}
+
+	public void printFiles(int num){
+		for(int i=0; i<num; i++){
+			System.out.println(files.get(i).getName()+" size:"+FileScannerLauncher.convertSize(files.get(i).length()));
+		}
+	}
+
 	public void incCount(){
 		count++;
 	}

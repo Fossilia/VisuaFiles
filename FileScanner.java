@@ -103,7 +103,19 @@ public class FileScanner{
 			limit = extensionList.size();
 		}
 		for(int i=0; i<limit; i++){
+			extensionList.get(i).sortFiles();
 			System.out.println(extensionList.get(i).getName()+" count:"+extensionList.get(i).getCount()+" size:"+FileScannerLauncher.convertSize(extensionList.get(i).getSize()));
+			extensionList.get(i).printFiles(10);
+			/*ArrayList<File> groupFiles = extensionList.get(i).getFiles();
+			for(int k=0; i<10; k++){
+				System.out.println(groupFiles.get(i));
+			}*/
+		}
+	}
+
+	public void sortExtensionGroups(){
+		for(ExtensionGroup e: extensionList){
+			e.sortFiles();
 		}
 	}
 
