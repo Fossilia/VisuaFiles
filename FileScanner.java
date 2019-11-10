@@ -9,6 +9,7 @@ public class FileScanner{
 	private int folders;
 	private int percent;
 	private ArrayList<File> filesList = new ArrayList<File>();
+	private ArrayList<ExtensionGroup> extensionList = new ArrayList<ExtensionGroup>();
 
 	public FileScanner(){
 		size = 0;
@@ -45,7 +46,24 @@ public class FileScanner{
 		String[] subDirs;
 		if(path.isFile()){
 			files++;
-			filesList.add(path);
+			//Extension fileEx = getExtension(path);
+			if(getExtension(path)!=null){
+				boolean found = false;
+					for(ExtensionGroup e: extensionList){
+						//System.out.println(fileEx.getName()+" "+e.getName()+" "+e.getCount());
+						if(getExtension(path).equals(e.getName())){
+							e.addFile(path);
+							found = true;
+						}
+					}
+					if(found == false){
+						ExtensionGroup eg = new ExtensionGroup(getExtension(path));
+						eg.addFile(path);
+						extensionList.add(eg);
+						
+					}
+				found = false;
+			}
 			size+=path.length();
 			if(path.length()>(1024*1024*1024)){ //shows files above 1 GB
 				//System.out.println(path+" : "+path.length()/(1024*1024)+" mb");
@@ -73,6 +91,29 @@ public class FileScanner{
 	public void printFiles(int num){
 		for(int i=0; i<num; i++){
 			System.out.println(filesList.get(i)+" size:"+filesList.get(i).length()/(1024.0*1024.0*1024.0));
+		}
+	}
+
+	public void printExtensions(int num){
+		int limit = 0;
+		if(num<=extensionList.size()){
+			limit = num;
+		}
+		else{
+			limit = extensionList.size();
+		}
+		for(int i=0; i<limit; i++){
+			System.out.println(extensionList.get(i).getName()+" count:"+extensionList.get(i).getCount()+" size:"+FileScannerLauncher.convertSize(extensionList.get(i).getSize()));
+		}
+	}
+
+	public String getExtension(File f){
+		String path = f.getPath();
+		if(path.lastIndexOf(".")!=-1){
+			return path.substring(path.lastIndexOf(".")+1);
+		}
+		else{
+			return null;
 		}
 	}
 

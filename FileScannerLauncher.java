@@ -33,16 +33,7 @@ public class FileScannerLauncher{
 		System.out.println("folders: "+fs.getNumberOfFolders());
 		System.out.println("files:   "+fs.getNumberOfFiles());
 		//fs.sort();
-		fs.printFiles(10);
-	}
-
-	public static String getExtension(String s){
-		if(s.lastIndexOf(".")!=-1){
-			return s.substring(s.lastIndexOf(".")+1);
-		}
-		else{
-			return "error";
-		}
+		fs.printExtensions(10);
 	}
 
 	public static String getProgressBar(double percentage, int divider){
@@ -52,6 +43,25 @@ public class FileScannerLauncher{
 			}
 		pb+=String.format("%"+((100/divider+2)-percentage/5)+"s", "]");
 		return pb;
+	}
+
+	public static String convertSize(long s){
+		double size = (double)s;
+		if(size<1024){ //Byte range
+			return String.format("%.2f Bytes", size);
+		}
+		if(size>=1024 && size<1024*1024){ //kb range
+			return String.format("%.2f KB", size/(1024));
+		}
+		if(size>=1024*1024 && size<1024*1024*1024){ //mb range
+			return String.format("%.2f MB", size/(1024*1024));
+		}
+		if(size>=1024*1024*1024){ //kb range
+			return String.format("%.2f GB", size/(1024*1024*1024));
+		}
+		else{
+			return "";
+		}
 	}
 
 }
