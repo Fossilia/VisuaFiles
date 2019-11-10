@@ -34,7 +34,7 @@ public class ExtensionGroup{
 	}
 
 	public void sortFiles(){
-		Collections.sort(files, new SortbySize());
+		Collections.sort(files, new FileSortbySize());
 	}
 
 	public void printFiles(int num){

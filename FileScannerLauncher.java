@@ -33,6 +33,8 @@ public class FileScannerLauncher{
 		System.out.println("folders: "+fs.getNumberOfFolders());
 		System.out.println("files:   "+fs.getNumberOfFiles());
 		//fs.sort();
+		fs.sortExtensionGroups();
+		System.out.println("Total size: "+convertSize(fs.getSize()));
 		fs.printExtensions(10);
 	}
 
@@ -48,16 +50,16 @@ public class FileScannerLauncher{
 	public static String convertSize(long s){
 		double size = (double)s;
 		if(size<1024){ //Byte range
-			return String.format("%.2f Bytes", size);
+			return String.format("%5.0f %-5s", size, "Bytes");
 		}
 		if(size>=1024 && size<1024*1024){ //kb range
-			return String.format("%.2f KB", size/(1024));
+			return String.format("%5.2f %-5s", size/(1024), "KB");
 		}
 		if(size>=1024*1024 && size<1024*1024*1024){ //mb range
-			return String.format("%.2f MB", size/(1024*1024));
+			return String.format("%.2f %-5s", size/(1024*1024), "MB");
 		}
 		if(size>=1024*1024*1024){ //kb range
-			return String.format("%.2f GB", size/(1024*1024*1024));
+			return String.format("%5.2f %-5s", size/(1024*1024*1024), "GB");
 		}
 		else{
 			return "";

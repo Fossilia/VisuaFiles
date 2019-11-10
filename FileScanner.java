@@ -8,6 +8,7 @@ public class FileScanner{
 	private int files;
 	private int folders;
 	private int percent;
+	private File filePath;
 	private ArrayList<File> filesList = new ArrayList<File>();
 	private ArrayList<ExtensionGroup> extensionList = new ArrayList<ExtensionGroup>();
 
@@ -20,7 +21,7 @@ public class FileScanner{
 	}
 
 	public void scanFolder(String path){
-		File filePath = new File(path);
+		filePath = new File(path);
 		//System.out.println("0%");
 		double usedSpace = filePath.getTotalSpace()-filePath.getUsableSpace();
 		scanFolder(filePath, filePath, usedSpace);
@@ -85,7 +86,11 @@ public class FileScanner{
 	}
 
 	public void sort(){
-		Collections.sort(filesList, new SortbySize());
+		Collections.sort(filesList, new FileSortbySize());
+	}
+
+	public void sortExtensionGroups(){
+		Collections.sort(extensionList, new EGSortbySize());
 	}
 
 	public void printFiles(int num){
@@ -95,6 +100,7 @@ public class FileScanner{
 	}
 
 	public void printExtensions(int num){
+		Collections.sort(extensionList, new EGSortbySize());
 		int limit = 0;
 		if(num<=extensionList.size()){
 			limit = num;
@@ -103,9 +109,10 @@ public class FileScanner{
 			limit = extensionList.size();
 		}
 		for(int i=0; i<limit; i++){
+			double percent = ((double)extensionList.get(i).getSize()/(double)size)*100;
 			extensionList.get(i).sortFiles();
-			System.out.println(extensionList.get(i).getName()+" count:"+extensionList.get(i).getCount()+" size:"+FileScannerLauncher.convertSize(extensionList.get(i).getSize()));
-			extensionList.get(i).printFiles(10);
+			System.out.printf("%10s%10s count: %5d size: %s\n", extensionList.get(i).getName(), FileScannerLauncher.getProgressBar(percent, 5), extensionList.get(i).getCount(), FileScannerLauncher.convertSize(extensionList.get(i).getSize()));
+			//extensionList.get(i).printFiles(10);
 			/*ArrayList<File> groupFiles = extensionList.get(i).getFiles();
 			for(int k=0; i<10; k++){
 				System.out.println(groupFiles.get(i));
@@ -113,7 +120,7 @@ public class FileScanner{
 		}
 	}
 
-	public void sortExtensionGroups(){
+	public void sortExtensionGroupsFiles(){
 		for(ExtensionGroup e: extensionList){
 			e.sortFiles();
 		}
