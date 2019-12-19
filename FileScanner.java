@@ -38,7 +38,7 @@ public class FileScanner{
 		int newPercent = (int)percentageDone;
 		if(percent<newPercent && newPercent<=100){
 			percent = newPercent;
-			System.out.printf(FileScannerLauncher.getProgressBar(percent, 5)+" %3d%%\r",percent);
+			System.out.printf(VisuaFiles.getProgressBar(percent, 5)+" %3d%%\r",percent);
 			//System.out.print(percent+"%\r");
 			//System.out.print(percent+"% Currently scanning: "+path+" \r");
 		}
@@ -111,7 +111,7 @@ public class FileScanner{
 		for(int i=0; i<limit; i++){
 			double percent = ((double)extensionList.get(i).getSize()/(double)size)*100;
 			extensionList.get(i).sortFiles();
-			System.out.printf("%10s%10s count: %5d size: %s\n", extensionList.get(i).getName(), FileScannerLauncher.getProgressBar(percent, 5), extensionList.get(i).getCount(), FileScannerLauncher.convertSize(extensionList.get(i).getSize()));
+			System.out.printf("%10s%10s count: %5d size: %s\n", extensionList.get(i).getName(), VisuaFiles.getProgressBar(percent, 5), extensionList.get(i).getCount(), VisuaFiles.convertSize(extensionList.get(i).getSize()));
 			//extensionList.get(i).printFiles(10);
 			/*ArrayList<File> groupFiles = extensionList.get(i).getFiles();
 			for(int k=0; i<10; k++){
