@@ -4,6 +4,7 @@ import java.io.File;
 import java.util.*;
 
 public class FileScanner{
+	private VisuaFiles manager = null;
 	private long size;
 	private int files;
 	private int folders;
@@ -18,6 +19,14 @@ public class FileScanner{
 		folders = 0;
 		percent = -1;
 
+	}
+
+	public FileScanner(VisuaFiles manager){
+		this.manager = manager;
+		size = 0;
+		files = 0;
+		folders = 0;
+		percent = -1;
 	}
 
 	public void scanFolder(String path){
@@ -38,40 +47,38 @@ public class FileScanner{
 		int newPercent = (int)percentageDone;
 		if(percent<newPercent && newPercent<=100){
 			percent = newPercent;
-			System.out.printf(VisuaFiles.getProgressBar(percent, 5)+" %3d%%\r",percent);
+			System.out.printf(manager.getProgressBar(percent, 5)+" %3d%%\r",percent);
 			//System.out.print(percent+"%\r");
 			//System.out.print(percent+"% Currently scanning: "+path+" \r");
 		}
 		//System.out.printf("%.2f%%\n", percentageDone);
 
 		String[] subDirs;
-		if(path.isFile()){
+		if(path.isFile()){ //if what is being scanned is a file
 			files++;
 			//Extension fileEx = getExtension(path);
-			if(getExtension(path)!=null){
+			if(getExtension(path)!=null){ //if file has an extension
 				boolean found = false;
-					for(ExtensionGroup e: extensionList){
-						//System.out.println(fileEx.getName()+" "+e.getName()+" "+e.getCount());
-						if(getExtension(path).equals(e.getName())){
+					for(ExtensionGroup e: extensionList){ //go through groupd
+						//System.out.println(fileEx.getName()+" "+e.getName()+" "+e.getCount());		
+						if(getExtension(path).equals(e.getName())){ //if a match is found, add file to that group
 							e.addFile(path);
 							found = true;
 						}
 					}
-					if(found == false){
-						ExtensionGroup eg = new ExtensionGroup(getExtension(path));
-						eg.addFile(path);
-						extensionList.add(eg);
+					if(found == false){ //if matching file group was not found
+						ExtensionGroup eg = new ExtensionGroup(getExtension(path)); //create a new one
+						eg.addFile(path); //add file to file group
+						extensionList.add(eg); //add file group to file group group
 						
 					}
 				found = false;
 			}
 			size+=path.length();
-			if(path.length()>(1024*1024*1024)){ //shows files above 1 GB
-				//System.out.println(path+" : "+path.length()/(1024*1024)+" mb");
-			}
 			return;
 		}
 		//System.out.println(folder);
+		//at this point, file is a folder
 		folders++;
 		subDirs = path.list();
 		if(subDirs==null){ //checks if folder is empty
@@ -90,8 +97,15 @@ public class FileScanner{
 	}
 
 	public void sortExtensionGroups(){
+		manager.mergeSort(extensionList);
+		//Collections.sort(extensionList, new EGSortbySize());
+	}
+
+	public void sortExtensionGroups2(){
+		//mergeSort(extensionList);
 		Collections.sort(extensionList, new EGSortbySize());
 	}
+
 
 	public void printFiles(int num){
 		for(int i=0; i<num; i++){
@@ -100,7 +114,6 @@ public class FileScanner{
 	}
 
 	public void printExtensions(int num){
-		Collections.sort(extensionList, new EGSortbySize());
 		int limit = 0;
 		if(num<=extensionList.size()){
 			limit = num;
@@ -109,9 +122,9 @@ public class FileScanner{
 			limit = extensionList.size();
 		}
 		for(int i=0; i<limit; i++){
-			double percent = ((double)extensionList.get(i).getSize()/(double)size)*100;
-			extensionList.get(i).sortFiles();
-			System.out.printf("%10s%10s count: %5d size: %s\n", extensionList.get(i).getName(), VisuaFiles.getProgressBar(percent, 5), extensionList.get(i).getCount(), VisuaFiles.convertSize(extensionList.get(i).getSize()));
+			float percent = ((float)extensionList.get(i).getSize()/(float)size)*100;
+			//extensionList.get(i).sortFiles();
+			System.out.printf("%10s%10s count: %5d size: %s\n", extensionList.get(i).getName(), manager.getProgressBar(percent, 5), extensionList.get(i).getCount(), manager.convertSize(extensionList.get(i).getSize()));
 			//extensionList.get(i).printFiles(10);
 			/*ArrayList<File> groupFiles = extensionList.get(i).getFiles();
 			for(int k=0; i<10; k++){

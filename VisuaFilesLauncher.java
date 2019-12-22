@@ -1,6 +1,13 @@
+import java.io.*;
 
 public class VisuaFilesLauncher{
 	public static void main(String[]args){
 		VisuaFiles visuaFiles = new VisuaFiles();
-		visuaFiles.start();
+		try{
+			visuaFiles.start();
+		}
+		catch(IOException e){
+			System.out.println(e);
+		}
+	}
 }

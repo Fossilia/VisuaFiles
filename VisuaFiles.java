@@ -6,17 +6,21 @@ import java.io.File;
 public class VisuaFiles{
 	Scanner sc = null;
 	FileScanner fs = null;
+	File[] roots = null;
+	String time;
 
 	public VisuaFiles(){
 		sc = new Scanner(System.in);
-		fs = new FileScanner();
+		fs = new FileScanner(this);
 	}
 
 	public void start()throws IOException{
 		int input;
-
+		roots = File.listRoots();
 		printMenu();
-		input = getIntInput(0, File.listRoots().length);
+		input = getIntInput(0, roots.length);
+		long startTime;
+		long endTime;
 
 		if(input == 0){ //custom path
 			System.out.println("Input what path you want to scan:");
@@ -24,18 +28,23 @@ public class VisuaFiles{
 			fs.scanFolder(path);
 		}
 		else{ //scan root
+			startTime = System.currentTimeMillis();
 			fs.scanFolder(roots[input-1]);
+			endTime = System.currentTimeMillis();
+			time = String.format("%8d", endTime - startTime);
 		}
 		
 		printScannerOutput(fs);
 	}
 
 	public void printScannerOutput(FileScanner fs){
-		System.out.println("folders: "+fs.getNumberOfFolders());
-		System.out.println("files:   "+fs.getNumberOfFiles());
+		System.out.printf("Folders scanned: %8d\n", fs.getNumberOfFolders());
+		System.out.printf("  Files scanned: %8d\n", fs.getNumberOfFiles());
+		System.out.printf("     Total size: %8s\n", convertSize(fs.getSize()));
+		System.out.printf("      Scan time: "+time+"\n");
+		System.out.println("Sorting file groups...\r");
 		fs.sortExtensionGroups();
-		System.out.println("Total size: "+convertSize(fs.getSize()));
-		fs.printExtensions(10);
+		fs.printExtensions(20);
 		//fs.sort();
 	}
 
@@ -125,6 +134,30 @@ public class VisuaFiles{
 		else{
 			return "";
 		}
+	}
+
+	/** Merge two groups**/
+	public static void merge(ArrayList<ExtensionGroup> S1, ArrayList<ExtensionGroup> S2, ArrayList<ExtensionGroup> S) {
+		int i = 0, j = 0;
+		while (i + j < S.size()) {
+			if (j == S2.size() || (i < S1.size() && (S1.get(i).getSize()-S2.get(j).getSize())>0))
+				S.set(i + j, S1.get(i++));
+			else
+				S.set(i + j, S2.get(j++));
+		}
+	}
+
+	public static void mergeSort(ArrayList<ExtensionGroup> S) {
+		int n = S.size();
+		if (n < 2)
+			return;
+		int mid = n / 2;
+		// partition the string into two strings
+		ArrayList<ExtensionGroup> S1 = new ArrayList<ExtensionGroup>(S.subList(0, mid));
+		ArrayList<ExtensionGroup> S2 = new ArrayList<ExtensionGroup>(S.subList(mid, n));
+		mergeSort(S1);
+		mergeSort(S2);
+		merge(S1, S2, S);
 	}
 
 }
