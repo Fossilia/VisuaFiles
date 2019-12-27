@@ -141,7 +141,7 @@ public class VisuaFiles{
 	}
 
 	/** Merge two groups**/
-	public static void merge(ArrayList<ExtensionGroup> S1, ArrayList<ExtensionGroup> S2, ArrayList<ExtensionGroup> S) {
+	public static void merge(ArrayList<Group> S1, ArrayList<Group> S2, ArrayList<Group> S) {
 		int i = 0, j = 0;
 		while (i + j < S.size()) {
 			if (j == S2.size() || (i < S1.size() && (S1.get(i).getSize()-S2.get(j).getSize())>0))
@@ -151,14 +151,14 @@ public class VisuaFiles{
 		}
 	}
 
-	public static void mergeSort(ArrayList<ExtensionGroup> S) {
+	public static void mergeSort(ArrayList<Group> S) {
 		int n = S.size();
 		if (n < 2)
 			return;
 		int mid = n / 2;
 		// partition the string into two strings
-		ArrayList<ExtensionGroup> S1 = new ArrayList<ExtensionGroup>(S.subList(0, mid));
-		ArrayList<ExtensionGroup> S2 = new ArrayList<ExtensionGroup>(S.subList(mid, n));
+		ArrayList<Group> S1 = new ArrayList<Group>(S.subList(0, mid));
+		ArrayList<Group> S2 = new ArrayList<Group>(S.subList(mid, n));
 		mergeSort(S1);
 		mergeSort(S2);
 		merge(S1, S2, S);

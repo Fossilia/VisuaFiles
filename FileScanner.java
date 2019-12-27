@@ -11,8 +11,8 @@ public class FileScanner implements Global{
 	private int percent;
 	private File filePath;
 	private ArrayList<File> filesList = new ArrayList<File>();
-	private ArrayList<ExtensionGroup> extensionList = new ArrayList<ExtensionGroup>();
-	private HashMap<String, ExtensionGroup> extensionListHash = new HashMap<String, ExtensionGroup>();
+	private ArrayList<Group> extensionList = new ArrayList<Group>();
+	private HashMap<String, Group> extensionListHash = new HashMap<String, Group>();
 
 	public FileScanner(){
 		size = 0;
@@ -66,14 +66,14 @@ public class FileScanner implements Global{
 						extensionListHash.get(getExtension(path)).addFile(path);
 					}
 					else{
-						ExtensionGroup eg = new ExtensionGroup(getExtension(path)); //create a new one
+						Group eg = new ExtensionGroup(getExtension(path)); //create a new one
 						eg.addFile(path); //add file to file group
 						extensionListHash.put(getExtension(path), eg);
 					}
 				}
 				else{
 					boolean found = false;
-					for(ExtensionGroup e: extensionList){ //go through groupd
+					for(Group e: extensionList){ //go through groupd
 						//System.out.println(fileEx.getName()+" "+e.getName()+" "+e.getCount());		
 						if(getExtension(path).equals(e.getName())){ //if a match is found, add file to that group
 							e.addFile(path);
@@ -81,7 +81,7 @@ public class FileScanner implements Global{
 						}
 					}
 					if(found == false){ //if matching file group was not found
-						ExtensionGroup eg = new ExtensionGroup(getExtension(path)); //create a new one
+						Group eg = new ExtensionGroup(getExtension(path)); //create a new one
 						eg.addFile(path); //add file to file group
 						extensionList.add(eg); //add file group to file group group
 						
@@ -108,12 +108,11 @@ public class FileScanner implements Global{
 	}
 
 	public void sort(){
-		
 		Collections.sort(filesList, new FileSortbySize());
 	}
 
 	public void sortExtensionGroups(){
-		if(HashImp) extensionList = new ArrayList<ExtensionGroup>(extensionListHash.values());
+		if(HashImp) extensionList = new ArrayList<Group>(extensionListHash.values());
 		manager.mergeSort(extensionList);
 		//Collections.sort(extensionList, new GroupSortbySize());
 	}
@@ -125,10 +124,7 @@ public class FileScanner implements Global{
 	}
 
 	public void printExtensions(int num){
-		//System.out.println(extensionListHash);
 		int limit = 0;
-		//extensionListHash.get("mkv").sortFiles();\	
-		//extensionListHash.get("mkv").printFiles(20);
 		if(num<=extensionList.size()){
 			limit = num;
 		}
@@ -148,7 +144,7 @@ public class FileScanner implements Global{
 	}
 
 	public void sortExtensionGroupsFiles(){
-		for(ExtensionGroup e: extensionList){
+		for(Group e: extensionList){
 			e.sortFiles();
 		}
 	}
