@@ -11,9 +11,9 @@ public class FileGroup extends Group{
 		super(name);
 	}
 
-	public void addGroup(ExtensionGroup e){
+	public void addGroup(Group e){
 		files.addAll(e.getFiles());
 		size+=e.getSize();
-		groups.add(e);
+		groups.add((ExtensionGroup)e);
 	}
 }

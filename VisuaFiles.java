@@ -48,6 +48,8 @@ public class VisuaFiles{
 		System.out.printf("  Files scanned: %-8d\n", fs.getNumberOfFiles());
 		System.out.printf("     Total size: %-8s\n", convertSize(fs.getSize()));
 		System.out.printf("      Scan time: "+time+"\n\n");
+		fs.createGroups();
+		fs.printFileGroups(20);
 		fs.printExtensions(20);
 		//fs.sort();
 	}

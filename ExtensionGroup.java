@@ -9,4 +9,12 @@ public class ExtensionGroup extends Group{
 	public ExtensionGroup(String name){
 		super(name);
 	}
+
+	public void setDesc(String desc){
+		this.desc = desc;
+	}
+
+	public String getDesc(){
+		return desc;
+	}
 }

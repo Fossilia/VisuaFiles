@@ -11,6 +11,7 @@ public class FileScanner implements Global{
 	private int percent;
 	private File filePath;
 	private ArrayList<File> filesList = new ArrayList<File>();
+	private ArrayList<Group> groupList = new ArrayList<Group>();
 	private ArrayList<Group> extensionList = new ArrayList<Group>();
 	private HashMap<String, Group> extensionListHash = new HashMap<String, Group>();
 
@@ -28,8 +29,6 @@ public class FileScanner implements Global{
 		files = 0;
 		folders = 0;
 		percent = -1;
-
-		//extensionList = (ArrayList<ExtensionGroup>)extensionListHash.values();
 	}
 
 	public void scanFolder(String path){
@@ -142,6 +141,31 @@ public class FileScanner implements Global{
 			}*/
 		}
 	}
+
+	public void createGroups(){
+		FileGroup videoGroup = new FileGroup("Video files");
+		for(Group e: extensionList){
+			if(e.getName().equals("mkv") || e.getName().equals("mp4") || e.getName().equals("webm")){
+				videoGroup.addGroup(e);
+			}
+		}
+		groupList.add(videoGroup);
+	}
+
+	public void printFileGroups(int num){
+		int limit = 0;
+		if(num<=groupList.size()){
+			limit = num;
+		}
+		else{
+			limit = groupList.size();
+		}
+		for(int i=0; i<limit; i++){
+			double percent = ((double)groupList.get(i).getSize()/(double)size)*100;
+			System.out.printf("%10s%10s count: %5d percent: %5.2f%% size: %s\n", groupList.get(i).getName(), manager.getProgressBar(percent, 5), groupList.get(i).getCount(), percent, manager.convertSize(groupList.get(i).getSize()));
+		}
+	}
+
 
 	public void sortExtensionGroupsFiles(){
 		for(Group e: extensionList){
