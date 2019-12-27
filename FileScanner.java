@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.File;
 import java.util.*;
 
-public class FileScanner{
+public class FileScanner implements Global{
 	private VisuaFiles manager = null;
 	private long size;
 	private int files;
@@ -12,6 +12,7 @@ public class FileScanner{
 	private File filePath;
 	private ArrayList<File> filesList = new ArrayList<File>();
 	private ArrayList<ExtensionGroup> extensionList = new ArrayList<ExtensionGroup>();
+	private HashMap<String, ExtensionGroup> extensionListHash = new HashMap<String, ExtensionGroup>();
 
 	public FileScanner(){
 		size = 0;
@@ -27,6 +28,8 @@ public class FileScanner{
 		files = 0;
 		folders = 0;
 		percent = -1;
+
+		//extensionList = (ArrayList<ExtensionGroup>)extensionListHash.values();
 	}
 
 	public void scanFolder(String path){
@@ -47,7 +50,7 @@ public class FileScanner{
 		int newPercent = (int)percentageDone;
 		if(percent<newPercent && newPercent<=100){
 			percent = newPercent;
-			System.out.printf(manager.getProgressBar(percent, 5)+" %3d%%\r",percent);
+			System.out.printf("%s %3d%%\r",manager.getProgressBar(percent, 5), percent);
 			//System.out.print(percent+"%\r");
 			//System.out.print(percent+"% Currently scanning: "+path+" \r");
 		}
@@ -58,7 +61,18 @@ public class FileScanner{
 			files++;
 			//Extension fileEx = getExtension(path);
 			if(getExtension(path)!=null){ //if file has an extension
-				boolean found = false;
+				if(HashImp){
+					if(extensionListHash.containsKey(getExtension(path))){
+						extensionListHash.get(getExtension(path)).addFile(path);
+					}
+					else{
+						ExtensionGroup eg = new ExtensionGroup(getExtension(path)); //create a new one
+						eg.addFile(path); //add file to file group
+						extensionListHash.put(getExtension(path), eg);
+					}
+				}
+				else{
+					boolean found = false;
 					for(ExtensionGroup e: extensionList){ //go through groupd
 						//System.out.println(fileEx.getName()+" "+e.getName()+" "+e.getCount());		
 						if(getExtension(path).equals(e.getName())){ //if a match is found, add file to that group
@@ -72,7 +86,8 @@ public class FileScanner{
 						extensionList.add(eg); //add file group to file group group
 						
 					}
-				found = false;
+					found = false;
+				}	
 			}
 			size+=path.length();
 			return;
@@ -93,19 +108,15 @@ public class FileScanner{
 	}
 
 	public void sort(){
+		
 		Collections.sort(filesList, new FileSortbySize());
 	}
 
 	public void sortExtensionGroups(){
+		if(HashImp) extensionList = new ArrayList<ExtensionGroup>(extensionListHash.values());
 		manager.mergeSort(extensionList);
-		//Collections.sort(extensionList, new EGSortbySize());
+		//Collections.sort(extensionList, new GroupSortbySize());
 	}
-
-	public void sortExtensionGroups2(){
-		//mergeSort(extensionList);
-		Collections.sort(extensionList, new EGSortbySize());
-	}
-
 
 	public void printFiles(int num){
 		for(int i=0; i<num; i++){
@@ -114,7 +125,10 @@ public class FileScanner{
 	}
 
 	public void printExtensions(int num){
+		//System.out.println(extensionListHash);
 		int limit = 0;
+		//extensionListHash.get("mkv").sortFiles();\	
+		//extensionListHash.get("mkv").printFiles(20);
 		if(num<=extensionList.size()){
 			limit = num;
 		}
@@ -122,9 +136,9 @@ public class FileScanner{
 			limit = extensionList.size();
 		}
 		for(int i=0; i<limit; i++){
-			float percent = ((float)extensionList.get(i).getSize()/(float)size)*100;
+			double percent = ((double)extensionList.get(i).getSize()/(double)size)*100;
 			//extensionList.get(i).sortFiles();
-			System.out.printf("%10s%10s count: %5d size: %s\n", extensionList.get(i).getName(), manager.getProgressBar(percent, 5), extensionList.get(i).getCount(), manager.convertSize(extensionList.get(i).getSize()));
+			System.out.printf("%10s%10s count: %5d percent: %5.2f%% size: %s\n", extensionList.get(i).getName(), manager.getProgressBar(percent, 5), extensionList.get(i).getCount(), percent, manager.convertSize(extensionList.get(i).getSize()));
 			//extensionList.get(i).printFiles(10);
 			/*ArrayList<File> groupFiles = extensionList.get(i).getFiles();
 			for(int k=0; i<10; k++){
@@ -160,19 +174,5 @@ public class FileScanner{
 	public long getSize(){
 		return size;
 	}
-
-	public void printSizeKB(){
-		System.out.printf("%.2f KB\n", size/(1024.0));
-	}
-
-	public void printSizeMB(){
-		System.out.printf("%.2f MB\n", size/(1024.0*1024.0));
-	}
-
-	public void printSizeGB(){
-		System.out.printf("%.2f GB\n", size/(1024.0*1024.0*1024.0));
-	}
-
-	//catch(Exception e){return;}
 
 }

@@ -25,25 +25,29 @@ public class VisuaFiles{
 		if(input == 0){ //custom path
 			System.out.println("Input what path you want to scan:");
 			String path = getStringInput();
+			startTime = System.currentTimeMillis();
 			fs.scanFolder(path);
+			endTime = System.currentTimeMillis();
+			time = String.format("%-10d", endTime - startTime);
 		}
 		else{ //scan root
 			startTime = System.currentTimeMillis();
 			fs.scanFolder(roots[input-1]);
 			endTime = System.currentTimeMillis();
-			time = String.format("%8d", endTime - startTime);
+			time = String.format("%-10d", endTime - startTime);
 		}
+
+		System.out.printf("Sorting file groups...\r");
+		fs.sortExtensionGroups();
 		
 		printScannerOutput(fs);
 	}
 
 	public void printScannerOutput(FileScanner fs){
-		System.out.printf("Folders scanned: %8d\n", fs.getNumberOfFolders());
-		System.out.printf("  Files scanned: %8d\n", fs.getNumberOfFiles());
-		System.out.printf("     Total size: %8s\n", convertSize(fs.getSize()));
-		System.out.printf("      Scan time: "+time+"\n");
-		System.out.println("Sorting file groups...\r");
-		fs.sortExtensionGroups();
+		System.out.printf("Folders scanned: %-8d\n", fs.getNumberOfFolders());
+		System.out.printf("  Files scanned: %-8d\n", fs.getNumberOfFiles());
+		System.out.printf("     Total size: %-8s\n", convertSize(fs.getSize()));
+		System.out.printf("      Scan time: "+time+"\n\n");
 		fs.printExtensions(20);
 		//fs.sort();
 	}
@@ -113,7 +117,7 @@ public class VisuaFiles{
 		for(int i=0; i<(int)percentage/divider; i++){
 				pb+="#";
 			}
-		pb+=String.format("%"+((100/divider+2)-percentage/5)+"s", "]");
+		pb+=String.format("%"+((100/divider+2)-percentage/divider)+"s", "]");
 		return pb;
 	}
 
