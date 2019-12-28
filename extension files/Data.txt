@@ -1,0 +1,500 @@
+3DR	3DMark Results File	
+4DV	4D View Ultrasound File	
+AAM	Authorware Map File	
+AB3	PhotoImpact 3 Album File	
+ABCD	AudioVisual Book Data File	
+ABP	AVS Barcode Profile	
+ABY	AOL Address Book File	
+ACC	Graphics Accounts Data File	
+ADCP	Adobe Device Central Project File	
+ADT	ACT! Document Template	
+ADX	Approach Index File	
+AFT	Ancestrycom Family Tree Database	
+AIFB	AIF Builder Project File	
+ALD	Dynamics AX Application Label Data File	
+ALI	Dynamics AX Label Index File	
+ANME	Anime Studio Document	
+AW	Answer Wizard File	
+BCI	Belarc Advisor Report File	
+BCM	Business Contact Manager File	
+BDIC	Chrome Dictionary File	
+BGL	Babylon Glossary File	
+BGT	Graphics Accounts Data File	
+BIN	Generic Binary File	
+BJO	TabRite Tablature File	
+BK	FrameMaker Book File	
+BLB	Blob Data File	
+BLD	Envisioneer Building Project File	
+BLG	Windows Binary Performance Log File	
+BOX	E-mail Mailbox	
+BRW	Calyx Point Borrower File	
+BTM	BizTalk Map File	
+BVP	VodaHost BlueVoda Project File	
+CAP	Packet Capture File	
+CAPT	Capito Data File	
+CDF	Common Data Format	
+CDX	ChemDraw Exchange File	
+CDX	Compound Index File	
+CEL	Affymetrix Probe Results File	
+CELTX	Celtx Project File	
+CKT	CircuitMaker File	
+CLM	MagicJack Call Log File	
+CLP	CrazyTalk Clip File	
+CMA	Coach Activity File	
+CNA	Catena Project File	
+CONTACT	Windows Contact File	
+CRTX	Office 2007 Chart Template File	
+CSA	PNA Code Calset File	
+CSV	Comma Separated Values File	
+CTF	WhereIsIt Catalog File	
+CUB	Analysis Services Cube File	
+CVD	ClamAV Virus Definitions File	
+CVN	CineVision Encoding Session	
+DAL	DVD-lab Project File	
+DAM	DeltaMaster Analysis Model	
+DAS	DeltaMaster Analysis Session	
+DAT	Data File	
+DBD	DemoShield Project	
+DCF	Document Computation Format	
+DCM	DiskCatalogMaker Catalog File	
+DCMD	DiskCatalogMaker Thumbnail-Enabled Catalog	
+DDC	DivX Descriptor File	
+DDCX	DivX Descriptor 2 File	
+DIF	Data Interchange Format	
+DII	Summation Batch Load File	
+DM2	Toad Data Modeler 2 File	
+DMSP	PhotoSuite Project File	
+DOCKZIP	ObjectDock File	
+DRL	Gerber Drill Rack File	
+DSB	Wondershare DVD Slideshow Builder Project	
+DSY	Directory Synchronizer Project File	
+DSZ	Orchida (OES) Embroidery File	
+DVDPROJ	iDVD Project File	
+DVO	Cook'n Cookbook File	
+DWI	Dance With Intensity Song File	
+EBUILD	Portage eBuild Script	
+EDI	Electronic Data Interchange File	
+EFX	eFax Document	
+EGP	Easy Grade Pro Gradebook File	
+EMB	Wilcom Embroidery Design File	
+EMLXPART	Mail Message Attachment	
+ENEX	Evernote Archive	
+ENL	EndNote Library	
+EPW	EnergyPlus Weather Data File	
+ER1	ERWin Entity Relationship Diagram	
+ESX	Xactimate Insurance Claims Estimate	
+EV	Echoview File	
+EXIF	Exchangeable Image Information File	
+EXP	Export File	
+EXX	IBM Linkway MsgPut File	
+FCPEVENT	Final Cut Pro Event File	
+FCS	Flow Cytometry Standard File	
+FDB	Portfolio Catalog	
+FDB	Art Explosion Catalog	
+FFWP	FormsForWeb Packet	
+FHC	FHC Data File	
+FIL	Files List Object File	
+FLO	iGrafx FlowCharter File	
+FLP	ActivPrimary Flipchart File	
+FMAT	FMAT Runfile	
+FMC	FormConnect Form File	
+FOB	Dynamics NAV Object Container File	
+FOP	InfoZoom Protected Data File	
+FOX	InfoZoom Data File	
+FRO	dBASE IV Compiled Report	
+FSC	Practical Scriptwriter File	
+FTW	Family Tree Maker File	
+FXP	Adobe Flex Project File	
+GAN	GanttProject Project File	
+GBR	Gerber File	
+GC	GraphClick File	
+GCW	Microsoft Mathematics Worksheet	
+GDT	gretl Datafile	
+GED	GEDCOM Genealogy Data File	
+GEDCOM	GEDCOM Genealogy File	
+GGB	GeoGebra Document	
+GNO	GenoPro Genealogy Tree File	
+GPI	Garmin Point of Interest File	
+GRADE	GradeStat Document	
+GRF	DPlot Graph File	
+GRK	Gradekeeper Class Gradebook File	
+GRR	Gradekeeper Class Roster File	
+GRV	Office Groove File	
+GS	GemStone Document	
+GTP	Guitar Pro File	
+GWK	GraphiCode PCB Job File	
+H12	At Home Canada 2012 Tax Return	
+H13	H&R Block Canada 2013 Tax Return	
+H17	H&R Block Canada 2017 Tax Return	
+HCE	HydroCAD Hydrograph Data File	
+HCI	HydroCAD IDF Data File	
+HCR	HydroCAD Rainfall Curve Data File	
+HDA	HotDocs Auto-Assemble File	
+HDF	Hierarchical Data Format File	
+HL	HeuristicLab Storage File	
+HML	HostMonitor TestList File	
+HST	History File	
+HUH	HydroCAD Unit Hydrograph Definitions File	
+HYV	Team Manager Meet Event File	
+I5Z	IUCLID 5 Import/Export File	
+IBA	iBooks Author Document	
+ID2	Windows Live Messenger Emoticon File	
+IDX	HMI Historical Log Index File	
+IDX	Navigation POI File	
+IGC	Anime List Builder Input File	
+II	IconWorkshop Extended Information File	
+IIF	Intuit Interchange Format File	
+IMA	Sage ACT! Email Message	
+IMT	My Time Data File	
+IN	Input File	
+INK	Mimio Ink Data File	
+INP	Abaqus Input File	
+INX	Compiled Script	
+IP	IconPackager Theme File	
+ISF	Inspiration Flowchart Document	
+ITL	iTunes Library File	
+ITM	iThink Model File	
+ITMSP	iTunes Store Package	
+ITX	ITX Form Template	
+IVT	Beyond 20/20 Table File	
+IXB	Ulead Disc Image	
+JASPER	JasperReports Data File	
+JDB	Symantec Endpoint Protection Update File	
+JEF	Janome Embroidery Format	
+JNT	Windows Journal File	
+JOINED	HJ-Split Data File	
+JPH	JProbe Memory Snapshot	
+JRPRINT	JasperReports Print File	
+JRXML	JasperReports Layout File	
+KAP	BSB Chart Image File	
+KDC	Kaspersky Virus Database File	
+KEY	Keynote Presentation	
+KEYCHAIN	Mac OS X Keychain File	
+KID	Kidspiration Document	
+KISMAC	KisMAC Webservice File	
+KPF	Komodo Project File	
+KPP	Kid Pix Presentation	
+KPR	KPresenter Presentation	
+KPX	Kid Pix Picture	
+KPZ	Komodo Template File	
+KTH	Keynote Theme	
+L6T	Line 6 Tone File	
+LBL	NiceLabel Template File	
+LCM	Lipikar Custom Map File	
+LDIF	LDAP Data Interchange Format File	
+LGH	HMI Historical Log File	
+LGI	Multimedia Logic File	
+LIB	Generic Data Library	
+LIVEUPDATE	Symantec LiveUpdate File	
+LIX	Logos Library System File	
+LIX	ExtendSim Simulation Software Library	
+LMS	LenMus Score File	
+LMX	Landmark Exchange File	
+LP7	LP7 Digitally Signed File	
+LSF	Logos Library System File	
+LSL	LightScribe Label	
+LVM	LabVIEW Measurement File	
+M	Mathematica Input File	
+MAI	Microsoft Mail File	
+MAT	MATLAB MAT-File	
+MBG	Mailbag Assistant Mailbox File	
+MBG	Microsoft Mailbag	
+MBX	Outlook Express Mailbox	
+MCD	Mathcad Document	
+MCDX	Mathcad Prime Document	
+MDC	Multi Dimension Cube File	
+MDF	Measurement Data Format File	
+MDJ	StarUML Model File	
+MDL	MathWorks Simulink Model	
+MDL	Rational Rose Model File	
+MDM	HLM Multivariate Data Matrix File	
+MDSX	MEGA Saved Session	
+MDX	Multiple Index File	
+MENC	Windows Mobile Encrypted File	
+MET	eMule Resource File	
+MEX	Macro Express File	
+MFO	Perl ModInfo Descriptor File	
+MJK	Question File	
+MLS	Milestones Simplicity File	
+MMAP	MindManager Map File	
+MMC	Microsoft Media Catalog	
+MMF	Meal-Master Recipe File	
+MMP	MindManager Mind Map	
+MMP	Master Album Maker Project	
+MNC	My Notes Center Notebook	
+MNO	Macromedia Design Note	
+MOHO	Moho Animation Project	
+MOSAIC	MacOSaiX Mosaic File	
+MOX	ExtendSim Simulation Software Model	
+MPH	Photostory Deluxe Project	
+MPKT	MOPEKS Trial File	
+MPP	Microsoft Project File	
+MPX	Microsoft Project Exchange File	
+MTH	Derive Math File	
+MTW	Minitab Worksheet File	
+MW	Maple Worksheet	
+MWF	MapGuide Author Map Window File	
+MWS	Maple Classic Worksheet	
+MYI	MySQL MyISAM Index File	
+NBP	Mathematica Player Notebook File	
+NCORX	Adobe Encore Project	
+NDK	Lotus Notes Design Elements File	
+NDX	dBASE Index File	
+NET	netViz Project File	
+NITF	National Imagery Transmission Format File	
+NOT	Notation File	
+NOTEBOOK	SMART Notebook File	
+NP	Portfolio NetPublish File	
+NPL	Nokia Playlist File	
+NPT	Portfolio NetPublish Template	
+NRL	Autonomy Interwoven Link File	
+OBJ	Relocatable Object Code	
+ODP	OpenDocument Presentation	
+ODX	BizTalk Server Orchestration File	
+OEACCOUNT	Windows Mail Account File	
+OFC	Open Financial Connectivity File	
+OFT	Outlook File Template	
+OFX	Open Financial Exchange File	
+OMP	Office Manager Document Archive	
+OND	Lotus Notes Encapsulated Memo File	
+ONE	OneNote Document	
+OO3	OmniOutliner 3 File	
+OPJU	Origin Unicode Project	
+OPX	OrgPlus Org Chart	
+OPX	FlipAlbum Photo Album File	
+OTLN	Opal Outline File	
+OTP	OpenDocument Presentation Template	
+OUT	Output File	
+OVA	Open Virtual Appliance	
+OVF	Open Virtualization File	
+PAF	Personal Ancestral File	
+PCAPNG	Pcap-NG Packet Capture File	
+PCB	Printed Circuit Board Design File	
+PCR	PCMark Vantage Benchmark File	
+PD4	Windows Live Photo Gallery Information File	
+PD5	Windows Live Photo Gallery Information File	
+PDAS	PDAStore Data Store File	
+PDB	Protein Data Bank File	
+PDS	Planetary Data System File	
+PDX	Adobe Acrobat Index File	
+PDX	Product Data eXchange File	
+PFC	AOL Personal File Cabinet	
+PHB	Motorola Phone Book File	
+PHM	Pro Home Manager Data File	
+PHOTOSLIBRARY	Photos Library	
+PJ2	xPlan Document	
+PJM	xPlan Model	
+PKA	Packet Tracer Activity File	
+PKB	Oracle Package Body File	
+PKH	Oracle Package File	
+PKS	Oracle Package Spec File	
+PKT	Packet Tracer Network Simulation Model	
+PLW	PicoLog Data File	
+PMO	Broderbund Print Meta Object File	
+POD	OpenProj Project File	
+POI	Magellan Maestro Point of Interest File	
+POTM	PowerPoint Open XML Macro-Enabled Presentation Template	
+POTX	PowerPoint Open XML Presentation Template	
+PPF	Edgecam Pathtrace Part File	
+PPF	Transit NXT Pack Project File	
+PPS	PowerPoint Slide Show	
+PPSM	PowerPoint Open XML Macro-Enabled Slide Show	
+PPSX	PowerPoint Open XML Slide Show	
+PPT	PowerPoint Presentation	
+PPTM	PowerPoint Open XML Macro-Enabled Presentation	
+PPTX	PowerPoint Open XML Presentation	
+PRDX	Presentations Document	
+PRJ	Project File	
+PRJ	AIMMS Project File	
+PRO5PLX	ProPresenter 5 Playlist Bundle	
+PRS	Harvard Graphics Presentation	
+PST	Outlook Personal Information Store File	
+PTB	Power Tab File	
+PTF	Scrapbook Flair Template	
+PTN	PaperPort Thumbnail File	
+PTZ	E-Transcript Bundle File	
+PXF	Transit XV Pack Project File	
+PXL	Pocket Excel File	
+Q08	QuickTax 2008 Tax Return	
+Q09	QuickTax 2009 Tax Return	
+QB2009	QuickBooks 2009 File	
+QB2011	QuickBooks 2011 File	
+QB2012	QuickBooks 2012 File	
+QB2013	QuickBooks 2013 File	
+QB2014	QuickBooks 2014 File	
+QB2017	QuickBooks 2017 for Mac Data File	
+QBW	QuickBooks Data File	
+QDF	Quicken Data File	
+QFX	Quicken Financial Exchange File	
+QIF	Quicken Interchange Format File	
+QMBL	LabQuest Document	
+QMTF	Quicken Mac Transfer File	
+QPB	QuickBooks Point of Sale Data File	
+QRP	QuickReport File	
+QUICKEN2015	Quicken 2015 Data File	
+QUICKEN2017	Quicken 2017 Data File	
+QUICKENDATA	Quicken Essentials for Mac Data File	
+QVW	QlikView Document	
+RAL	WinRail Track Design File	
+RBT	LEGO MINDSTORMS NXT Program	
+RCG	Recog Character Recognition Set	
+RDB	N64 ROM Database	
+RFA	Revit Family File	
+RFO	RoboForm Option File	
+RGO	RepliGo File	
+RNQ	Renque Model File	
+ROADTRIP	Road Trip Planner File	
+ROD	Actuate Report Object Design File	
+RODZ	Ancestry Genealogical Database File	
+ROU	Gerber Route File	
+ROX	Roxio Project File	
+RP	Axure RP Project File	
+RPP	REAPER Project File	
+RPT	Crystal Reports File	
+RSC	Symbian Application Compiled Resource File	
+RTE	Revit Project Template	
+RTE	Navigation Route	
+RVT	Revit Project File	
+SAV	SPSS Data File	
+SC45	SuperCard Project File	
+SCA	Norton AntiVirus Scan File	
+SCD	TurboTax Tax Schedule List	
+SDF	Standard Data File	
+SDF	Structure Data File	
+SDP	Session Description Protocol File	
+SDS	OpenOfficeorg Chart	
+SEN	SenTest Data File	
+SEO	SEO Note File	
+SGML	Standard Generalized Markup Language File	
+SHW	Corel Presentation	
+SLE	Sisulizer Package File	
+SLK	Symbolic Link File	
+SLP	Sisulizer Project File	
+SLX	MathWorks Simulink Model File	
+SNAG	SnagIt Capture File	
+SNAPFIRESHOW	Corel SnapfireShow File	
+SPS	SPSS Program File	
+SPUB	Disc Cover File	
+SPV	SPSS Output Document	
+SQ	Sysquake Program	
+SQD	SQ Data File	
+SQR	SQL Program File	
+STA	ABAQUS Status File	
+STM	Exchange Streaming Media File	
+STP	Analysis Studio Project Information File	
+STYK	Stykz Stick Figure	
+STYKZ	Stykz Animation	
+SUB	Subtitle File	
+SVF	Serial Vector Format File	
+SWK	StudyWorks Save File	
+T05	TaxCut 2005 Tax Return	
+T06	TaxCut 2006 Tax Return	
+T07	TaxCut 2007 Tax Return	
+T08	TaxCut 2008 Tax Return	
+T09	At Home 2009 Tax Return	
+T10	At Home 2010 Tax Return	
+T11	At Home 2011 Tax Return	
+T12	At Home 2012 Tax Return	
+T13	H&R Block 2013 Tax Return	
+T16	H&R Block 2016 Tax Return	
+T18	H&R Block 2018 Tax Return	
+TA8	TaxAct 2018 Tax Return File	
+TAR	Consolidated Unix File Archive	
+TAX2009	TurboTax 2009 Tax Return	
+TAX2010	TurboTax 2010 Tax Return	
+TAX2011	TurboTax 2011 Tax Return	
+TAX2013	TurboTax 2013 Tax Return	
+TAX2015	TurboTax 2015 Tax Return	
+TAX2016	TurboTax 2016 Tax Return	
+TAX2017	TurboTax 2017 Tax Return	
+TAX2018	TurboTax 2018 Tax Return	
+TAX2019	TurboTax 2019 Tax Return	
+TB	Tabbery Tab File	
+TBK	ToolBook File	
+TBL	StarCraft Information Table	
+TCC	TimeCalc Classic Data File	
+TCX	Training Center XML File	
+TDB	Android Thumbnail Cache	
+TDL	Tab Delineated Format File	
+TDM	LabVIEW Binary Measurement File	
+TDT	THOR Data Tree File	
+TE3	WinTrack Object File	
+TEF	TablEdit Tablature	
+TET	Textease CT Template	
+TFA	TreeSoft CashFlow Analysis Data File	
+TKFL	TKLinks Saver Favorite Links File	
+TMX	Translation Memory Exchange File	
+TOPC	TopicCrunch Project File	
+TPB	GROMACS Binary Input File	
+TPF	Transit NXT Pack Translation File	
+TRA	WinTrack Railroad Track File	
+TRD	TrID Definitions Package	
+TRK	CompeGPS Land Track File	
+TRS	Rosetta Stone Language Data File	
+TRS	WinTrack Railroad Track Text File	
+TST	TestPoint Test File	
+TSV	Tab Separated Values File	
+TT10	TurboTax Canada 2010 Tax Return	
+TT12	TurboTax Canada 2012 Tax Return	
+TT13	TurboTax Canada 2013 Tax Return	
+TT18	TurboTax Canada 2018 Tax Return	
+TTK	Catalyst Translation Toolkit	
+TWB	Tableau Workbook File	
+TWH	Task Wheel Project File	
+TXD	Game Texture Dictionary	
+TXF	Tax Exchange Format	
+U10	UFile 2010 Tax Return	
+UCCAPILOG	Microsoft UCC API Log File	
+ULF	Universal List File	
+ULZ	USBlyzer Data Capture File	
+UPOI	iGO Points of Interest File	
+USR	SmartMusic Custom File	
+UWL	User Word List File	
+VCD	Value Change Dump File	
+VCE	Visual CertExam Exam File	
+VCF	vCard File	
+VCS	vCalendar Event File	
+VDB	Symantec Virus Database File	
+VDF	AntiVir Virus Definitions File	
+VDX	Visio Drawing XML File	
+VI	LabVIEW Virtual Instrument File	
+VMT	Valve Material File	
+VOK	PocketVok Vocabulary File	
+VRD	Visio Report Definition File	
+VSX	Visio Stencil XML File	
+VTX	Visio Template XML File	
+VXML	VoiceXML File	
+WAB	Windows Address Book	
+WB2	Corel Quattro Pro File	
+WB3	Corel Quattro Pro 7 and 8 File	
+WDF	Workshare Compare DeltaFile	
+WEA	Ecotect Weather File	
+WGT	XNBC Synaptic Weights File	
+WGT	IMPS Data File	
+WINDOWSLIVECONTACT	Windows Live Contacts File	
+WJR	ReGet Deluxe Data File	
+WNK	Wink Presentation	
+WPC	WordPad Converter File	
+WTB	Win-Test Binary Log File	
+XDB	Symantec Virus Database File	
+XDNA	DNA Strider Sequence File	
+XEM	PowerDesigner Model definition File	
+XFD	XFD File	
+XFDF	Adobe Acrobat XFDF File	
+XFT	Adobe Form Designer 50 File	
+XLC	Excel Chart	
+XLF	XLIFF Document	
+XLT	Excel Template	
+XMCD	Mathcad Worksheet File	
+XML	XML File	
+XMLPER	LeCroy Binary Waveform File	
+XPG	Autoplay Media Studio Exported Page	
+XPJ	RoboHelp HTML Project File	
+XPT	SAS Transport File	
+XRDML	XRDML Data File	
+XRP	RationalPlan Project File	
+XSL	XML Style Sheet	
+XSLT	XSL Transformation File	
+ZAP	ZoneAlarm Pro Data File	
+ZDC	CD Catalog Expert Database File	
+ZMC	ZoneAlarm Quarantine File
