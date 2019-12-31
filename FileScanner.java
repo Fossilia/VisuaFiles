@@ -2,6 +2,7 @@ import java.nio.file.*;
 import java.io.IOException; 
 import java.io.File;
 import java.util.*;
+import java.io.*;
 
 public class FileScanner implements Global{
 	private VisuaFiles manager = null;
@@ -57,9 +58,9 @@ public class FileScanner implements Global{
 
 		String[] subDirs;
 		if(path.isFile()){ //if what is being scanned is a file
-			files++;
 			//Extension fileEx = getExtension(path);
 			if(getExtension(path)!=null){ //if file has an extension
+				files++;
 				if(HashImp){
 					if(extensionListHash.containsKey(getExtension(path))){
 						extensionListHash.get(getExtension(path)).addFile(path);
@@ -116,6 +117,11 @@ public class FileScanner implements Global{
 		//Collections.sort(extensionList, new GroupSortbySize());
 	}
 
+	public void sortFileGroups(){
+		manager.mergeSort(groupList);
+		//Collections.sort(extensionList, new GroupSortbySize());
+	}
+
 	public void printFiles(int num){
 		for(int i=0; i<num; i++){
 			System.out.println(filesList.get(i)+" size:"+filesList.get(i).length()/(1024.0*1024.0*1024.0));
@@ -123,6 +129,7 @@ public class FileScanner implements Global{
 	}
 
 	public void printExtensions(int num){
+		System.out.println(extensionList.size());
 		int limit = 0;
 		if(num<=extensionList.size()){
 			limit = num;
@@ -142,14 +149,53 @@ public class FileScanner implements Global{
 		}
 	}
 
-	public void createGroups(){
-		FileGroup videoGroup = new FileGroup("Video files");
+	public void createGroups() throws FileNotFoundException, IOException{
+		BufferedReader br;
+		File base = new File("DATA");
+		String line;
+
+		for(String name: base.list()){
+			File file = new File("DATA/"+name);
+			FileGroup fileGroup = new FileGroup(name);
+
+			String[] words;
+
+			for(Group e: extensionList){
+				br = new BufferedReader(new FileReader(file));
+				line = br.readLine();
+				//System.out.println(e.getName());
+				while(line!=null){
+					words = line.split("\t");
+					//System.out.println(words[0]+" "+e.getName().toUpperCase());
+					if(words[0].equals(e.getName().toUpperCase())){
+						fileGroup.addGroup(e);
+						//System.out.println("found");
+						break;
+					}
+					line = br.readLine();
+				}
+				br.close();
+			} 
+			groupList.add(fileGroup);
+		}
+
+		
+		/*FileGroup videoGroup = new FileGroup("Video files");
 		for(Group e: extensionList){
 			if(e.getName().equals("mkv") || e.getName().equals("mp4") || e.getName().equals("webm")){
 				videoGroup.addGroup(e);
 			}
 		}
 		groupList.add(videoGroup);
+		*/
+	}
+
+	public void sortGroup(int num){
+		groupList.get(num).sortFiles();
+	}
+
+	public void displayGroupFiles(int num){
+		groupList.get(num).printFiles(20);
 	}
 
 	public void printFileGroups(int num){
@@ -174,7 +220,7 @@ public class FileScanner implements Global{
 	}
 
 	public String getExtension(File f){
-		String path = f.getPath();
+		String path = f.getName();
 		if(path.lastIndexOf(".")!=-1){
 			return path.substring(path.lastIndexOf(".")+1);
 		}

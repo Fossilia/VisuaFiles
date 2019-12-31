@@ -1,6 +1,7 @@
 import java.util.*;
 import java.nio.file.*;
 import java.io.IOException; 
+import java.io.FileNotFoundException;
 import java.io.File;
 
 public class VisuaFiles{
@@ -23,6 +24,7 @@ public class VisuaFiles{
 		long endTime;
 
 		if(input == 0){ //custom path
+
 			System.out.println("Input what path you want to scan:");
 			String path = getStringInput();
 			startTime = System.currentTimeMillis();
@@ -39,6 +41,16 @@ public class VisuaFiles{
 
 		System.out.printf("Sorting file groups...\r");
 		fs.sortExtensionGroups();
+		try{
+			fs.createGroups();
+		}
+		catch(FileNotFoundException e){
+			System.out.println(e);
+		}
+		catch(IOException e){
+			System.out.println(e);
+		}
+		fs.sortFileGroups();
 		
 		printScannerOutput(fs);
 	}
@@ -48,9 +60,10 @@ public class VisuaFiles{
 		System.out.printf("  Files scanned: %-8d\n", fs.getNumberOfFiles());
 		System.out.printf("     Total size: %-8s\n", convertSize(fs.getSize()));
 		System.out.printf("      Scan time: "+time+"\n\n");
-		fs.createGroups();
-		fs.printFileGroups(20);
+		fs.printFileGroups(28);
+		System.out.println();
 		fs.printExtensions(20);
+		pickGroup(fs);
 		//fs.sort();
 	}
 
@@ -66,6 +79,13 @@ public class VisuaFiles{
 		}
 	}
 
+	public void pickGroup(FileScanner fs){
+		System.out.println("Type in the number corresponding to a group to view its files:");
+		int input = getIntInput(0, 100);
+		fs.sortGroup(input);
+		fs.displayGroupFiles(input);
+
+	}
 	/**gets an integer from the user between min and max (inclusive), checks for exceptions*/
 	public int getIntInput(int min, int max){
 		int input = 0;

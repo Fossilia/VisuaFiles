@@ -1,0 +1,500 @@
+3GA	3GPP Audio File	
+4MP	4-MP3 Database File	
+5XB	Line 6 POD HD500X Edit Bundle	
+5XE	Line 6 POD HD500X Edit Preset File	
+5XS	Line 6 POD HD500X Edit Setlist File	
+669	UNIS Composer 669 Module	
+8SVX	Amiga 8-Bit Sound File	
+A2B	Adlib Tracker II Instrument Bank	
+A2I	Adlib Tracker II Instrument File	
+A2M	Adlib Tracker II File	
+AA	Audible Audio Book File	
+AA3	ATRAC Audio File	
+AAC	Advanced Audio Coding File	
+AAX	Audible Enhanced Audiobook File	
+AB	Ambling BookPlayer MP3 File	
+ABC	ABC Music Notation	
+ABM	Music Album	
+AC3	Audio Codec 3 File	
+ACD	ACID Project File	
+ACD-BAK	MAGIX ACID Project Backup File	
+ACD-ZIP	Sony ACID Project With Embedded Media File	
+ACM	Interplay Audio File	
+ACP	aacPlus Audio File	
+ACT	ADPCM Compressed Audio File	
+ADG	Ableton Device Group	
+ADT	ADTS Audio File	
+ADTS	Audio Data Transport Stream File	
+ADV	Ableton Device Preset File	
+AFC	Mass Effect 2 Audio File	
+AGM	DTS Multi-channel Pro Packer File	
+AGR	Ableton Groove File	
+AIF	Audio Interchange File Format	
+AIFC	Compressed Audio Interchange File	
+AIFF	Audio Interchange File Format	
+AIMPPL	AIMP Playlist File	
+AKP	Akai Sampler File	
+ALC	Ableton Live Clip File	
+ALL	Cubasis Project File	
+ALS	Ableton Live Set File	
+AMF	Advanced Module File	
+AMR	Adaptive Multi-Rate Codec File	
+AMS	Extreme Tracker Module	
+AMS	Velvet Studio Module	
+AMXD	Ableton Max Patch File	
+AMZ	Amazon MP3 Downloader File	
+ANG	Anghami Audio File	
+AOB	DVD-Audio Audio Object File	
+APE	Monkey's Audio Lossless Audio File	
+APL	Monkey's Audio Track Information File	
+ARIA	Chipsounds Sound File	
+ARIAX	Chipsounds XML Sound File	
+ASD	Ableton Live Sample Analysis File	
+AT3	ATRAC3 Audio File	
+AU	Audio File	
+AUD	Video Game Compressed Audio File	
+AUP	Audacity Project File	
+AVASTSOUNDS	Avast Soundpack File	
+AY	AY Chiptune File	
+B4S	Winamp Playlist File	
+BAND	GarageBand Project File	
+BAP	Blaze Audio Wave Information File	
+BDD	CARA Sound Radiation Data File	
+BIDULE	Bidule Layout File	
+BNK	Adlib Instrument Bank	
+BRSTM	BRSTM Audio Stream File	
+BUN	Cakewalk Bundle File	
+BWF	Broadcast Wave File	
+BWG	BrainWave Generator Audio File	
+BWW	Bagpipe Player File	
+CAF	Core Audio File	
+CAFF	Core Audio File	
+CDA	CD Audio Track Shortcut	
+CDDA	CD Digital Audio File	
+CDLX	Audition CD Layout File	
+CDO	Crescendo Music Notation File	
+CDR	Raw Audio CD Data	
+CEL	Audition Loop	
+CFA	Adobe Conformed Audio File	
+CGRP	Pro Tools Clip Group File	
+CIDB	iTunes CD Information File	
+CKB	Cricket Audio Bank File	
+CKF	Casio Keyboard File	
+CONFORM	Conformalizer Change List File	
+COPY	Sony Ericsson Protected Content File	
+CPR	Cubase Project	
+CPT	DTS Compact Audio File	
+CSH	Cubase Waveform File	
+CTS	CrazyTalk Script File	
+CWB	Cakewalk Bundle	
+CWP	Cakewalk SONAR Project	
+CWS	ChordWizard Song	
+CWT	Cakewalk SONAR Template	
+DCF	DRM Content Format File	
+DCM	DCM Audio Module	
+DCT	Dictation Audio File	
+DEWF	SoundEdit Recorded Instrument	
+DF2	Defractor 2 Instrument	
+DFC	Defractor Instrument	
+DFF	DSD Audio File	
+DIG	Sound Designer Audio File	
+DLS	Downloadable Sounds File	
+DM	DRM Delivery Message	
+DMC	DPCM Sample File	
+DMF	Delusion Digital Music File	
+DMSA	Music Disc Creator Project File	
+DMSE	Sound Editor Project File	
+DRA	Nuance Dragon Voice Recording File	
+DRG	I-Doser Audio Drug File	
+DS	LMMS DrumSynth File	
+DS2	Olympus DSS Pro Audio File	
+DSF	Delusion Digital Sound File	
+DSM	Digital Sound Module	
+DSS	Digital Speech Standard File	
+DTM	DigiTrakker Module	
+DTS	DTS Encoded Audio File	
+DTSHD	DTS-HD Master Audio File	
+DVF	Sony Digital Voice File	
+DWD	DiamondWare Digital Audio File	
+EFA	Ensoniq ASR File	
+EFK	Ensoniq KT File	
+EFQ	Ensoniq SQ1/SQ2/KS-32 File	
+EFS	Ensoniq SQ-80 File	
+EFV	Ensoniq VFX-SD File	
+EMD	ABT Extended Module	
+EMP	eMusic Music Download File	
+EMX	eMusic Download File	
+ESPS	ESPS Sampled Data File	
+EXPRESSIONMAP	Cubase Expression Map File	
+EXS	EXS Instrument	
+F2R	Farandole Linear Module File	
+F32	Raw 32-Bit Audio File	
+F3R	Farandoyle Blocked Module File	
+F4A	Adobe Flash Protected Audio File	
+F64	Raw 64-Bit Audio File	
+FDP	FMOD Project File	
+FEV	FMOD Audio Events File	
+FLAC	Free Lossless Audio Codec File	
+FLM	FL Studio Mobile Song File	
+FLP	FL Studio Project	
+FPA	Finale Performance Assessment File	
+FRG	Sound Forge Pro Project File	
+FSB	FMOD Sample Bank File	
+FSC	FL Studio Score File	
+FSM	Farandole Composer WaveSample File	
+FTM	FamiTracker Module	
+FTM	Finale Template File	
+FTMX	Finale Template File	
+FZF	Casio FZ-1 Full Dump	
+FZV	Casio FZ-1 Voice Dump	
+G721	G721 Audio File	
+G723	G723 Audio File	
+G726	G726 Audio File	
+GBPROJ	GarageBand Project	
+GBS	GameBoy Sound File	
+GIG	Tascam GigaSampler File	
+GP5	Guitar Pro 5 Tablature File	
+GPBANK	Guitar Pro Sound Bank File	
+GPK	WaveLab Audio Peak File	
+GPX	Guitar Pro 6 Document	
+GROOVE	ACID Groove File	
+GSF	Game Boy Advance Sound File	
+GSFLIB	Game Boy Advance Song Library	
+GSM	Global System for Mobile Audio File	
+H0	Movie Edit Pro Waveform Information File	
+H4B	Line 6 POD HD400 Edit Bundle	
+H5B	Line 6 POD HD500 Edit Bundle	
+H5E	Line 6 POD HD500 Edit Preset File	
+H5S	Line 6 POD HD500 Edit Setlist File	
+HBE	Line 6 POD HD Edit Preset File	
+HCA	High Compression Audio File	
+HDP	MAGIX Hard Disk Project Audio File	
+HSB	HALion Sound Bank File	
+IAA	INTUS Audio Archive	
+ICS	IC Recorder Sound File	
+IFF	Interchange File Format	
+IGP	Igor Published Music Notation File	
+IGR	Igor Engraver File	
+INS	Adlib Tracker Instrument File	
+INS	Sample Cell II Instrument Definition File	
+ISMA	IIS Smooth Streaming Audio File	
+ITI	Impulse Tracker Instrument	
+ITLS	iTunes Live Stream URL	
+ITS	Impulse Tracker Sample	
+JAM	Line 6 Device Recording	
+JSPF	JSON Playlist File	
+K26	Kurzweil K2600 File	
+KAR	Karaoke MIDI File	
+KFN	KaraFun Karaoke File	
+KMP	Korg Trinity/Triton Keymap File	
+KOZ	Audiokoz Music File	
+KOZ	Bell Music File	
+KPL	Kazaa Playlist File	
+KRZ	Kurzweil K2000 File	
+KSC	Korg Trinity/Triton Script File	
+KSF	Korg Trinity/Triton Sample File	
+KT3	Battery 3 Drum Kit File	
+L	Left Audio Channel File	
+LA	Lossless Audio File	
+LOF	Audacity File List	
+LOGIC	Logic Pro Project File	
+LOGICX	Logic Pro Project	
+LSO	Logic Audio Project	
+LWV	Linguistically Enhanced Sound File	
+M3U	Media Playlist File	
+M3U8	UTF-8 M3U Playlist File	
+M4A	MPEG-4 Audio File	
+M4B	MPEG-4 Audio Book File	
+M4P	iTunes Music Store Audio File	
+M4R	iPhone Ringtone File	
+M5P	MachFive Preset File	
+MA1	Monarch Audio File	
+MBR	Zune Smooth Streaming File	
+MDC	MidiCo Karaoke Audio File	
+MDR	ModPlug Compressed Module	
+MED	Amiga MED Sound File	
+MGV	Yamaha MegaVoice File	
+MID	MIDI File	
+MIDI	MIDI File	
+MINIGSF	Game Boy Advance Song File	
+MINIPSF	Miniature PlayStation Sound Format File	
+MINIPSF2	Miniature PlayStation Sound Format File	
+MINIUSF	Nintendo 64 Song File	
+MKA	Matroska Audio File	
+MMF	Synthetic Music Mobile Application File	
+MMLP	Music Macro Language Project	
+MMM	Music Maker Arrangement File	
+MMP	MixMeister Playlist	
+MMPZ	LMMS Project File	
+MO3	MO3 Audio File	
+MOD	Amiga Music Module File	
+MOGG	Multitrack Ogg File	
+MP2	MPEG Layer II Compressed Audio File	
+MP3	MP3 Audio File	
+MPA	MPEG-2 Audio File	
+MPC	Musepack Compressed Audio File	
+MPDP	MixPad Project File	
+MPGA	MPEG-1 Layer 3 Audio File	
+MPU	MPEG Layer 3 Audio File	
+MSCX	MuseScore Music Score File	
+MSCZ	MuseScore Compressed Score File	
+MSMPL_BANK	Korg microSAMPLER Bank Data File	
+MSV	Memory Stick Voice File	
+MT2	MadTracker 2 Module	
+MTE	MadTracker 2 Envelope	
+MTF	Multi Tracker File	
+MTI	MadTracker Instrument	
+MTM	MultiTracker Module	
+MTP	MadTracker 2 Pattern	
+MTS	MadTracker 2 Sample File	
+MUI	Myriad User Instrument File	
+MUS	Finale Notation File	
+MUS	Minecraft Music File	
+MUSX	Finale Notation File	
+MUX	Trackmania Music File	
+MUX	Myriad Stand-Alone Music Score	
+MX3	Mixcraft 3 Audio Project	
+MX4	Mixcraft 4 Audio Project	
+MX5	Mixcraft 5 Audio Project	
+MX5TEMPLATE	Mixcraft 5 Audio Project Template	
+MXL	Compressed MusicXML File	
+MXMF	Mobile XMF Ringtone File	
+MYR	Myriad Music File	
+NARRATIVE	Narrator Document	
+NBS	Minecraft Note Block Studio File	
+NCW	Native Compressed Wave File	
+NKB	Kontakt Audio Bank	
+NKC	Kontakt Library Data File	
+NKI	KONTAKT Instrument File	
+NKM	Kontakt Multi Instrument File	
+NKS	Kontakt Monolith Container	
+NKX	Kontakt Monolith Container File	
+NML	Traktor Collection File	
+NMSV	Native Instruments Massive Sound File	
+NOTE	Notessimo Composition	
+NPL	Cubase Library File	
+NRA	Nero Audio Compilation	
+NRT	Nokia Ringtone	
+NSA	Nullsoft Streaming Audio File	
+NTN	NOTION Song File	
+NVF	Creative Labs NVF Audio File	
+NWC	NoteWorthy Composer File	
+OBW	Superior Drummer Sounds File	
+ODM	OverDrive Media File	
+OFR	OptimFROG Audio File	
+OGA	Ogg Vorbis Audio File	
+OGG	Ogg Vorbis Audio File	
+OKT	Oktalyzer Module	
+OMA	Sony OpenMG Music File	
+OMF	Open Media Framework File	
+OMG	OpenMG Audio File	
+OMX	OtsAV Media Library Information File	
+OPUS	Opus Audio File	
+OTS	OtsAV Album File	
+OVE	Overture Musical Score	
+OVW	Logic Pro Overview File	
+OVW	Cubase WAVE Overview File	
+PAC	SBStudio II Song File	
+PANDORA	Pandora Android App Executable	
+PBF	Pinnacle Sample Bank	
+PCA	Perfect Clarity Audio File	
+PCAST	iTunes Podcast File	
+PCG	Korg Instrument Bank File	
+PEAK	Steinberg Peak File	
+PEK	Adobe Peak Waveform File	
+PHO	MBROLA Phonetic Data File	
+PHY	PhyMod Physical Modeling Data	
+PK	Audition Peak File	
+PKF	Audition Peak File	
+PLA	Sansa Playlist File	
+PLY	Finale Playback File	
+PNA	PhatNoise Audio File	
+PNO	Windows 8 Piano Song	
+PPC	Adobe Presenter Audio File	
+PPCX	Adobe Presenter Presentation Audio File	
+PRG	WAVmaker Patch File	
+PSF	Portable Sound File	
+PSF1	PlayStation Sound Format File	
+PSF2	PlayStation Sound Format File	
+PSM	Protracker Studio Module	
+PSY	Psycle Song File	
+PTCOP	PxTone Audio File	
+PTF	Pro Tools 7 Session File	
+PTM	PolyTracker Module	
+PTS	Pro Tools Session	
+PTT	Pro Tools Session Template	
+PTX	Pro Tools Session File	
+PTXT	Pro Tools Session Template	
+PVC	Panasonic VM1 Voice File	
+Q1	Winamp Equalizer Presets File	
+QCP	PureVoice Audio File	
+R1M	RealOne Streaming Media File	
+RA	RealAudio File	
+RAM	Real Audio Metadata File	
+RAW	Raw Audio Data	
+RAX	Real Music Store Audio File	
+RBS	Rebirth Song File	
+RBS	MP3 Ringtone File	
+RCY	ReCycle 1x Document	
+REX	ReCycle Loop File	
+RFL	Reason ReFill Sound Bank	
+RGRP	Pro Tools Region Group File	
+RIP	Hit'n'Mix Audio Mashup File	
+RMI	RMID MIDI File	
+RMJ	Real Media Jukebox Audio File	
+RMX	RealJukebox Format	
+RNG	Nokia Composer Ringtone	
+RNS	Reason Song File	
+ROL	Ad Lib Synthesized Instrument	
+RSN	Reason Project File	
+RSO	NXT Brick Audio File	
+RTA	TrueRTA Project File	
+RTI	Real Tracker Instrument	
+RTS	Real Tracker Sample	
+RVX	Real Protected Video File	
+RX2	REX2 Audio File	
+S3I	Scream Tracker 3 Instrument	
+S3M	ScreamTracker 3 Module	
+S3Z	Compressed Scream Tracker 3 Module	
+SAF	Secure Audio File	
+SAP	Atari SAP Music File	
+SBG	SBaGen Binaural Beat File	
+SBI	Sound Blaster Instrument	
+SBK	E-MU SoundFont Sound Bank	
+SC2	Sample Cell II Instrument Definition	
+SCS11	Show Cue System Cue File	
+SD	Sound Designer Audio File	
+SD	ESPS Sampled Data File	
+SD2	Sound Designer II File	
+SD2F	Sound Designer 2 File	
+SDAT	Nintendo DS Sound Data File	
+SDS	MIDI Sample Dump Standard File	
+SDT	Electronic Arts Sound Data File	
+SEQ	PowerTracks Pro Audio Project File	
+SES	Audition Session File	
+SESX	Adobe Audition Session File	
+SF2	SoundFont 2 Sound Bank	
+SFAP0	Sound Forge Pro Audio Proxy File	
+SFK	Sound Forge Pro Audio Peak File	
+SFL	Sound Forge Pro Sound Data File	
+SFPACK	Packed SoundFont File	
+SFS	SFX Sample File	
+SFZ	SFZ Sample Definition File	
+SGP	MP3 Audio Mixer Sound Group Project	
+SHN	Shorten Compressed Audio File	
+SIB	Sibelius Score	
+SLP	SpectraLayers Pro Project	
+SLX	SpectraLayers Pro Project	
+SMA	SmartMusic Accompaniment File	
+SMF	Standard MIDI File	
+SMP	SmartMusic Performance File	
+SMP	SampleVision Audio Sample Format	
+SMPX	SmartMusic Accompaniment File	
+SND	Sound File	
+SND	Macintosh Sound Resource	
+SND	Akai MPC Sample	
+SNG	MIDI Song File	
+SNG	Korg Trinity Song File	
+SNGX	ChordWizard Song	
+SNS	SNS Video Game Audio File	
+SONG	AudioSauna Song File	
+SOU	SBStudio II Sound File	
+SPH	NIST SPHERE Audio File	
+SPPACK	SPPack Sound Sample	
+SPRG	Synclavier Program File	
+SSEQ	Nintendo DS Sound Sequence File	
+SSEQ	Synclavier Sequence File	
+SSM	Sound Clip Archive	
+SSND	Synclavier Sound File	
+STAP	Soundtrack Pro Audio Project File	
+STM	Scream Tracker 2 Module	
+STRM	STRM Audio Stream File	
+STX	Scream Tracker Music Interface Kit File	
+STY	Band-in-a-Box Styles File	
+SVD	Roland Patch File	
+SVX	8SVX Sound File	
+SWA	Shockwave Audio	
+SXT	Propellerhead Reason NN-XT Patch File	
+SYH	Synchomatic Instrument	
+SYN	SimSynth Document	
+SYW	Yamaha SY99/SY85 Audio File	
+SYX	MIDI System Exclusive Message	
+TAK	Tom's Lossless Audio Kompressor File	
+TAK	Music Maker Take File	
+TD0	Akai Teledisk Sound Library	
+TG	TuxGuitar Document	
+TOC	PSP Audio File	
+TRAK	Traktor Content Pack File	
+TTA	True Audio File	
+TXW	Yamaha TX16W Audio File	
+U	AU Audio File	
+UAX	Unreal Audio Package	
+ULT	UltraTracker Module	
+UNI	MikMod UniMOD Module	
+USF	Nintendo 64 Music File	
+USFLIB	Nintendo 64 Song Library	
+UST	UTAU Sequence Text File	
+UW	Unsigned Word Audio File	
+UWF	UltraTracker Wave File	
+VAG	PlayStation Compressed Sound File	
+VAP	Dialogic Indexed Voice Audio File	
+VB	Grand Theft Auto Audio File	
+VC3	VSampler Soundbank File	
+VDJ	VirtualDJ Audio Sample File	
+VGM	Video Game Music File	
+VGZ	Video Game Music Compressed File	
+VIP	MAGIX Samplitude Music Studio Project	
+VLC	VLC Playlist	
+VMD	Covox Raw Sample	
+VMF	Vocaltec Media File	
+VMF	Covox Speech Thing Sample	
+VMO	Siemens Voice Memo File	
+VOC	Creative Labs Audio File	
+VOX	Dialogic Voice Audio File	
+VOXAL	Voxal Project File	
+VPL	Karaoke Player Playlist	
+VPM	Garmin Voice File	
+VPR	VOCALOID5 Project File	
+VPW	VoxPro Wave File	
+VQF	TwinVQ Audio File	
+VRF	Ventrilo Audio Recording	
+VSQ	VOCALOID2 Project File	
+VSQX	VOCALOID3 Project File	
+VTX	VTX Chiptune File	
+VYF	Samsung Digital Voice Recorder File	
+W01	Yamaha SY Series Wave File	
+W64	Sony Wave64 Audio File	
+WAV	WAVE Audio File	
+WAVE	WAVE Sound File	
+WAX	Windows Media Audio Redirect	
+WEM	Wwise Encoded Media File	
+WFB	WaveFront Sound Bank	
+WFD	WaveFront Drum Kit File	
+WFM	Pro Tools Wave Cache File	
+WFP	WaveFront Program File	
+WMA	Windows Media Audio File	
+WOW	Grave Composer Music Module	
+WPK	Nero Wave Editor File	
+WPP	WavePad Project File	
+WPROJ	Wwise Project File	
+WRK	Cakewalk Music Project	
+WTPL	WireTap Studio Library	
+WTPT	WireTap Studio Packaged Track	
+WUS	WUTG Tagged Audio File	
+WUT	WUTG Tag File	
+WV	WavPack Audio File	
+WVC	WavPack Correction File	
+WVE	WaveEditor Project File	
+WWU	Wwise Work Unit	
+XA	The Sims Audio File	
+XFS	eRacer Sound File	
+XM	Fasttracker 2 Extended Module	
+XMF	Extensible Music File	
+XMU	Expressive Music Container File	
+XRNS	Renoise Song File	
+XSP	Kodi Smart Playlist File	
+XSPF	XSPF Playlist File	
+YOOKOO	Yookoo Player Playlist File	
+ZPA	Vielklang Audio Metadata File	
+ZPL	Zune Playlist	
+ZVD	ZyXEL Voice File
