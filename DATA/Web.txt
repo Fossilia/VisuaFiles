@@ -1,0 +1,243 @@
+A4P	A4Desk Pro Project File	
+A5W	Alpha Five Webpage File	
+ADR	Opera Bookmarks File	
+AEX	Alpha Five Compiled Global Functions File	
+ALX	ActiveX Layout Control File	
+AN	Adobe Edge Animate Project File	
+AP	Active Page	
+APPCACHE	HTML5 Cache Manifest File	
+ARO	SteelArrow Web Application File	
+ASA	ASP Configuration File	
+ASAX	ASPNET Server Application File	
+ASCX	ASPNET User Control File	
+ASHX	ASPNET Web Handler File	
+ASMX	ASPNET Web Service File	
+ASP	Active Server Page	
+ASPX	Active Server Page Extended File	
+ASR	ActionScript Remote Document	
+ATOM	Atom Syndication Format	
+ATT	Web Form Post Data File	
+AWM	AllWebMenus Project File	
+AXD	ASPNET Web Handler File	
+BML	Bean Markup Language File	
+BOK	ProStores Dynamic Web Page	
+BR	Brotli Compressed File	
+BROWSER	ASPNET Browser Definition File	
+BTAPP	uTorrent App	
+BWP	BuRg3r Web Page	
+CCBJS	CopperCube JavaScript File	
+CDF	Channel Definition Format	
+CER	Internet Security Certificate	
+CFM	ColdFusion Markup File	
+CFML	ColdFusion Markup Language File	
+CHA	IRC Chat Configuration File	
+CHAT	IRC Chat Configuration File	
+CHM	Compiled HTML Help File	
+CMS	Content Management System	
+CODASITE	Coda Site File	
+COMPRESSED	WordCompress Compacted Web File	
+CON	Concept Application Source File	
+CPG	Cool Page Project File	
+CPHD	CloudChan Pre-processed Hypertext Document	
+CRL	Certificate Revocation List File	
+CRT	Security Certificate	
+CSHTML	ASPNET Razor Web Page	
+CSP	Concept Server Page	
+CSR	Certificate Signing Request File	
+CSS	Cascading Style Sheet	
+DAP	Access Data Access Page	
+DBM	ColdFusion Server File	
+DCR	Shockwave Media File	
+DER	DER Certificate File	
+DHTML	Dynamic HTML file	
+DISCO	DISCO Discovery Document	
+DISCOMAP	DISCO Discovery Output File	
+DLL	DLL Dynamic Web Page	
+DML	DynaScript File	
+DO	Java Servlet	
+DOCHTML	Microsoft Word HTML Document	
+DOCMHTML	Microsoft Word MIME HTML Document	
+DOTHTML	Microsoft Word HTML Document Template	
+DOWNLOAD	Partially Downloaded File	
+DWT	Dreamweaver Web Page Template	
+ECE	Escenic Dynamic Web Page	
+EDGE	Adobe Edge Project File	
+EPIBRW	Web File Location	
+ESPROJ	Espresso Project File	
+EWP	Ewisoft Website Project File	
+FCGI	FastCGI File	
+FMP	123 Flash Menu Project	
+FREEWAY	Freeway Document	
+FWP	Microsoft Expression Web Package	
+FWTB	Freeway Template Bundle	
+FWTEMPLATE	Freeway Template	
+FWTEMPLATEB	Freeway Template Bundle	
+GNE	Flickr Web Page	
+GSP	IMail Error Message File	
+GSP	Groovy Server Page	
+HAR	HTTP Archive FIle	
+HDM	HDML File	
+HDML	Handheld Device Markup Language File	
+HTACCESS	Apache HTACCESS File	
+HTC	HTML Component File	
+HTM	Hypertext Markup Language File	
+HTML	Hypertext Markup Language File	
+HTX	HTML Extension File	
+HXS	Help 2 Compiled Help File	
+HYPE	Hype Document	
+HYPERESOURCES	Hype Resources Folder	
+HYPESYMBOL	Hype Symbol File	
+HYPETEMPLATE	Hype Document Template	
+IDC	Internet Database Connector File	
+IQY	Internet Query	
+ITMS	iTunes Music Store Link File	
+ITPC	iTunes Podcast Link File	
+IWDGT	iWeb Widget File	
+JCZ	Liquid Motion Animation	
+JHTML	Java HTML Web Page	
+JNLP	Java Web Start File	
+JS	JavaScript File	
+JSON	JavaScript Object Notation File	
+JSP	Java Server Page	
+JSPA	Java Servlet Alias	
+JSPX	XML Java Server Page	
+JSS	JavaScript Style Sheet File	
+JST	JavaServer Page Document	
+JVS	JavaScript Proxy Autoconfig File	
+JWS	Java Web Services File	
+KIT	CodeKit File	
+LASSO	Lasso Database-Driven Web Page	
+LBC	Cloaked Affiliate Link Builder Saved Link	
+LESS	LESS Style Sheet	
+MAFF	Mozilla Archive Format File	
+MAP	Image Map	
+MAPX	Mapjects Client Webparts File	
+MASTER	ASPNET Master Page	
+MHT	MHTML Web Archive	
+MHTML	MIME HTML File	
+MJS	Nodejs ES Module File	
+MOZ	Mozilla Cache File	
+MSPX	Microsoft ASPNET Web Page	
+MUSE	Adobe Muse Website Project	
+MVC	MivaScript Compiled File	
+MVR	IBM HotMedia Multimedia File	
+NOD	NetObjects Fusion File	
+NXG	eSite Builder NXG Web Page	
+NZB	NewzBin Usenet Index File	
+OAM	Adobe Edge Animate Widget File	
+OBML	Opera Mini Saved Web Page	
+OBML15	Opera Mini Saved Web Page	
+OBML16	Opera Mini Saved Web Page	
+OGNC	Dynamic Web Page	
+OLP	Office Live Package	
+OPML	Outline Processor Markup Language File	
+OTH	OpenDocument HTML Template	
+P12	Personal Information Exchange File	
+P7	PKCS #7 Digital Certificate File	
+P7B	PKCS #7 Certificate File	
+P7C	PKCS #7 Certificate File	
+PAC	Proxy Auto-Config File	
+PAGE	HybridJava Web Page	
+PEM	Privacy Enhanced Mail Certificate	
+PHP	PHP Source Code File	
+PHP2	PHP 2 Web Page	
+PHP3	PHP 3 Web Page	
+PHP4	PHP 4 Web Page	
+PHP5	PHP 5 Web Page	
+PHTM	PHP-Based Web Page	
+PHTML	PHP Web Page	
+PPTHTML	PowerPoint HTML Presentation	
+PPTMHTML	Microsoft PowerPoint MIME HTML Presentation	
+PRF	PICS Rules File	
+PRO	Adobe Proto Design File	
+PSP	PL/SQL Server Page	
+PTW	AutoCAD Publish To Web File	
+PUB	Public Key File	
+QBO	QuickBooks Online Bank Statement File	
+QBX	Blocks Landing Page File	
+QF	Qompose Web Page Template	
+QRM	Qworum Message File	
+RFLW	Edge Reflow Data File	
+RHTML	Ruby HTML Web Page	
+RJS	Ruby Javascript File	
+RSS	Rich Site Summary	
+RT	RealText Streaming Text File	
+RW3	RapidWeaver 3 Site File	
+RWP	RapidWeaver Package	
+RWSW	RapidWeaver Site File	
+RWTHEME	RapidWeaver Theme	
+SASS	Syntactically Awesome StyleSheets File	
+SAVEDDECK	Nokia Saved Web Page	
+SCSS	Sass Cascading Style Sheet	
+SDB	SocialDecks Blog File	
+SEAM	Seam Framework Java Servlet File	
+SHT	HTML File with Server Side Includes	
+SHTM	HTML Server Side Include File	
+SHTML	Server Side Include HTML File	
+SITE	GoLive Website Project File	
+SITEMAP	ASPNET Site Map File	
+SITES	iWeb Site Design Project	
+SITES2	iWeb Site Design Project	
+SPARKLE	Sparkle Website Project	
+SPC	Software Publisher Certificate File	
+SRF	Server Response File	
+SSP	Scala Server Page	
+STC	Contribute Connection Key File	
+STL	Certificate Trust List	
+STM	SSI Web Page	
+STML	SSI HTML File	
+STP	SharePoint Template	
+STRM	Stream Location File	
+SUCK	SiteSucker Website File	
+SVC	WCF Web Service File	
+SVR	Compressed Virtual World	
+SWZ	Adobe Flash Player Cache File	
+TPL	HTTP File Server Template	
+TVPI	TitanTV Television Listing File	
+TVVI	TitanTV Television Listing File	
+UCF	WebEx Media File	
+UHTML	UC Browser Saved Webpage	
+URL	Internet Shortcut	
+VBD	Visual Basic ActiveX Document	
+VBHTML	ASPNET Razor Web Page	
+VDW	Visio Web Drawing	
+VLP	LiveSite Project	
+VRML	VRML File	
+VRT	Virtual World	
+VSDISCO	DISCO Dynamic Discovery Document	
+WBS	WebBlender Project File	
+WBXML	WAP Binary XML File	
+WDGT	Opera Widget	
+WEB	Xara Web Document	
+WEBARCHIVE	Safari Web Archive	
+WEBARCHIVEXML	Android Web Browser Archive	
+WEBBOOKMARK	Safari Web Bookmark File	
+WEBHISTORY	Safari Web History File	
+WEBLOC	macOS Website Location	
+WEBSITE	Internet Explorer Pinned Site Shortcut	
+WGP	Web Gallery Project	
+WGT	Opera Widget File	
+WHTT	HTTrack Website Copier File	
+WIDGET	HybridJava Widget	
+WML	Wireless Markup Language File	
+WN	WN Web File	
+WOA	WebObjects Application	
+WPP	WebPlus Project File	
+WPX	WebPlus Project Template	
+WRF	WebEx Recording	
+WSDL	Web Services Description Language File	
+XBEL	XBEL Bookmarks File	
+XBL	Extensible Binding Language File	
+XFDL	XFDL File	
+XHT	XHTML File	
+XHTM	Extensible Hypertext Markup Language Document	
+XHTML	Extensible Hypertext Markup Language File	
+XPD	XML Pipeline Document	
+XSS	XML Style Sheet	
+XUL	XML User Interface Language File	
+XWS	Xara Web Designer Graphic	
+ZFO	XSL-FO Online Form	
+ZHTML	Secure IE Zipped HTML File	
+ZHTML	RabbitWeb Webpage	
+ZUL	ZK User Interface File	
+ZVZ	Possible Virus File

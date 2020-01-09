@@ -1,0 +1,190 @@
+0XE	F-Secure Renamed Virus File	
+73K	TI-73 Application	
+89K	TI-89 Application	
+8CK	TI-84 Plus C Silver Edition Application File	
+A6P	Authorware 6 Program	
+A7R	Authorware 7 Runtime File	
+AC	Autoconf Script	
+ACC	GEM Accessory File	
+ACR	ACRobot Script	
+ACTC	Action(s) Collection File	
+ACTION	Automator Action	
+ACTM	AutoCAD Action Macro File	
+AHK	AutoHotkey Script	
+AIR	Adobe AIR Installation Package	
+APK	Android Package File	
+APP	macOS Application	
+APP	FoxPro Generated Application	
+APP	Symbian OS Application	
+APPLESCRIPT	AppleScript File	
+ARSCRIPT	ArtRage Script	
+ASB	Alphacam Stone VB Macro File	
+AZW2	Kindle Active Content App File	
+BA_	Renamed BAT File	
+BAT	DOS Batch File	
+BEAM	Compiled Erlang File	
+BIN	Unix Executable File	
+BIN	Generic Binary Executable File	
+BTM	4DOS Batch File	
+CACTION	Automator Converter Action	
+CEL	Celestia Script File	
+CELX	Celestia Script	
+CGI	Common Gateway Interface Script	
+CMD	Windows Command File	
+COF	MPLAB COFF File	
+COFFEE	CoffeeScript JavaScript File	
+COM	DOS Command File	
+COMMAND	Terminal Command File	
+CSH	C Shell Script	
+CYW	RbotCYW Worm File	
+DEK	Eavesdropper Batch File	
+DLD	EdLog Compiled Program	
+DMC	Medical Manager Script	
+DS	TWAIN Data Source	
+DXL	Rational DOORS Script	
+E_E	Renamed EXE File	
+EAR	Java Enterprise Archive File	
+EBM	EXTRA! Basic Macro	
+EBS	E-Run 1x Script	
+EBS2	E-Run 20 Script File	
+ECF	SageCRM Component File	
+EHAM	ExtraHAM Executable File	
+ELF	Nintendo Wii Game File	
+EPK	LG Firmware Package	
+ES	SageCRM Script File	
+ESH	Extended Shell Batch File	
+EX4	MetaTrader 4 Program File	
+EX5	MetaTrader 5 Program File	
+EX_	Compressed Executable File	
+EX_	Renamed Windows Executable File	
+EXE	Windows Executable File	
+EXE	PortableAppscom Application	
+EXE1	Renamed EXE File	
+EXOPC	ExoPC Application	
+EZS	EZ-R Stats Batch Script	
+EZT	EZT Malicious Worm File	
+FAS	Compiled Fast-Load AutoLISP File	
+FAS	QuickSilver Fast Save Lisp File	
+FKY	FoxPro Macro	
+FPI	FPS Creator Intelligence Script	
+FRS	Flash Renamer Script	
+FXP	FoxPro Compiled Program	
+GADGET	Windows Gadget	
+GPE	GP2X Video Game	
+GPU	GP2X Utility Program	
+GS	Geosoft Script	
+HAM	HAM Executable File	
+HMS	HostMonitor Script File	
+HPF	HP9100A Program File	
+HTA	HTML Application	
+ICD	SafeDisc Encrypted Program	
+IIM	iMacro Macro File	
+IPA	iOS Application	
+IPF	SMS Installer Script	
+ISU	InstallShield Uninstaller Script	
+ITA	VTech InnoTab Application File	
+JAR	Java Archive File	
+JS	JScript Executable Script	
+JSE	JScript Encoded File	
+JSF	Java Script Command File	
+JSX	ExtendScript Script File	
+KIX	KiXtart Script File	
+KSH	Unix Korn Shell Script	
+KX	KiXtart Tokenized Script File	
+LO	Interleaf Compiled Lisp File	
+LS	LightWave LScript File	
+M3G	Mobile 3D Graphics Program	
+MAC	Application Macro File	
+MAM	Microsoft Access Macro	
+MCR	3ds Max Macroscript File	
+MCR	Tecplot Macro	
+MEL	Maya Embedded Language File	
+MEM	Macro Editor Macro	
+MIO	MioEngine Application File	
+MLX	MATLAB Live Script	
+MM	NeXtMidas Macro File	
+MRC	mIRC Script File	
+MRP	Mythroad Platform File	
+MS	3ds Max Script File	
+MS	Maxwell Script	
+MSL	Magick Scripting Language File	
+MXE	Macro Express Playable Macro	
+N	Neko Bytecode File	
+NCL	NirCmd Script File	
+NEXE	Chrome Native Client Executable	
+ORE	Ore Executable File	
+OSX	PowerPC Executable File	
+OTM	Outlook Macro File	
+OUT	Compiled Executable File	
+PAF	Portable Application Installer File	
+PAFEXE	PortableAppscom Program File	
+PEX	ProBoard Executable File	
+PHAR	PHP Archive	
+PIF	Program Information File	
+PLSC	Messenger Plus! Live Script File	
+PLX	Perl Executable File	
+PRC	Palm Resource Code File	
+PRG	Program File	
+PRG	GEM Application	
+PS1	Windows PowerShell Cmdlet File	
+PVD	Instalit Script	
+PWC	PictureTaker File	
+PYC	Python Compiled File	
+PYO	Python Optimized Code	
+QIT	QIT Trojan Horse File	
+QPX	FoxPro Compiled Query Program	
+RBF	LEGO MINDSTORMS EV3 Robot Brick File	
+RBX	Rembo-C Compiled Script	
+RFU	Remote Firmware Update	
+RGS	Registry Script	
+ROX	Actuate Report Object Executable File	
+RPJ	Real Pac Batch Job File	
+RUN	Linux Executable File	
+RXE	Lego Mindstorms NXT Executable Program	
+S2A	SEAL2 Application	
+SBS	SPSS Script	
+SCA	Scala Script File	
+SCAR	SCAR Script	
+SCB	Scala Published Script	
+SCPT	AppleScript Script File	
+SCPTD	AppleScript Script Bundle	
+SCR	Script File	
+SCRIPT	Generic Script File	
+SCT	Windows Scriptlet	
+SEED	Linux Preseed File	
+SERVER	MySQL Server Script	
+SHB	Windows Document Shortcut	
+SMM	Ami Pro Macro	
+SPR	FoxPro Generated Screen File	
+TCP	Tally Compiled Program File	
+THM	Thermwood Macro File	
+TIAPP	TiTanium App	
+TMS	Telemate Script	
+U3P	U3 Smart Application	
+UDF	Excel User Defined Function	
+UPX	Ultimate Packer for eXecutables File	
+VBE	VBScript Encoded Script File	
+VBS	VBScript File	
+VBSCRIPT	Visual Basic Script	
+VDO	Heathen Virus File	
+VEXE	Virus Executable File	
+VLX	Compiled AutoLISP File	
+VPM	Vox Proxy Macro File	
+VXP	Mobile Application File	
+WCM	WordPerfect Macro	
+WIDGET	Microsoft Windows Mobile Widget	
+WIDGET	Yahoo! Widget	
+WIZ	Microsoft Wizard File	
+WORKFLOW	Automator Workflow	
+WPK	WordPerfect Macro	
+WPM	WordPerfect Macro File	
+WS	Windows Script	
+WSF	Windows Script File	
+WSH	Windows Script Host Settings	
+X86	Linux Executable File	
+XAP	Silverlight Application Package	
+XBAP	XAML Browser Application File	
+XLM	Excel Macro	
+XQT	SuperCalc Macro File	
+XYS	XYplorer Script File	
+ZL9	ZoneAlarm Quarantined EXE File

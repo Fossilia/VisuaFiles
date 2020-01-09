@@ -1,0 +1,183 @@
+ABC	Micrografx ABC FlowCharter 6 File	
+AC5	ArtCut 5 Document	
+AC6	ArtCut 6 Document	
+AF2	Micrografx ABC FlowCharter 2 File	
+AF3	Micrografx ABC FlowCharter 3/4 File	
+AFDESIGN	Affinity Design Document	
+AI	Adobe Illustrator File	
+AMDN	Amadine Drawing	
+ART	Art Document	
+ARTB	Artboard Document	
+ASY	Asymptote Module	
+AWG	Ability Draw Document	
+CAG	ClipArt Gallery Package	
+CCX	Corel Clipart File	
+CDD	ConceptDraw PRO Document	
+CDDZ	ConceptDraw PRO Document	
+CDLX	ConceptDraw PRO XML Library File	
+CDMM	ConceptDraw MINDMAP Document	
+CDMT	ConceptDraw MINDMAP Template	
+CDMTZ	Compressed ConceptDraw MINDMAP Template	
+CDMZ	Compressed ConceptDraw MINDMAP Document	
+CDR	CorelDRAW Image File	
+CDRAPP	CorelDRAWapp Image File	
+CDS	ConceptDraw SlideShow	
+CDSX	ConceptDraw PRO XML SlideShow File	
+CDT	ConceptDraw PRO Template	
+CDTX	ConceptDraw PRO XML Template	
+CDX	CorelDRAW Compressed File	
+CDX	ConceptDraw PRO XML Document	
+CGM	Computer Graphics Metafile	
+CIL	Clip Gallery Packaged File	
+CLARIFY	Clarify Document	
+CMX	Corel Metafile Exchange Image File	
+CNV	Canvas 6-8 Drawing File	
+COR	CorelDRAW Drawing	
+CSY	Canvas Symbol File	
+CV5	Canvas 5 Drawing File	
+CVG	Calamus Vector Graphic File	
+CVI	Canvas Image File	
+CVS	Canvas 3 Drawing File	
+CVX	Canvas Drawing File	
+CWT	ClarisWorks Texture File	
+CXF	Coordinates Export Format	
+DCS	Desktop Color Separation File	
+DDRW	ClarisDraw Drawing	
+DED	Dr Engrave Document	
+DESIGN	Microsoft Expression Design Drawing	
+DHS	HyperSnap Drawing	
+DIA	Dia Diagram File	
+DPP	DrawPlus Drawing File	
+DPR	Digital InterPlot File	
+DPX	DrawPlus Template	
+DRAWING	Artboard Drawing	
+DRAWIT	DrawIt Drawing	
+DRW	Drawing File	
+DRW	DESIGNER Drawing	
+DSF	Designer File	
+DSG	Stitch Era Design File	
+DXB	Drawing Exchange Binary	
+EGC	EximiousSoft GIF Creator Document	
+EMF	Enhanced Windows Metafile	
+EMZ	Windows Compressed Enhanced Metafile	
+EP	Pencil Document	
+EPS	Encapsulated PostScript File	
+EPSF	Encapsulated PostScript Format File	
+ESC	EasySignCut Pro Project	
+EZDRAW	EazyDraw Graphic	
+FH10	FreeHand 10 Drawing File	
+FH11	FreeHand 11 Drawing File	
+FH3	FreeHand 3 Drawing File	
+FH4	FreeHand 4 Drawing File	
+FH5	FreeHand 5 Drawing File	
+FH6	FreeHand 6 Drawing File	
+FH7	FreeHand 7 Drawing File	
+FH8	FreeHand 8 Drawing File	
+FH9	FreeHand 9 Drawing File	
+FHD	FreeHand Drawing File	
+FIF	Fractal Image File	
+FIG	Xfig Drawing	
+FMV	Frame Vector Metafile	
+FS	FlexiSIGN Document	
+FT10	FreeHand 10 Drawing Template	
+FT11	FreeHand 11 Drawing Template	
+FT7	FreeHand 7 Drawing Template	
+FT8	FreeHand 8 Template	
+FT9	FreeHand 9 Drawing Template	
+FTN	Flowton Diagram File	
+FXG	Flash XML Graphics File	
+GDRAW	Google Drive Drawing	
+GEM	GEM Metafile	
+GKS	Graphics Kernel System File	
+GLOX	Microsoft Office SmartArt Graphics Layout File	
+GLS	Sothink SWF Easy Shape File	
+GRAFFLE	OmniGraffle Drawing	
+GSD	Graphtec Vector Graphics File	
+GSTENCIL	OmniGraffle Stencil	
+GTEMPLATE	OmniGraffle Template	
+GVDESIGN	Gravit Designer File	
+HGL	HP Graphics Language File	
+HPG	HPGL Plot File	
+HPGL	HP Graphics Language Plotter File	
+HPL	HP-GL Plotter File	
+HVIF	Haiku Vector Icon File	
+IDEA	Adobe Ideas Document	
+IGT	iGrafx Document Template	
+IGX	iGrafx Document	
+IMD	Microsoft VisioModeler File	
+INK	InkML Image	
+INK	Pocket PC Handwritten Note	
+JSL	Corel PaintShop Pro Shape Library	
+LMK	Sothink Logo Maker Image	
+MGC	Microsoft Clip Organizer Media Catalog	
+MGCB	Equation Illustrator Project File	
+MGMF	MindGenius Map File	
+MGMT	MindGenius 2-3 Template	
+MGMX	MindGenius XML Map File	
+MGS	MGCSoft Vector Shapes File	
+MGTX	MindGenius XML Template File	
+MMAT	MindManager Map Template	
+MP	LaTeX MetaPost File	
+MVG	Magick Vector Graphics File	
+NAP	NAP Metafile	
+ODG	OpenDocument Graphic File	
+OTG	OpenDocument Graphic Template	
+OVP	The Overlay Maker Package File	
+OVR	The Overlay Maker Overlay File	
+PAT	CorelDRAW Pattern File	
+PCS	Microsoft Office ClipArt File	
+PD	FlexiSIGN 5 Plotter Document	
+PEN	Logitech io2 Drawing	
+PFD	Micrografx Optima! File	
+PFV	PhotoFiltre Studio Vectorial Path	
+PL	Unix Color Plot File	
+PLT	AutoCAD Plotter Document	
+PLT	HPGL Plot File	
+PMG	PageMaker Group File	
+POBJ	Photo Pos Pro Vector Object File	
+PS	PostScript File	
+PSID	PostScript Image Data File	
+PUPPET	Adobe Character Animator Puppet File	
+PWS	Print Workshop Image	
+QCC	Quilt Manager Pattern File	
+RDL	MicroStation Redline File	
+SCV	ScanVec CASmate Sign File	
+SDA	StarOffice Drawing	
+SK1	sK1 Vector Graphic File	
+SK2	ChemSketch Drawing	
+SKETCH	Sketch Drawing	
+SKETCHPAD	Sketchpad Drawing File	
+SLDDRT	SolidWorks Sheet File	
+SMF	Serif Metafile	
+SNAGITSTAMPS	Snagit Stamp Archive	
+SNAGSTYLES	Snagit Style Archive	
+SSK	SmartSketch 95 Document	
+STD	Apache OpenOffice Drawing Template	
+STN	Genuine Fractals Image	
+SVF	Simple Vector Format Graphic	
+SVG	Scalable Vector Graphics File	
+SVGZ	Compressed SVG File	
+SXD	StarOffice Drawing	
+TLC	The Logo Creator File	
+TNE	Manga Studio Tone File	
+TPL	Canvas Template	
+UFR	Ultra Fractal File	
+VBR	GIMP Parametric Brush File	
+VEC	CX-Designer Shape File	
+VML	Vector Markup Language File	
+VSD	Visio Drawing File	
+VSDM	Visio Macro-Enabled Drawing	
+VSDX	Visio Drawing	
+VST	Visio Drawing Template	
+VSTM	Visio Macro-Enabled Drawing Template	
+VSTX	Visio Drawing Template	
+WMF	Windows Metafile	
+WMZ	Compressed Windows Metafile	
+WPG	WordPerfect Graphic File	
+WPI	Inkling Sketch Binary File	
+XAR	Xara Xtreme Drawing	
+XMMAP	MindManager XML Map File	
+XPR	Microsoft Expression Design Graphic	
+YAL	Arts & Letters Clipart Library	
+YDR	YouiDraw Drawing Project	
+ZGM	Zenographics Image File

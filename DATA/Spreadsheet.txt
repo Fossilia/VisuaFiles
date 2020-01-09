@@ -1,0 +1,66 @@
+123	Lotus 1-2-3 Spreadsheet	
+12M	Lotus 1-2-3 SmartMaster File	
+_XLS	Renamed Microsoft Excel Spreadsheet	
+_XLSX	Renamed Microsoft Excel Open XML Spreadsheet	
+AST	Ability Spreadsheet Template	
+AWS	Ability Spreadsheet File	
+BKS	Microsoft Works Spreadsheet Backup File	
+CELL	Thinkfree Office NEO Cell Workbook	
+DEF	SmartWare II Data File	
+DEX	Excel Spreadsheet	
+DFG	Data Flask Grid File	
+DIS	Oracle Discoverer Workbook	
+EDX	Edraw XML FIle	
+EDXZ	Edraw Compressed XML FIle	
+ESS	EasySpreadsheet Spreadsheet	
+FCS	First Choice Spreadsheet	
+FM	FileMaker Database	
+FODS	OpenDocument Flat XML Spreadsheet	
+FP	FileMaker Pro Spreadsheet	
+GNM	Gnumeric Spreadsheet	
+GNUMERIC	Gnumeric Spreadsheet	
+GSHEET	Google Drive Spreadsheet Link File	
+HCDT	Thinkfree Office NEO Cell Template	
+IMP	Improv Spreadsheet	
+MAR	Mariner Calc Spreadsheet	
+NB	Mathematica Notebook	
+NCSS	NCSS Dataset File	
+NMBTEMPLATE	Numbers Spreadsheet Template	
+NUMBERS	Numbers Spreadsheet File	
+NUMBERS-TEF	Numbers iCloud Document	
+ODS	OpenDocument Spreadsheet	
+OGW	Origin Workbook File	
+OGWU	Origin Unicode Workbook File	
+OTS	OpenDocument Spreadsheet Template	
+PMD	PlanMaker Spreadsheet	
+PMDX	PlanMaker Spreadsheet	
+PMV	PlanMaker Spreadsheet Template	
+PMVX	PlanMaker Spreadsheet Template	
+QPW	Quattro Pro Spreadsheet	
+RDF	Report Definition File	
+SDC	Apache OpenOffice Calc Spreadsheet	
+STC	StarOffice Calc Spreadsheet Template	
+SXC	StarOffice Calc Spreadsheet	
+TMV	TimeMap Visual	
+TMVT	TimeMap Template	
+UOS	Uniform Office Spreadsheet	
+WKI	Lotus 2 Worksheet	
+WKQ	Quattro Pro for DOS Spreadsheet File	
+WKS	Works Spreadsheet	
+WKS	Lotus 1-2-3 Spreadsheet	
+WKU	Lotus 1-2-3 Spreadsheet	
+WQ1	Quattro Pro for DOS Spreadsheet File	
+WQ2	Quattro Pro for DOS Spreadsheet File	
+WR1	Lotus Symphony Worksheet File	
+XAR	Excel Auto-Recovery File	
+XL	Excel Spreadsheet	
+XLR	Works Spreadsheet	
+XLS	Excel Spreadsheet	
+XLSB	Excel Binary Spreadsheet	
+XLSHTML	Microsoft Excel HTML Spreadsheet	
+XLSM	Excel Open XML Macro-Enabled Spreadsheet	
+XLSMHTML	Microsoft Excel MIME HTML Spreadsheet	
+XLSX	Microsoft Excel Open XML Spreadsheet	
+XLTHTML	Microsoft Excel HTML Spreadsheet Template	
+XLTM	Excel Open XML Macro-Enabled Spreadsheet Template	
+XLTX	Excel Open XML Spreadsheet Template

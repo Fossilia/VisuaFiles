@@ -1,0 +1,500 @@
+4DB	4th Dimension Database Structure File	
+4TH	Forth Language File	
+A	Static Library	
+A2W	Alice World	
+ABC	ActionScript Byte Code File	
+ACD	RSLogix 5000 Program	
+ADDIN	Visual Studio Add-in Definition File	
+ADS	Ada Specification File	
+AGI	Asterisk Gateway Interface File	
+AIA	MIT App Inventor Source Code File	
+ALB	Alpha Five Library	
+AM4	AutoPlay Media Studio 4 Project File	
+AM5	AutoPlay Media Studio 5 Project File	
+AM6	AutoPlay Media Studio 6 Project	
+AM7	AutoPlay Media Studio 7 Project	
+ANE	Adobe AIR Native Extension	
+AP_	ADT Android Developer Package	
+APA	RSView Development Project Archive	
+APPX	Windows 8 App Package	
+APPXUPLOAD	Windows 8 App Upload Package	
+APS	Visual C++ Resource File	
+ARSC	Android Package Resource File	
+ARTPROJ	Artifacts Project	
+AS	ActionScript File	
+AS2PROJ	FlashDevelop ActionScript 2 Project File	
+AS3PROJ	FlashDevelop ActionScript 3 Project File	
+ASC	ActionScript Communication File	
+ASI	Alpha Five Variable File	
+ASM	Assembly Language Source Code File	
+ASM	Visual Studio Assembler Source Code File	
+ASVF	Asphyre Sphinx Archive File	
+AU3	AutoIt v3 Script	
+AUTOPLAY	AutoPlay Media Studio Project File	
+AWK	AWK Script	
+B	BASIC Source File	
+BAS	BASIC Source Code File	
+BB	Blitz Source Code File	
+BBC	BBC BASIC Data File	
+BBPROJECT	BBEdit Project File	
+BBPROJECTD	BBEdit Project Document	
+BCP	Borland C++ Makefile	
+BDSPROJ	Borland Developer Studio Project	
+BET	BETA Source File	
+BLUEJ	BlueJ Package File	
+BPG	Borland Project Group	
+BPL	Borland Package Library	
+BRX	BREW Application Resource File	
+BS2	BASIC Stamp 2 Code File	
+BSC	Visual Studio Source Browser Information File	
+C	C/C++ Source Code File	
+C	Lite-C Script	
+CAF	CryENGINE Character Animation File	
+CAPROJ	Construct Project File	
+CAPX	Construct Compressed Project File	
+CBL	COBOL Source Code File	
+CBP	Code::Blocks Project File	
+CC	C++ Source Code File	
+CCGAME	XNA Creators Club Game Package	
+CCN	Compressed Multimedia Fusion File	
+CCP	CodeCharge Studio Page File	
+CD	Visual Studio Class Diagram	
+CDF	CryENGINE Character Definition File	
+CFC	ColdFusion Component File	
+CLASS	Java Class File	
+CLIPS	Coda Clips File	
+CLS	Program Class File	
+CLW	Visual C++ ClassWizard File	
+COB	COBOL Source Code File	
+COD	Compiled Source Code	
+CONFIG	Configuration File	
+CP	Xcode C++ Source File	
+CP	Captivate Source File	
+CPP	C++ Source Code File	
+CS	C# Source Code File	
+CSI	ContentServ Include File	
+CSI	EdLog Program Data File	
+CSN	Adobe Code Snippet Document	
+CSP	Caché Server Page	
+CSPROJ	Visual Studio C# Project	
+CSX	Visual C# Script	
+CTL	Visual Basic UserControl Object File	
+CTP	CakePHP Template	
+CTXT	BlueJ Context File	
+CU	CUDA Source Code File	
+CVSRC	CVS Command File	
+CXP	CX-Programmer Project File	
+CXX	C++ Source Code File	
+D	D Source Code File	
+DBA	CryENGINE Animation Database File	
+DBA	DarkBASIC Source Code File	
+DBML	Visual Studio OR Design File	
+DBO	DarkBASIC Object	
+DBPRO	DarkBASIC Professional Project File	
+DBPROJ	Visual Studio Database Project File	
+DCP	Delphi Compiled Package	
+DCPROJ	Dashcode Project	
+DCU	Delphi Compiled Unit	
+DCUIL	Delphi NET Compiled Unit File	
+DEC	Declaration File	
+DEF	Module-Definition File	
+DEVICEIDS	Device Identification FIle	
+DEX	Dalvik Executable File	
+DF1	Omnis Native Datafile	
+DFM	Delphi Form	
+DGML	Visual Studio Directed Graph Document	
+DGSL	Visual Shader Graph File	
+DIFF	Patch File	
+DM1	ER/Studio Data Model File	
+DMD	SQL Developer Data Modeler File	
+DOB	Visual Basic UserDocument	
+DOX	Visual Basic Binary UserDocument	
+DPK	Delphi Package	
+DPKW	Delphi Package	
+DPL	Delphi Package Library	
+DPR	Delphi Project	
+DPROJ	Delphi Project	
+DSGM	DS Game Maker Project	
+DSP	Visual C++ 6 Project	
+DTD	Document Type Definition File	
+EDML	Adobe Extension Data Markup Language Document	
+EDMX	ADONET Entity Data Model Designer File	
+ENT	External Entity	
+ENTITLEMENTS	Mac App Sandboxing Entitlements File	
+EQL	Embedded SQL File	
+ERB	Ruby ERB Script	
+ERL	Erlang Source Code File	
+EX	Euphoria Source Code	
+EXP	Symbols Export File	
+EXW	Euphoria Source code File	
+F	Fortran Source Code	
+F90	Fortran 90 Source Code File	
+FBP	wxFormBuilder Project	
+FBZ7	Compressed FinalBuilder 7 Project	
+FGL	Fifth Generation Language Source File	
+FLA	Adobe Animate Animation	
+FOR	Fortran 77 Source File	
+FORTH	Forth Language File	
+FPM	FPS Creator Map File	
+FRAMEWORK	Mac OS X Application Framework	
+FRX	Visual Basic Binary Form File	
+FS	Visual F# Source File	
+FSI	Visual F# Signature File	
+FSPROJ	Visual F# Project File	
+FSPROJ	FireStarter Project File	
+FSSCRIPT	Visual F# Script	
+FSX	Visual F# Script File	
+FTL	FreeMarker Template File	
+FTN	Fortran Source Code File	
+FXC	FilePackager Configuration	
+FXCPROJ	FX Composer Project File	
+FXL	FaceFX Language File	
+FXML	FXML Source Code File	
+FXPL	Adobe Flash FXP Library	
+GCH	Precompiled Header File	
+GED	Game Editor Project File	
+GEM	RubyGems Package	
+GEMSPEC	Gem Specification File	
+GFAR	Greenfoot Archive	
+GITATTRIBUTES	Git Attributes File	
+GITIGNORE	Git Ignore File	
+GLD	MPLAB C Compiler Linker Script File	
+GM6	GameMaker 6 Project File	
+GM81	Game Maker 81 Project File	
+GMD	Game Maker Program Code	
+GMK	Game Maker Project File	
+GMO	GNU Machine Object File	
+GMX	GameMaker File	
+GORM	Gorm Interface Resource File	
+GREENFOOT	Greenfoot Project Archive	
+GROOVY	Groovy Source Code File	
+GROUPPROJ	Delphi Project Group File	
+GS	Google Apps Script	
+GS3	GameStarter File	
+GSPROJ	GameSalad Windows Project File	
+GSZIP	GameSalad Marketplace Asset File	
+H	C/C++/Objective-C Header File	
+HAL	HansaWorld Application Language File	
+HAML	Haml Source Code File	
+HAS	Haskell Script	
+HBS	Handlebars Template	
+HH	C++ Header File	
+HPF	High Performance Fortran File	
+HPP	C++ Header File	
+HS	Haskell Script	
+HXX	C++ Source Code Header File	
+I	Visual Studio Intermediate File	
+ICONSET	Mac OS X Icon Set Folder	
+IDB	Visual Studio Intermediate Debug File	
+IDL	Interface Definition Language File	
+IDT	Windows Installer Database Text Archive File	
+ILK	Incremental Linking File	
+IML	IntelliJ IDEA Module	
+INC	Include File	
+INL	C++ Inline File	
+INO	Arduino Sketch File	
+IPCH	Intellisense Precompiled Header File	
+IPR	InstallShield Professional Project File	
+IPR	IntelliJ IDEA Project File	
+ISE	InstallShield Express Project File	
+ISM	InstallShield Project File	
+IST	InstallShield Project Template File	
+IWB	IWBasic Source Code File	
+IWS	IntelliJ IDEA Web Page	
+JAVA	Java Source Code File	
+JCP	JCreator Project File	
+JIC	JTAG Indirect Configuration File	
+JPR	JBuilder Project	
+JPX	JBuilder Project	
+JSFL	Animate JSFL Script File	
+JSPF	Java Server Page Fragment	
+KDEVELOP	KDevelop Project Data File	
+KDEVPRJ	KDevelop Project File	
+KPL	Kids Programming Language File	
+L	Lex Source File	
+LBI	Dreamweaver Library Item	
+LBS	Omnis Library	
+LDS	Binutils LD Linker Script	
+LGO	Logo Instructions File	
+LHS	Literate Haskell Script	
+LICENSES	Visual Studio Licensed Classes File	
+LICX	Visual Studio License File	
+LISP	Lisp Source Code File	
+LIT	Literate Haskell Script	
+LIVECODE	LiveCode Stack File	
+LNT	PC-lint/FlexeLint Configuration File	
+LPROJ	Localized Project Folder	
+LSPROJ	Visual Studio LightSwitch Project	
+LTB	LithTech Binary File	
+LUA	Lua Source File	
+LUCIDSNIPPET	Lucid Snippet File	
+LXSPROJ	Liquid XML Studio Project File	
+M	Objective-C Implementation File	
+M	MATLAB Source Code File	
+M4	Macro Processor Library	
+MAGIK	Magik Source Code File	
+MAK	Makefile	
+MARKDOWN	Markdown Documentation File	
+MCP	CodeWarrior Project	
+MD	Markdown Documentation File	
+MDZIP	MagicDraw Project Archive	
+MER	RSView Development Runtime File	
+MF	Java Manifest File	
+MFA	Multimedia Fusion Development File	
+MK	Makefile	
+ML	ML Source Code File	
+MM	Objective-C++ Source File	
+MO	Machine Object File	
+MOD	Fortran Module File	
+MOM	Managed Object Model	
+MPR	FoxPro Generated Menu Program	
+MPX	FoxPro Compiled Program Menu	
+MRT	Stimulsoft Report File	
+MSHA	Microsoft Help Asset File	
+MSHC	Microsoft Help Container File	
+MSHI	Microsoft Help Index File	
+MSIX	MSIX Installer Package	
+MSP	MaxScript Page File	
+MSS	Microprocessor Software Specification File	
+MV	MivaScript File	
+MXML	Flex MXML Component	
+MYAPP	Visual Studio Application XML File	
+NBC	Next Byte Codes Source Code File	
+NCB	Visual C++ IntelliSense Database	
+NED	OMNeT++ Network Description File	
+NEKO	Neko Source Code File	
+NFM	Delphi NET Form File	
+NIB	Interface Builder User Interface File	
+NK	NUKE Script	
+NLS	NetLogo Source File	
+NQC	Not Quite C Source Code File	
+NSH	NSIS Header File	
+NSI	NSIS Script	
+NUPKG	NuGet Package	
+NUSPEC	NuGet Specification File	
+NVV	NVIDIA Vertex Shader File	
+NW	Node-Webkit App Package	
+NXC	Not eXactly C Source Code File	
+O	Compiled Object File	
+OCA	Custom Control Library Type File	
+OCTEST	Xcode Objective-C Unit Test Bundle	
+OCX	ActiveX Control	
+ODL	Object Description Language File	
+OMO	OMake Object File	
+OWL	OWL Source Code File	
+P	Pascal Source Code	
+P3D	Panda3D Multifile	
+PAS	Pascal Source File	
+PAS	Delphi Unit Source File	
+PATCH	Patch File	
+PB	PureBasic Source File	
+PBG	Pixel Bender Graph File	
+PBJ	Pixel Bender Bytecode File	
+PBK	Pixel Bender Kernel File	
+PBXBTREE	Xcode Auto-Complete File	
+PBXPROJ	Xcode Project Data File	
+PBXUSER	Xcode Project User Data File	
+PCH	Precompiled Header File	
+PCP	Windows Installer Patch Creation Properties File	
+PDE	Processing Development Environment Source Code File	
+PDM	VB Project Information File	
+PH	Perl Header File	
+PIKA	Pika Software Builder Project File	
+PJX	FoxPro Project	
+PKGDEF	Visual Studio Shell File	
+PKGUNDEF	Visual Studio Shell File	
+PL	Perl Script	
+PL	Prolog Source Code File	
+PL1	PL/I Source Code	
+PLAYGROUND	Xcode Playground File	
+PLC	PL/B Source File	
+PLE	Messenger Plus! Live Encrypted Log File	
+PLI	PL/I Source Code File	
+PM	Perl Module	
+PO	Portable Object	
+POD	Perl POD File	
+POT	Portable Object File	
+PPC	Mobile Data Studio Project File	
+PRG	Visual FoxPro Program File	
+PRG	RAPID Program File	
+PRI	Qt Project Include File	
+PRI	Package Resource Index File	
+PRO	Qt Project File	
+PROTO	Protocol Buffer File	
+PSC	Papyrus Script	
+PSM1	Windows PowerShell Script Module File	
+PTL	Rational Rose Petal File	
+PWN	Pawn Source Code File	
+PXD	Pyrex Definition File	
+PY	Python Script	
+PYD	Python Dynamic Module	
+PYW	Python GUI Source File	
+PYX	Pyrex Source Code File	
+QPR	FoxPro Generated Query Program	
+R	Rez Source Code File	
+R	R Script File	
+R	REBOL Script	
+RAV	Rave Reports Project File	
+RB	Ruby Source Code	
+RBC	Rembo-C Script	
+RBP	Real Studio Project File	
+RBW	Ruby Script	
+RC	Resource Script	
+RC2	Visual Studio Resources File	
+RDLC	Visual Studio Client Report Definition File	
+REFRESH	Visual Studio Refresh File	
+RES	C++ Complied Resource Script	
+RES	Windows Resource File	
+RESJSON	Windows JavaScript Resources File	
+RESOURCES	Visual Studio Resource File	
+RESW	Windows Resources File	
+RESX	NET Managed Resources File	
+REXX	Rexx Source File	
+RISE	RISE Editor Model File	
+RKT	Racket Source Code File	
+RNC	RELAX NG Compact Syntax File	
+RODL	RemObjects Definition Language File	
+RPY	Python Script	
+RSRC	Macintosh Resource File	
+RSS	Symbian Application Resource File	
+RUL	InstallShield Rules File	
+S	Source Code File	
+S19	Motorola S19 File Record	
+SAS	SAS Program File	
+SB	Scratch Project File	
+SB2	Scratch 20 Project File	
+SB3	Scratch 30 Project File	
+SBPROJ	OpenGL Shader Builder Project	
+SC	SuperCollider Source Code File	
+SCC	SourceSafe Source Code Control File	
+SCRIPTSUITE	AppleScript Script Suite File	
+SCRIPTTERMINOLOGY	AppleScript Script Terminology File	
+SDEF	AppleScript Dictionary Document	
+SH	Bash Shell Script	
+SLN	Visual Studio Solution File	
+SLOGO	StarLogo Project File	
+SLTNG	StarLogo TNG Project File	
+SMA	AMX Mod Plugin Source File	
+SMALI	Android Smali Assembly Language File	
+SNIPPET	Visual Studio IntelliSense Code Snippet	
+SO	Shared Library	
+SPEC	RPM Specification File	
+SQLPROJ	Visual Studio SQL Server Project	
+SRC	Source Code	
+SRCRPM	Red Hat Package Manager Source File	
+SS	SilverStripe Source Code File	
+SSC	SourceSafe Status File	
+SSI	Adobe Dreamweaver Server Side Include File	
+STORYBOARD	Interface Builder Storyboard Document	
+SUD	Super Project Analyzer File	
+SUO	Visual Studio Solution User Options File	
+SUP	Super Project Definition File	
+SVN-BASE	Subversion Base File	
+SWC	Flex Components Archive	
+SWD	Flash Debug File	
+SWIFT	Swift Source Code File	
+SYM	Symbols File	
+T	Turing Source Code File	
+TARGETS	MSBuild Targets File	
+TCL	Tcl Script	
+TDS	Turbo Debugger Symbols File	
+TESTRUNCONFIG	Visual Studio Test Run Configuration File	
+TESTSETTINGS	Visual Studio Test Settings File	
+TEXTFACTORY	BBEdit Text Factory	
+TK	Tk Script	
+TLD	Tag Library Descriptor File	
+TLH	Typelib Generated C/C++ Header File	
+TLI	Typelib Generated C/C++ Inline File	
+TMLANGUAGE	TextMate Language Grammar File	
+TMPROJ	TextMate Project File	
+TNS	TI-Nspire Document	
+TPU	Turbo Pascal Unit	
+TRX	Visual Studio Test Results File	
+TT	Visual Studio Text Template	
+TU	Turing Source File	
+TUR	Turing Program Source File	
+TWIG	Twig Template	
+UI	User Interface File	
+UML	UML Data Object Model	
+V	Verilog Source Code File	
+V	Coq Source Code File	
+V11SUO	Visual Studio 2012 Solution User Options File	
+V12SUO	Visual Studio 2013 Solution User Options File	
+VB	Visual Basic Project Item File	
+VBG	Visual Basic Project Group File	
+VBP	Visual Basic Project File	
+VBPROJ	Visual Studio Visual Basic Project	
+VBX	Visual Basic Custom Control	
+VBZ	Visual Basic Project Template	
+VC	Verge Code File	
+VCP	eMbedded Visual C++ Project File	
+VCPROJ	Visual C++ Project File	
+VCXPROJ	Visual C++ Project	
+VDM	VDM Specification File	
+VDP	Visual Studio Deployment Project	
+VDPROJ	Visual Studio Setup and Deployment Project	
+VGC	ViziGen Code Generation Template	
+VHD	VHDL Source File	
+VM	Velocity Template	
+VSMACROS	Visual Studio Binary Macro Project	
+VSMDI	Visual Studio Test Metadata File	
+VSMPROJ	Visual Studio Text Macro Project	
+VSP	Visual Studio Performance Report File	
+VSPS	Visual Studio Serialized Performance Report	
+VSPSCC	Visual Studio Project Source Control File	
+VSPX	Visual Studio Performance Report Data File	
+VSSSCC	Visual Studio Solution Source Control File	
+VSZ	Visual Studio Wizard File	
+VTM	Visual Tool Markup Language Document	
+VTML	Visual Tool Markup Language File	
+VTV	Adobe Dreamweaver Validator Configuration File	
+W	OpenEdge Architect Source Code File	
+W32	Win32 Makefile	
+WDGT	Adobe Captivate Widget File	
+WDGTPROJ	Dashcode Widget Project	
+WDL	World Definition Language Script	
+WDP	Windev Project File	
+WDW	WinDev Window File	
+WIQ	Visual Studio Work Item Query File	
+WIXLIB	WiX Library File	
+WIXMSP	WiX XML Patch File	
+WIXMST	WiX Transform File	
+WIXOBJ	WiX Object File	
+WIXOUT	WiX XML Output File	
+WIXPDB	WiX Debug File	
+WIXPROJ	WiX Project File	
+WORKSPACE	Code::Blocks Workspace File	
+WPW	WinDev Mobile Window File	
+WSC	Windows Script Component	
+WSP	SharePoint Solution Package	
+WXI	WiX Include File	
+WXL	WiX Localization File	
+WXS	WiX Source File	
+XAML	XAML File	
+XAMLX	Visual Studio Workflow Service File	
+XAP	XACT Project	
+XCAPPDATA	Xcode App Data File	
+XCARCHIVE	Xcode Archive	
+XCCONFIG	Xcode Configuration Settings File	
+XCDATAMODELD	Xcode Core Data Model File	
+XCODEPROJ	Xcode Project	
+XCSNAPSHOTS	Xcode Snapshot	
+XCWORKSPACE	Xcode Workspace File	
+XIB	Interface Builder File	
+XOJO_BINARY_PROJECT	Xojo Binary Project File	
+XOJO_MENU	Xojo Menu File	
+XOJO_PROJECT	Xojo Project File	
+XOJO_XML_PROJECT	Xojo XML Project File	
+XOML	Windows Workflow File	
+XPP	X++ Source Code File	
+XQ	XQuery File	
+XQL	XML Query Language File	
+XQM	XQuery Module	
+XQUERY	XQuery Source Code File	
+XSD	XML Schema Definition	
+XT	Xdebug Trace File	
+Y	Yacc Source File	
+YAML	YAML Document	
+YML	YAML Document	
+YMP	YaST Metapackage File	
+YPR	BYOB Project File

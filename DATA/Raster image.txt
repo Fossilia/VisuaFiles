@@ -1,0 +1,483 @@
+001	Fax File	
+2BP	Pocket PC Bitmap Image File	
+360	360desktop Panorama File	
+411	Mavica Thumbnail Image	
+73I	TI-73 Screenshot File	
+8CA	TI-84 Plus C Image Var Format	
+8CI	TI-84 Plus C Pic Vars Format	
+8PBS	Adobe Photoshop Macintosh File	
+8XI	TI-83/84 Plus Picture File	
+9PNG	NinePatchDrawable Image	
+ABM	Photo Album	
+ACCOUNTPICTURE-MS	Windows 8 Account Picture File	
+ACORN	Acorn Image	
+ACR	American College of Radiology File	
+ADC	Scanstudio 16 Color Image	
+AFPHOTO	Affinity Photo Document	
+AFX	Auto FX PhotoGraphic Edges Image	
+AGIF	Active GIF Creator Project	
+AGP	ArtGem Project File	
+AIC	Advanced Image Coding File	
+AIS	ACDSee Image Sequence File	
+ALBM	HP Photo Printing Software Album File	
+APD	ACDSee Photo Document	
+APM	Aldus Placeable Metafile Image	
+APNG	Animated Portable Network Graphic	
+APS	Greeting Card Studio Project File	
+APX	Ability Photopaint Studio Image	
+ARR	Amber Graphic File	
+ART	AOL Compressed Image File	
+ARTWORK	ArtStudio Image	
+ARW	ArtStudio Image	
+ASE	Aseprite Sprite File	
+ASEPRITE	Aseprite Sprite File	
+AVATAR	Google Talk Avatar File	
+AVB	Microsoft Comic Chat Character	
+AWD	Microsoft Fax Document	
+AWD	Artweaver Document	
+BLKRT	Block Artist Image File	
+BLZ	Compressed Bitmap Image	
+BM2	Subspace Bitmap File	
+BMC	Bitmap Cache File	
+BMF	Binary Material File	
+BMP	Bitmap Image File	
+BMQ	Re-Volt Mipmap File	
+BMX	Siemens Mobile Animations File	
+BMZ	Compressed Bitmap Image	
+BPG	BPG Image	
+BRK	Brooktrout Fax Document	
+BRN	Cube Graphics File	
+BRT	Bryce Textures File	
+BSS	Resident Evil Background Images File	
+BTI	Nintendo Texture File	
+BW	Black and White SGI Image File	
+C4	JEDMICS Image File	
+CAL	CALS Raster Graphic	
+CALS	CALS Raster Graphic File	
+CAM	CASIO Digital Camera Picture File	
+CAN	Canon Navigator Fax Document	
+CD5	Chasys Draw Image File	
+CDC	AutoCAD DesignCenter Preview Cache File	
+CDG	Compact Disc Plus Graphics Image	
+CE	ComputerEyes Image	
+CID	Navigator Chart Image Description File	
+CIMG	CImg Image File	
+CIN	Kodak Cineon Bitmap File	
+CIT	Intergraph Bitmap Image File	
+CLIP	Clip Studio Format File	
+CMR	US Sectional Chart Map File	
+COLZ	Adobe Collage File	
+CPBITMAP	iOS Wallpaper Image	
+CPC	CPC Compressed Image File	
+CPD	Compressed PhotoDefiner Image File	
+CPG	Manga Studio Page File	
+CPS	Corel Photo House File	
+CPT	Corel PHOTO-PAINT Image	
+CPX	Corel CMX Compressed File	
+CSF	Content Sealed Format	
+CT	Scitex Continuous Tone File	
+CUT	Dr Halo Bitmap Image File	
+DC2	Kodak Photo-Enhancer File	
+DCM	DICOM Image	
+DCX	Zsoft Multi-Page Paintbrush File	
+DDB	Device Dependent Bitmap	
+DDS	DirectDraw Surface	
+DDT	Age of Mythology Textures File	
+DGT	DST Thumbnail File	
+DIB	Device Independent Bitmap File	
+DIC	DICOM Image	
+DICOM	DICOM Image File	
+DJV	DjVu Image	
+DJVU	DjVu Image	
+DM3	DigitalMicrograph Image	
+DMI	BYOND Dream Maker Icon File	
+DPX	Digital Picture Exchange File	
+DRZ	Draz Paint File	
+DT2	Windows Live Messenger Emoticon Image File	
+DTW	Desktop Wallpaper	
+DVL	Dalim Virtual Library File	
+ECW	Enhanced Compression Wavelet Image	
+EPP	Canon Easy-PhotoPrint Image File	
+EXR	OpenEXR Image	
+FAC	FACE Image File	
+FACE	FACE Graphic File	
+FAL	Bitmap Graphic Header Information	
+FAX	Fax Document	
+FBM	Fuzzy Bitmap Image	
+FIL	Symbian Application Logo File	
+FITS	Flexible Image Transport System File	
+FLIF	Free Lossless Image Format File	
+FPG	Fenix Graphics Collection File	
+FPOS	Photo Pos Pro Image	
+FPPX	Microsoft Fresh Paint Painting File	
+FPX	FlashPix Bitmap Image File	
+FRM	Painter Frame Stack File	
+G3	CCITT Group 3 Fax Image	
+GBR	GIMP Brush File	
+GCDP	Greeting Card Studio Design Project	
+GFB	GIFBlast Compressed Image File	
+GFIE	Greenfish Icon Editor Pro Graphic	
+GGR	GIMP Gradient File	
+GIF	Graphical Interchange Format File	
+GIH	GIMP Image Hose File	
+GIM	PlayStation Portable Image File	
+GMBCK	Game Maker Background Image File	
+GMSPR	Game Maker Sprite File	
+GP4	CCITT Group 4 Fax File	
+GPD	Graphic PhotoDefiner Image File	
+GRO	Graphic Object Bitmap	
+GROB	Graphic Object Bitmap File	
+GRY	Grayscale Image	
+HDP	HD Photo File	
+HDR	High Dynamic Range Image File	
+HDRP	HDRtist Pro Document	
+HEIC	High Efficiency Image Format	
+HEIF	High Efficiency Image Format	
+HF	HF Image	
+HPI	Hemera Photo Objects Image File	
+HR	TRS-80 Image	
+HRF	Hitachi Raster Format File	
+I3D	Houdini Image 3D File	
+IC1	Low Resolution Imagic Graphics File	
+IC2	Medium Resolution Imagic Graphics File	
+IC3	High Resolution Imagic Graphics File	
+ICA	Image Object Content Architecture File	
+ICB	Targa ICB Bitmap Image	
+ICN	Windows Icon File	
+ICON	Icon Image File	
+ICPR	IconUtils Project File	
+ILBM	Interleaved Bitmap Image	
+IMG	GEM Image	
+IMJ	JFIF Bitmap Image	
+INFO	ZoomBrowser Image Index File	
+INK	Pantone Reference File	
+INSP	Insta360 Panoramic Image	
+INT	SGI Integer Image	
+IPHOTOPROJECT	iPhoto Print Project	
+IPICK	iPick Football Image	
+IPX	IPIX Image	
+ITC2	iTunes Cover Flow Data File 2	
+ITHMB	iPod and iPhone Photo Thumbnails File	
+IVR	Image Worlds File	
+IVUE	Live Picture IVUE Image	
+IWI	Infinity Ward Texture File	
+J	JPEG Image	
+J2C	JPEG 2000 Code Stream	
+J2K	JPEG 2000 Image	
+JAS	Paint Shop Pro Compressed Graphic	
+JB2	JBIG2 Image	
+JBF	Paint Shop Pro Browser Cache File	
+JBG	Joint Bi-level Image Group File	
+JBIG	Joint Bi-level Image Group File	
+JBIG2	JBIG2	
+JBMP	JAmes OS Bitmap Image	
+JBR	Paint Shop Pro Brushes File	
+JFI	JPEG File Interchange Image	
+JFIF	JPEG File Interchange Format	
+JIA	Digital Photo Navigator Album	
+JIF	JPEG Interchange Format Image	
+JIFF	JPEG Image File Format	
+JNG	JPEG Network Graphic	
+JP2	JPEG 2000 Core Image File	
+JPC	JPEG 2000 Code Stream File	
+JPD	Joint PhotoDefiner Image	
+JPE	JPEG Image	
+JPEG	JPEG Image	
+JPF	JPEG 2000 Image	
+JPG	JPEG Image	
+JPG-LARGE	Large JPEG Image	
+JPG2	JPEG 2000 Image	
+JPS	Stereo JPEG Image	
+JPX	JPEG 2000 Image File	
+JTF	JPEG Tagged Interchange Format	
+JWL	Roxio Jewel Case File	
+JXR	JPEG XR Image	
+KDI	KD Player Skin Image File	
+KDK	Kodak Proprietary Decimated TIFF File	
+KFX	Kofax Image File	
+KIC	Kodak Compressed Image File	
+KODAK	Kodak Photo CD File	
+KPG	Kai's Power Goo Graphic	
+KRA	Krita Image Document	
+LB	Lens Blur Project File	
+LBM	Deluxe Paint Bitmap Image	
+LIF	Leica Image File	
+LIP	Clip Studio Paint File	
+LJP	Lossless JPEG Image	
+LRPREVIEW	Adobe Lightroom Preview File	
+LZP	LazPaint Image	
+MAC	MacPaint Image	
+MAT	Vue Material File	
+MAX	PaperPort Scanned Document	
+MBM	Multi Bitmap File	
+MBM	Kerbal Space Program Texture File	
+MCS	Mathcad Image	
+MDP	FireAlpaca Image	
+MDP	MediBang Paint Pro Image	
+MET	Presentation Manager Metafile	
+MIC	Image Composer File	
+MIFF	Magick Image File	
+MIP	Multiple Image Print File	
+MIX	Microsoft Image Exchange File	
+MNG	Multiple Network Graphic	
+MNR	AutoCAD Menu Resource File	
+MPF	Microsoft Media Package FIle	
+MPO	Multi Picture Object File	
+MRB	Multiple Resolution Bitmap File	
+MRXS	MIRAX Virtual Slide File	
+MSK	Paint Shop Pro Mask File	
+MSP	Microsoft Paint Bitmap Image	
+MXI	Maxwell Image	
+MYL	MyLogo Maker Image	
+NCD	Nero CoverDesigner File	
+NCR	NCR Image	
+NCT	Nero CoverDesigner Template	
+NEO	NeoChrome Bitmap Image	
+NLM	Nokia Logo File	
+NOL	Nokia Operator Logo File	
+NWM	Sony NWM Display Screen File	
+OC3	openCanvas 3 Event File	
+OC4	openCanvas 4 Event File	
+OC5	openCanvas 5 Event File	
+OCI	openCanvas Image	
+ODI	OpenDocument Image	
+OMF	OMF Interchange Image File	
+OPLC	Nokia Operator Logo File	
+ORA	OpenRaster Image File	
+OTA	OTA Bitmap Image	
+OTB	Nokia Over The Air Bitmap Image	
+OTI	OpenDocument Image Template	
+OZB	MU Online Image File	
+OZJ	MU Online Image File	
+OZT	MU Online Image File	
+PAC	STAD Graphic File	
+PAL	Dr Halo Color Palette File	
+PANO	Camera Panoramic Picture	
+PAP	PanoramaStudio Project File	
+PAT	Pattern File	
+PBM	Portable Bitmap Image	
+PC1	Degas Elite Low Res Image File	
+PC2	Degas Elite Medium Res Image File	
+PC3	Degas Elite High Res Image File	
+PCD	Kodak Photo CD Image File	
+PCX	Paintbrush Bitmap Image File	
+PDD	Adobe PhotoDeluxe Image	
+PDN	paintnet Image File	
+PE4	Photo Explorer Thumbnail Archive	
+PE4	PhotoImpact Image Archive	
+PFI	PhotoFiltre Studio Image	
+PFR	Paint Shop Pro Picture Frame File	
+PGF	Progressive Graphics File	
+PGM	Portable Gray Map Image	
+PI1	Degas Low Resolution Image File	
+PI2	Portrait Innovations Photo	
+PI2	Degas Medium Resolution Image File	
+PI3	Degas High Resolution Image File	
+PI4	DEGAS Image	
+PI5	DEGAS Bitmap Image	
+PI6	DEGAS Bitmap Image File	
+PIC	Generic Picture File	
+PIC	Houdini Raster Image	
+PIC	QuickTime PICT Image	
+PICNC	Houdini 3D Compositing Image	
+PICT	Picture File	
+PICTCLIPPING	Picture Clipping File	
+PISKEL	Piskel Sprite	
+PIX	BRL-CAD Raw Image File	
+PIX	Alias PIX Image	
+PIXADEX	Pixadex Icon	
+PIXELA	Pixela Project	
+PJPEG	Progressive JPEG Image	
+PJPG	Progressive JPEG Image	
+PM	Unix XV Graphic File	
+PM3	PageMaker 3 Document	
+PMG	Adobe Photoshop Photomerge Panoramic Composition File	
+PNC	Panasonic Network Camera Image	
+PNG	Portable Network Graphic	
+PNI	Popnoggin Image File	
+PNM	Portable Any Map Image	
+PNS	PNG Stereo Image	
+PNT	MacPaint File	
+PNTG	MacPaint Graphic File	
+POP	Samsung Popcon Character File	
+POV	POV-Ray Raytracing Format	
+POV	Prolab Object File	
+PP4	Picture Publisher Bitmap File	
+PP5	Picture Publisher 5 Image File	
+PPF	Picture Publisher Image File	
+PPM	Portable Pixmap Image File	
+PRW	Artlantis Shader Preview File	
+PSB	Photoshop Large Document Format	
+PSD	Adobe Photoshop Document	
+PSDC	Adobe Photoshop Cloud Document	
+PSDX	Photoshop Touch Document	
+PSE	Photoshop Elements Photo Project	
+PSF	PhotoStudio File	
+PSP	PaintShop Pro Image File	
+PSPBRUSH	PaintShop Pro Brush File	
+PSPIMAGE	PaintShop Pro Image	
+PTEX	Ptex Texture File	
+PTG	ArtRage Painting	
+PTK	Puntotek Embroidery Design File	
+PTS	PTGui Project File	
+PTX	Pentax RAW Image File	
+PTX	Paint Shop Pro Texture File	
+PVR	POWERVR Texture File	
+PWP	PhotoWorks Image File	
+PX	Pixel Image File	
+PXD	Pixlr Layered Image	
+PXICON	CandyBar Icon	
+PXM	Pixelmator Image File	
+PXR	Pixar Image File	
+PYXEL	Pyxel Image Document	
+PZA	PhotoSuite Album File	
+PZP	PhotoSuite Project File	
+PZS	PhotoSuite Slide Show File	
+QIF	QuickTime Image File	
+QMG	Samsung Theme Graphics File	
+QTI	QuickTime Image File	
+QTIF	QuickTime Image File	
+RAS	Sun Raster Graphic	
+RCL	Recolored Project File	
+RCU	RealWorld Layered Cursor Image	
+RGB	RGB Bitmap	
+RGB	Q0 Image File	
+RGBA	RGB Bitmap	
+RGF	LEGO MINDSTORMS EV3 Robot Graphics File	
+RIC	NXT Image File	
+RIF	Painter Raster Image File	
+RIFF	Painter Raster Image	
+RIX	ColoRIX Image	
+RLE	Run Length Encoded Bitmap	
+RLI	RealWorld Graphics Layered Image	
+RPF	Rich Pixel Format File	
+RRI	RealWorld Image	
+RS	Sun Raster Graphic	
+RSB	Red Storm Bitmap File	
+RSR	Poser Model Preview File	
+RTL	Raster Transfer Language File	
+RVG	RVG X-ray Image	
+S2MV	StarCraft 2 Map Preview File	
+SAI	PaintTool SAI Image	
+SAR	Saracen Paint Image	
+SBP	Sketchbook Express iCloud Image	
+SCG	ColoRIX Image File	
+SCI	ColoRIX Graphics Image	
+SCN	TreePaint Image	
+SCP	ColoRIX Bitmap Graphic File	
+SCT	Scitex Continuous Tone File	
+SCU	ColoRIX Bitmap Image	
+SDR	SmartDraw Drawing	
+SEP	Separated Image File	
+SFC	Motic Microscope Image	
+SFF	Structured Fax File	
+SFW	Seattle FilmWorks Image	
+SGD	GeneSnap Image File	
+SGI	Silicon Graphics Image File	
+SHG	Segmented Hyper-Graphic	
+SID	MrSID Image	
+SID	ScanIt Document	
+SIG	Broderbund Sign File	
+SIG	QuickTac SIG File	
+SIM	Aurora Image	
+SKITCH	Skitch Image	
+SKM	SketchUp Materials File	
+SKYPEEMOTICONSET	Skype Emoticon Set File	
+SLD	AutoCAD Slide File	
+SMP	Xionics SMP Image	
+SOB	OpenOfficeorg Impress Bimap Styles File	
+SPA	MikuMikuDance Sphere Mapping File	
+SPC	Spectrum 512 Compressed Image	
+SPE	WinSpec CCD Capture File	
+SPH	MikuMikuDance Sphere Mapping File	
+SPIFF	Still Picture Interchange File Format	
+SPJ	Microsoft ICE Panorama Project	
+SPP	Serif PhotoPlus Picture File	
+SPR	Half-Life Sprite File	
+SPRITE	Scratch Sprite File	
+SPRITE2	Scratch 20 Sprite File	
+SPU	Spectrum 512 Image	
+SR	Sun Raster Image File	
+STE	Samsung IPOLIS Image File	
+STEX	Godot Engine StreamTexture File	
+SUMO	Sumo Paint Image	
+SUN	Sun Raster Graphic File	
+SUNIFF	Sun TAAC Image	
+SUP	Subtitle Bitmap File	
+SVA	Manga Browser Comic File	
+SVM	StarView Metafile	
+T2B	CyBook Thumbnail Image	
+TAAC	Sun TAAC Image File	
+TARGA	Targa Graphic	
+TB0	Adobe Photoshop Thumbnail Cache File	
+TBN	Kodi Thumbnail Image	
+TEX	Texture File	
+TEXTURE	Diesel Engine Game Texture File	
+TFC	Unreal Engine 3 Texture File Cache	
+TG4	Tiled Group 4 Raster Image File	
+TGA	Targa Graphic	
+THM	Thumbnail Image File	
+THM	Video Thumbnail File	
+THUMB	JAlbum Thumbnail File	
+TIF	Tagged Image File	
+TIF	GeoTIFF Image	
+TIFF	Tagged Image File Format	
+TJP	Tiled JPEG File	
+TM2	PlayStation 2 Graphic	
+TN	LG Phone Image	
+TN1	Tiny Low Resolution Image	
+TN2	Tiny Medium Resolution Image	
+TN3	Tiny High Resolution Image	
+TNY	Atari Tiny Image	
+TPF	TexMod Package File	
+TPI	TrueVision Bitmap Image	
+TPS	TexturePacker Sprite Sheet File	
+TRIF	Tiled Raster Interchange Format	
+TSR	TIFF Simple Rare File	
+TUB	PaintShop Pro Picture Tube	
+U	Subsampled Raw YUV Image	
+UFO	Ulead File Object	
+UGA	Ulead GIF Animator File	
+UGOIRA	Ugoira Animated Image File	
+UPF	Panono Unstitched Panorama Format	
+URT	Utah Raster Toolkit File	
+USERTILE-MS	Windows 8 User Tile File	
+V	Subsampled Raw YUV Image	
+VDA	Targa Bitmap Image File	
+VFF	Sun TAAC Graphic File	
+VIC	VICAR Image	
+VICAR	VICAR Image File	
+VIFF	Visualization Image File Format	
+VNA	JVC JLIP Image	
+VPE	Photoshop Vanishing Point Export File	
+VRIMG	V-Ray Image File	
+VRPHOTO	VR Photo Image	
+VSS	Visio Stencil File	
+VST	Targa Bitmap Image	
+WB0	Webshots Picture File	
+WB1	Webshots Picture File	
+WB2	Webshots Picture File	
+WBC	Webshots Collection File	
+WBD	Webshots Picture File	
+WBM	Wireless Bitmap Image	
+WBMP	Wireless Bitmap Image File	
+WBP	Webshots Collection File	
+WBZ	Webshots Download Picture File	
+WDP	Windows Media Photo File	
+WEBP	WebP Image	
+WI	Wavelet Image	
+WIC	J Wavelet Image	
+WMP	Windows Media Photo File	
+WPB	openCanvas 11 Image	
+WPE	openCanvas 11 Event File	
+WVL	Wavelet Image	
+XBM	X11 Bitmap Graphic	
+XCF	GIMP Image File	
+XPM	X11 Pixmap Graphic	
+XWD	X Windows Dump Image	
+Y	Subsampled Raw YUV Image	
+YSP	BYOB Sprite File	
+YUV	YUV Encoded Image File	
+ZIF	Zooming Image Format File	
+ZIF	Zoomify Image Format File	
+ZVI	Zeiss Vision Image

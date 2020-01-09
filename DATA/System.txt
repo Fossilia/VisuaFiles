@@ -1,0 +1,267 @@
+0	Shared Library Link File	
+000	Indexing Service Data File	
+208	ASUS Notebook BIOS 208 Update File	
+2FS	Puppy Linux Save State File	
+386	Windows Virtual Device Driver	
+3FS	Puppy Linux Save State File	
+73U	TI-73 Explorer Operating System File	
+8CU	TI-84 Plus C Operating System File	
+8XU	TI-83 and TI-84 Plus Operating System File	
+ADM	Administrative Template File	
+ADML	Group Policy Language-Specific Administrative Template	
+ADMX	Group Policy Administrative Template File	
+ADV	Audio Driver File	
+AML	ACPI Machine Language File	
+ANI	Windows Animated Cursor	
+ANN	Help Annotations	
+AOS	ARCHOS PCtablet Firmware File	
+ASEC	Android Secure Application File	
+ATAHD	ATA Hard Drive Flag File	
+AUTOMATICDESTINATIONS-MS	Windows Jump List File	
+BASH_HISTORY	Bash History File	
+BASH_PROFILE	Bash Interactive Login Shell File	
+BASHRC	Bash Non-Interactive Login Shell File	
+BCD	Windows Boot Configuration Data File	
+BIN	Router Firmware File	
+BIO	BIOS File	
+BK1	Windows Indexing Service File	
+BK2	Windows Indexing Service Data File	
+BLF	CLFS Base Log File	
+BMK	Help Bookmarks	
+BOM	Mac OS X Bill of Materials File	
+BUD	Binary Printer Description File	
+C32	Syslinux COM32 Module	
+CAB	Windows Cabinet File	
+CANNEDSEARCH	Apple Predefined Search	
+CAP	ASUS BIOS Update File	
+CAT	Windows Catalog File	
+CDMP	WCS Device Model Profile	
+CGZ	Linux Drivers Archive	
+CHG	Windows Net Logon File	
+CHK	Netgear Router Firmware File	
+CHS	Windows Chinese Noise-Word List File	
+CHT	Windows Chinese Traditional Noise-Word List File	
+CI	Windows Content Indexer Catalog File	
+CLB	COM+ Catalog File	
+CM0013	Samsung Smart TV Index File	
+CMO	ASUS BIOS File	
+CNT	Help Contents File	
+CONFIGPROFILE	Apple Configuration Profile	
+CPI	Codepage Information File	
+CPL	Windows Control Panel Item	
+CPQ	Compaq OEM Disc Configuration File	
+CPR	Windows Phone Display Settings File	
+CRASH	Mac OS X Crash Log File	
+CUR	Windows Cursor	
+CUSTOMDESTINATIONS-MS	Windows 7 Jump List File	
+DAT	Windows Registry Hive File	
+DESKLINK	Desktop Shortcut	
+DESKTHEMEPACK	Windows 8 Desktop Theme Pack File	
+DEV	Windows Device Driver File	
+DEVICEMETADATA-MS	Device Metadata Package	
+DFU	iOS DFU File	
+DIAGCAB	Troubleshooting Pack Cabinet File	
+DIAGCFG	Troubleshooting Pack Configuration File	
+DIAGPKG	Troubleshooting Pack File	
+DIMAX	DiMAX Firmware Image File	
+DIT	Active Directory Information Tree File	
+DLL	Dynamic Link Library	
+DLX	Renamed DLL File	
+DMP	Windows Memory Dump	
+DRPM	Delta RPM File	
+DRV	Device Driver	
+DSS	DCC Active Designer File	
+DTHUMB	Android Data Thumbnail	
+DVD	DOS Device Driver	
+DYC	Xerox Printer Driver Configuration File	
+EBD	Windows EBD System File	
+EDJ	Enlightenment Theme File	
+EFI	Extensible Firmware Interface File	
+EFIRES	EFI Image File	
+ELF	Executable and Linkable Format File	
+EMERALD	Emerald Theme	
+ESCOPY	ES File Explorer File Manager Temporary File	
+ETL	Microsoft Event Trace Log File	
+EVT	Windows Event Viewer Log File	
+EVTX	Windows 7 Event Log File	
+FFA	Find Fast Status File	
+FFL	Find Fast Document List	
+FFO	Find Fast Document Properties Cache	
+FFX	Microsoft Find Fast Index	
+FID	Microsoft Catalog Indexing Service File	
+FIRM	Boot9Strap 3DS Firmware File	
+FL1	Lenovo BIOS Update File	
+FLG	Puppy Linux Partition Flag File	
+FOTA	Firmware Over-the-Air File	
+FPBF	Mac OS X Burn Folder	
+FTF	FlashTool Firmware File	
+FTG	Full Text Group	
+FTS	Full Text Search	
+FX	ReadyBoot Trace File	
+GMMP	WCS Gamut Map Model Profile	
+GRL	Windows Update Status File	
+GROUP	Windows Contacts Group File	
+GRP	Windows Program Manager Group	
+H1S	Windows Assistance Platform Help File	
+HCD	Samsung Android Firmware File	
+HDMP	Windows Heap Dump	
+HELP	Mac OS X Help Book	
+HHC	HTML Help Table of Contents	
+HHK	HTML Help Index	
+HIV	Windows Registry Hive File	
+HLP	Windows Help File	
+HPJ	Help Project File	
+HSH	Windows Catalog Search Index File	
+HTT	Hypertext Template File	
+HVE	Windows Registry Hive File	
+ICL	Windows Icon Library File	
+ICNS	macOS Icon Resource File	
+ICO	Icon File	
+ICONPACKAGE	IconPackager Theme File	
+IDI	EVA Controller Event Log	
+IDX	Index File	
+IFW	INTUS Firmware File	
+IM4P	IMG4 Payload File	
+IME	Windows Input Method Editor File	
+IMG3	iPhone IMG3 File	
+INF_LOC	Windows Driver Information Cache File	
+INS	Internet Naming Service File	
+INTERNETCONNECT	Apple Internet Connect Document	
+ION	File Description File	
+IOPLIST	Mac OS X IOPLIST File	
+IPOD	Rockbox Firmware File	
+IPTHEME	IconPackager Raw Theme File	
+ITEMDATA-MS	Windows 8 Start Screen Item Data File	
+ITS	Internet Document Set	
+IUS	InfoTMIC Firmware Update File	
+JOB	Windows Task Scheduler Job File	
+JPN	Windows Japanese Noise-Word List File	
+KBD	Keyboard Layout Script	
+KEXT	Mac OS X Kernel Extension	
+KEY	Security Key	
+KO	Linux Kernel Module File	
+KOR	Windows Korean Noise-Words List File	
+KS	Kickstart File	
+LFS	Samsung Phone paramslfs File	
+LIBRARY-MS	Windows Library Description File	
+LNK	Windows Shortcut	
+LOCKFILE	Mac OS X PLIST Lock File	
+LOG1	Windows Registry Hive Log File	
+LOG2	Windows Registry Hive Log 2 File	
+LPD	Lookout Protocol Driver File	
+LPD	LPD Daemon Print Permissions File	
+LST	GRUB Boot List File	
+MANIFEST	Windows Application Manifest File	
+MAPIMAIL	Send To Mail Recipient	
+MBN	Multi Boot Image	
+MBR	Master Boot Record File	
+MDMP	Windows Minidump	
+ME	Puppy Linux Partition Flag File	
+MEM	Parallels Desktop Memory Dump File	
+METADATA_NEVER_INDEX	Spotlight Never Index File	
+MI4	Audio Player Firmware File	
+MLC	Microsoft Language Interface Pack	
+MMV	Magnex Firmware File	
+MOBILECONFIG	Apple Mobile Configuration File	
+MOD	GRUB Module	
+MSC	Microsoft Management Console Snap-in Control File	
+MSP	Windows Installer Patch	
+MSSTYLE	Windows XP Unsigned Style	
+MSSTYLES	Windows XP Style	
+MTZ	MIUI Theme	
+MUI	Multilingual User Interface File	
+MUI_CCCD5AE0	Hid User Library	
+MUM	Windows Vista Update Package	
+MYDOCS	Send To My Documents	
+NB0	Device Boot Loader Image	
+NBH	ROM Update Utility Image File	
+NETWORKCONNECT	Apple Network Connect Document	
+NFO	System Information File	
+NLS	Microsoft National Language Support File	
+NT	Windows NT Startup File	
+NTFS	NTFS Partition File	
+ODEX	Optimized Dalvik Executable	
+PANIC	Kernel Panic File	
+PAT	DiskStation Manager Installation File	
+PCK	System Center Configuration Manager Package File	
+PDR	Windows Port Driver	
+PFX	PKCS #12 Certificate File	
+PID	Creative Driver File	
+PIT	Samsung Phone Firmware File	
+PK2	Silkroad Online Game Data File	
+PNF	Precompiled INF File	
+POL	Windows Policy File	
+PPD	PostScript Printer Description File	
+PPM	Post Programmable Memory File	
+PREFPANE	Mac OS X System Preference Pane	
+PRF	Windows System File	
+PRINTEREXPORT	Windows Printer Migration File	
+PRO	TurboIntegrator Process Definition File	
+PROFILE	Bash Shell Profile	
+PROP	Android Build Properties File	
+PROVISIONPROFILE	Apple Provision Profile	
+PRT	Printer Driver File	
+PS1	Microsoft Indexing Service Data File	
+PS2	Microsoft Search Catalog Index File	
+PWL	Windows Password List	
+QKY	Quirky Kernel	
+QVM	Q Virtual Machine	
+RC1	Samsung Mobile Device Firmware File	
+RC2	Samsung Mobile Device Firmware File	
+RCO	PlayStation Portable Resource File	
+REG	Registry File	
+REGLNK	Registry Editor Shortcut File	
+REGTRANS-MS	Registry Transaction Log File	
+RFW	Rockchip Firmware File	
+RMT	Router Firmware File	
+RS	Windows Rating System File	
+RUF	Samsung DVD and Blu-ray Player Firmware File	
+RVP	Sharp Blu-ray Player Firmware File	
+SAVEDSEARCH	Spotlight Saved Search	
+SAVER	Mac OS X Screen Saver	
+SB	Slax Bundle	
+SBF	Android System File	
+SBN	Cisco IP Phone Firmware File	
+SCAP	EFI Firmware File	
+SCF	Windows Explorer Command	
+SCHEMAS	GConf Schema Definition File	
+SCR	Windows Screensaver	
+SDB	Custom Application Compatibility Database	
+SDT	Siemens Desktop Theme File	
+SEARCHCONNECTOR-MS	Windows Search Connector File	
+SERVICE	Systemd Service Unit File	
+SFCACHE	ReadyBoost Cache File	
+SHD	Windows Print Job Shadow File	
+SHSH	iPhone/iPod Touch SHSH Blob File	
+SIN	Sony Xperia Firmware File	
+SO0	Unix Shared Library File	
+SPL	Windows Print Spool File	
+SPX	System Profiler XML Report	
+SQM	Service Quality Monitoring File	
+STR	Windows Screensaver File	
+SWP	Swap File	
+SYS	Windows System File	
+SYS	Motorola Driver File	
+TA	Sony Firmware File	
+TDZ	Drobo Firmware File	
+THA	Windows Thai Noise-Words List File	
+THEME	Microsoft Plus! Desktop Theme	
+THUMBNAILS	Android Thumbnails Folder	
+TIMER	Systemd Unit Configuration File	
+TRASHES	macOS USB Flash Drive Trash Folder	
+TRX_DLL	Windows Startup File	
+UCE	Windows UCE System File	
+VGA	VGA Display Driver	
+VGD	Generic CADD VGA Driver	
+VX_	Compressed Virtual Device Driver File	
+VXD	Virtual Device Driver	
+WDF	Windows Driver Foundation File	
+WDGT	Dashboard Widget	
+WEBPNP	Web Point and Print File	
+WER	Windows Error Report	
+WGZ	S60 Web Runtime Widget Package	
+WPH	Phoenix BIOS File	
+WPX	Printer Description File	
+XFB	Xserve RAID Firmware Binary File	
+XRM-MS	Microsoft Security Certificate	
+ZONEIDENTIFIER	Windows Zone Identifier File

@@ -1,0 +1,162 @@
+3D	Survex 3D Cavern File	
+3DC	iGO 3D Building File	
+3DD	ArcGlobe Document	
+3DL	iGO Landmark File	
+477	MNS Shape Definition Companion File	
+ADF	ESRI ArcInfo Binary Grid Format	
+APL	ArcPad Layer File	
+APR	ArcView Project File	
+AQM	AlpineQuest Map File	
+AT5	Lowrance Map File	
+ATX	ArcGIS Attribute Index File	
+AUX	Auxiliary File	
+AVL	ArcView Legend File	
+AXE	AutoRoute Map File	
+AXT	Microsoft AutoRoute Template	
+BIL	ESRI BIL File	
+BPW	Bitmap World File	
+BT	Binary Terrain File	
+CML	OGC Web Map Context Document	
+COR	Trimble Corrected SSF File	
+CSF	GeoMedia Coordinate System File	
+CUB	ISIS Cube File	
+CVI	CassiniVision Map Image File	
+DEM	Digital Elevation Model	
+DIV	DIVA-GIS Project File	
+DIX	DIVA-GIS Export File	
+DLG	Digital Line Graph	
+DMF	Geosystem Digitals Map File	
+DMT	DeLorme Transfer File	
+DT0	DTED Level 0 File	
+DT1	DTED Level 1 File	
+DT2	DTED Level 2 File	
+DVC	IDRISI Vector Definition File	
+E00	ArcInfo Coverage Export File	
+EMBR	Spatial Geodatabase File	
+ERS	ER Mapper Data File	
+EST	Streets & Trips Map File	
+ETA	Google Earth Placemark File	
+FBL	iGO Map File	
+FDS	FME Custom Format File	
+FFS	FME Desktop Feature Store File	
+FIT	Garmin Activity File	
+FLS	ArcView GIS Windows Help Supporting File	
+FME	FME Mapping File	
+FMI	FME Include File	
+FMV	FME Desktop Viewspace File	
+FMW	FME Workbench File	
+GEOJSON	GeoJSON File	
+GFW	GIF World File	
+GLB	STK Globe File	
+GMAP	Garmin Map File	
+GMF	Geology Multi-File	
+GML	Geography Markup Language File	
+GPF	Geosoft Project File	
+GPRX	Geoxa Project File	
+GPS	Survey Pro Coordinate File	
+GPX	GPS Exchange File	
+GRB	GRIB Meteorological Data File	
+GSB	Golden Software Boundary File	
+GSI	Golden Software Interchange File	
+GSM	MapViewer Project File	
+GSR	Golden Software Reference File	
+GSR2	Golden Software Reference File	
+GST	MapInfo Geoset File	
+GTM	GPS TrackMaker Data File	
+GVSP	Geocortex Viewer for Silverlight Project	
+GWS	Geosoft Workspace File	
+HDR	ESRI BIL Header File	
+HGT	SRTM Elevation Data File	
+IMD	GIS Image Metadata File	
+IMG	ERDAS IMAGINE Image File	
+IMG	Garmin Map File	
+IMI	Magellan Map File	
+JGW	JPEG World File	
+JNX	BirdsEye JNX Raster Map	
+JPGW	JPEG World File	
+JPR	Fugawi Projection File	
+JPW	World File for JPEG	
+KML	Keyhole Markup Language File	
+KMZ	Google Earth Placemark File	
+LAN	ERDAS LAN File	
+LEN	IMAGINE Lens Flare File	
+LPK	ArcGIS Layer Package	
+MAP	NAVIGON Map File	
+MAP	Mapjects Server Webparts File	
+MDC	Merkaartor Document	
+MGM	MGMaps File	
+MID	MapInfo Data File	
+MIF	MapInfo Interchange Format File	
+MMM	MiraMon Maps File	
+MMZ	MiraMon Compressed Map File	
+MNH	Master Navigator Header File	
+MPK	ArcGIS Map Package	
+MPS	Pocket Streets Map File	
+MSD	Map Service Definition File	
+MWX	MapGuide Author Map Window XML File	
+MXD	ArcGIS Map Document	
+MXT	ArcGIS Map Template	
+NGT	Noni GPSPlot Track File	
+NM2	Navitel Map File	
+NM3	Navitel 5 Map File	
+NMAP	NaviComputer Map File	
+NMC	ArcGIS Explorer Map Content File	
+NMF	ArcGIS Explorer Map File	
+NV2	Navionics Chart File	
+OBF	OsmAnd Offline Map File	
+OCD	OCAD Map File	
+OSB	OpenStreetMap Binary Map File	
+OSC	OpenStreetMap Change File	
+OSM	OpenStreetMap Map File	
+OV2	TomTom Points of Interest Database	
+PIN	MNS Projection Information File	
+PIX	PCI Geomatics Database File	
+PMF	ESRI Published Map File	
+PRM	Route 66 Map File	
+PTM	MapPoint Map File	
+PTT	MapPoint Map Template	
+QCT	Memory-Map QuickChart File	
+RDC	IDRISI Raster Documentation File	
+RDF	ArcGIS Report Document File	
+REF	IDRISI Raster Image Reference File	
+RGN	Garmin Regional Map File	
+RMP	Magellan Raster Map File	
+RRD	Reduced Resolution Dataset File	
+RST	IDRISI Raster Image	
+SAF	Street Atlas USA Map File	
+SBF	Septentrio Binary File	
+SBN	ESRI Spatial Binary File	
+SBN	GT-31 Binary Data File	
+SDF	Spatial Data Format File	
+SDM	Spatial Data Modeling Language File	
+SDW	MrSID World File	
+SEGY	SEG-Y Data File	
+SGY	SEG-Y Data File	
+SHP	ESRI Shapefile	
+SLD	Styled Layer Descriptor File	
+SMM	Map Manager Schema File	
+SMP	IDRISI Palette File	
+SP3	NGS SP3 File	
+SSF	Trimble Standard Storage Format File	
+STT	Streets & Trips Map Template	
+STYLE	ArcGIS Style Manager File	
+SVP	Subsurface Viewer Project	
+SVX	Survex Cavern Data File	
+SXD	ArcScene Document	
+SYM	TatukGIS Symbols File	
+TAB	MapInfo TAB File	
+TFRD	Tape Image Format Requirements Document	
+TFW	World File for TIFF	
+TH	Therion Data File	
+TIMESTAMP	Geodatabase Timestamp File	
+TPX	DeLorme Topo Project File	
+TTKGP	TatukGIS Project File	
+USR	Lowrance GPS Data File	
+VCT	IDRISI Vector Image	
+VDC	IDRISI Vector Documentation File	
+VEC	IDRISI Vector File	
+WFD	Wayfinder Map File	
+WLD	ESRI World File	
+WLX	MapSource Web Link File	
+WOR	MapInfo Workspace File	
+XOL	Swiss Map Overlay

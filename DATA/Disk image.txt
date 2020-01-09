@@ -1,0 +1,202 @@
+000	Virtual CD Disc Image File	
+2MG	Apple IIGS Disk Image	
+AA	Generic CD Image	
+ADF	Amiga Disk File	
+ADF	Archimedes Disk File	
+ADZ	Compressed Amiga Disk File	
+AFD	AFF Disk Image Part File	
+AFF	AFF Disk Image	
+AFM	AFF Metadata File	
+ASHDISC	Ashampoo Burning Studio Image	
+ATR	Atari Disk Image	
+AVHD	Hyper-V SnapShot File	
+B5I	BlindWrite 5 Disk Image	
+B5T	BlindWrite 5 Disc Track Information File	
+B6I	BlindWrite 6 Disc Image	
+B6T	BlindWrite 6 Track Information File	
+BDF	MIDAS BDF Disk Image File	
+BIF	Boot Information File	
+BIN	Binary Disc Image	
+BWA	BlindWrite Disk Information File	
+BWI	BlindWrite CD/DVD Disc Image	
+BWS	BlindWrite Sub Code File	
+BWT	BlindWrite 4 Track Information FIle	
+BWZ	WinImage Batch Configuration File	
+C2D	WinOnCD Disc Image	
+CCD	CloneCD Disc Image	
+CD	CD-i OptImage	
+CDI	DiscJuggler Disc Image	
+CDM	NTI CD-Maker Image	
+CDR	Macintosh DVD/CD Master	
+CDT	CD-Text File	
+CFS	Compact File Set Archive	
+CIF	Easy CD Creator Disk Image	
+CISO	Compact ISO File	
+CL5	Easy CD Creator 5 Saved Project	
+CSO	Compressed ISO Disk Image	
+CUE	Cue Sheet File	
+CUE	CDRWIN Cue Sheet	
+D00	VirtualDrive Disc Image Part File	
+D01	VirtualDrive Disc Image Part 2 File	
+D64	Commodore 64 Disk Image	
+D88	Toshiba Pasopia 7 Disk File	
+DAA	PowerISO Direct-Access-Archive	
+DAO	Disk at Once CD/DVD Image	
+DAX	PSP Compressed ISO Disc Image	
+DBR	DeepBurner Disc Project	
+DCF	Disk Copy Fast Disk Image File	
+DISC	Toast Document	
+DISK	Linux Virtual Hard Disk	
+DMG	Apple Disk Image	
+DMGPART	Mac OS X Disk Image Part	
+DMS	Disk Masher Image	
+DSK	Disk Image	
+DVD	CloneCD DVD Information File	
+DVDR	DVD/CD-R Master Image	
+DXP	CDBurnerXP Data Compilation File	
+E01	EnCase Image File	
+ECM	ECM Disc Image	
+EDA	Ensoniq ASR Disk Image	
+EDE	Ensoniq EPS Disk Image	
+EDK	Ensoniq KT Disk Image	
+EDQ	Ensoniq SQ1/SQ2/KS32 Disk Image	
+EDS	Ensoniq SQ-80 Disk Image	
+EDV	Ensoniq VFX-SD Disk Image	
+EUI	Ensoniq EPS Compacted Disk Image	
+EX01	EnCase Evidence Image File	
+FCD	Virtual CD Format	
+FDD	Parallels Desktop Floppy Disk Image File	
+FDI	Amiga Disk Image	
+FLG	IsoPuzzle Flag File	
+FLP	Floppy Disk Image	
+G41	Commodore 1541 Disk Image	
+GBI	gBurner Project File	
+GCD	Prassi CD Image	
+GDRIVE	Gizmo Virtual Drive File	
+GI	Global Image	
+GKH	Ensoniq EPS Family Disk Image	
+HC	VeraCrypt Container File	
+HDD	Parallels Desktop Hard Disk File	
+HDI	Hard Disk Image	
+HDS	Parallels Desktop Hard Disk File	
+HFS	HFS Disk Image File	
+HFV	HFS Disk Image	
+I00	DVD Shrink Part 1 File	
+I01	DVD Shrink Part 2 File	
+I02	DVD Shrink Part 3 File	
+IBADR	IsoBuster Address File	
+IBB	ImgBurn Project File	
+IBDAT	IsoBuster Data File	
+IBP	IsoBuster Managed Image Information File	
+IBQ	IsoBuster Managed Image File	
+IMA	Disk Image	
+IMAGE	Apple Disk Image	
+IMD	ImageDisk Disk Image File	
+IMG	Macintosh Disk Image	
+IMG	Disc Image Data File	
+IMG	Floppy Disk Image	
+IMZ	WinImage Compressed Disk Image	
+IPF	Interchangeable Preservation File	
+ISO	Disc Image File	
+ISO	PlayStation 2 ROM File	
+ISO	Wii Game ROM File	
+ISZ	Zipped ISO Disk Image	
+IXA	Ulead Disc Image format	
+K3B	K3b Disk Burning Project File	
+L01	EnCase Logical Evidence File	
+LCD	CDSpace Emulated Disk Image	
+LNX	Atari Lynx ROM	
+LX01	EnCase Logical Evidence File	
+MBI	Multi-Bootable Information File	
+MD0	Alcohol Disk Image Segment 1	
+MD1	GEAR CD/DVD Disc Image	
+MD1	Alcohol Disk Image Segment 2	
+MD2	Alcohol Disk Image Segment 2	
+MDF	Media Disc Image File	
+MDS	Media Descriptor Sidecar File	
+MDX	Extended Media Descriptor File	
+MINISO	Mini Image Destination File	
+MIR	Mini-Image Ripper Disc Image	
+MLC	MobaLiveCD File	
+MRIMG	Macrium Reflect Disk Image	
+NCD	NTI CD-Maker Disc Image	
+NDIF	Apple New Disk Image Format File	
+NFI	Dreambox Disc Image	
+NN	Nero CD File List	
+NRG	Nero CD/DVD Image File	
+NRI	Nero ISO CD Compilation File	
+OMG	Image File	
+P01	GEAR CD/DVD Disc Image	
+P01	Toast CD Image	
+P2G	Power2Go Project File	
+P2I	Power2Go Disc Image	
+PARTIMG	Partimage File	
+PDI	InstantCopy Disc Image	
+PGD	PGP Disk Image	
+PGX	Hopedot VOS Data File	
+PMF	Partition Image File	
+PQI	PowerQuest Drive Image	
+PVM	Parallels Virtual Machine	
+PXI	PlexTools Disc Image	
+QCOW	QEMU Copy On Write Disk Image	
+QCOW2	QEMU Copy On Write Version 2 Disk Image	
+RATDVD	RatDVD Disk Image	
+RCL	Easy CD and DVD Creator 6 Project	
+RDF	PowerProducer Disc Image	
+SCO	TotalRecovery Backup Image	
+SDI	Windows System Deployment Image	
+SDSK	SafeHouse Private Storage Volume	
+SIMG	Synclavier Disk Image File	
+SMI	Self-Mounting Disk Image	
+SOPT	Synclavier Optical Disk Image File	
+SPARSEBUNDLE	Mac OS X Sparse Bundle	
+SPARSEIMAGE	Mac OS X Sparse Image	
+SQFS	Squash FS Bootable File	
+ST	Atari ST Disk Image	
+SUB	CloneCD Subchannel File	
+SWM	Split Windows Imaging Format File	
+T64	Commodore 64 Tape Image File	
+TAO	Track at Once CD/DVD Image	
+TAP	Commodore 64 Cassette Tape Image	
+TC	TrueCrypt Volume	
+TD0	Teledisk Archive	
+TIB	Acronis True Image File	
+TOAST	Toast Disc Image	
+TOC	Brasero Table of Contents File	
+TZX	ZX Spectrum Tape Image File	
+UDF	Universal Disk Format File	
+UFS	FreeBSD Unix File System File	
+UIBAK	UltraISO Backup Disk Image	
+UIF	Universal Image Format Disc Image	
+VAPORCD	Norum Vapor CD	
+VC4	Virtual CD Disc Image	
+VC6	Virtual CD 6 CD Image	
+VC8	Virtual CD 8 Disc Image	
+VCD	Virtual CD	
+VCD	FarStone Virtual Drive	
+VCO	Virtual CD Collection File	
+VCX	Virtual Disc Definition File	
+VDI	VirtualBox Virtual Disk Image	
+VDI	Virtuo CD Manager Disk Image	
+VFD	Virtual Floppy Disk	
+VHD	Virtual PC Virtual Hard Disk	
+VHDX	Windows 8 Virtual Hard Drive File	
+VMDK	Virtual Machine Disk File	
+VMWAREVM	VMware Fusion Virtual Machine	
+VOLARCHIVE	CopyCatX Volume Archive	
+WBI	Compact ISO File	
+WII	Scrambled Wii Disc Image	
+WIL	WinImage Disk Image List	
+WIM	Windows Imaging Format File	
+WINCLONE	Winclone Image	
+WLZ	WinImage Compressed Disk Image Set	
+WMT	WinMount Virtual Disk File	
+WOZ	Apple II Disk Image	
+WUD	Wii U Disk Image File	
+X64	Commodore 64 Disk Image	
+XA	GEAR CD/DVD Disc Image	
+XDI	WinArchiver Extended Disc Image File	
+XMD	Extended Media Disc Image	
+XMF	GameJack Disc Image File	
+XVA	XenServer Virtual Appliance File	
+XVD	Xbox Virtual Disk

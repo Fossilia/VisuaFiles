@@ -64,6 +64,11 @@ public class VisuaFiles{
 		System.out.println();
 		fs.printExtensions(20);
 		pickGroup(fs);
+
+		String input = getStringInput();
+		while(!input.equals("exit")){
+			pickGroup(fs);
+		}
 		//fs.sort();
 	}
 

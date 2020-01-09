@@ -1,0 +1,308 @@
+123	PCB123 Circuit Board Design	
+123C	Autodesk 123C Drawing	
+123D	Autodesk 123D Drawing	
+123DX	123D Design Model File	
+2D	VersaCAD 2D Drawing File	
+3DC	RoboCell Cell Setup File	
+3DL	Sierra LandDesigner 3D File	
+3W	XYZprinting Sliced Model File	
+A2L	ASAP2 ECU Description File	
+ACT	Alma CAD/CAM Document	
+ADI	AutoCAD Device-Independent Binary Plotter File	
+ADT	AutoCAD Audit Log	
+AFD	Alphacam Flame Drawing	
+AFS	STAADfoundation Project File	
+ANY	AnyRail Layout Plan	
+ARD	ArtiosCAD Workspace File	
+ART	ArtCAM Model	
+ASC	LTspice Circuit Schematic File	
+ASM	Solid Edge Assembly File	
+ASY	LTspice Symbol File	
+ATT	Alphacam Lathe Tool File	
+BBCD	BobCAD-CAM Document	
+BCD	RealView Debugger Board Chip Definition File	
+BDC	West Point Bridge Designer Design File	
+BDL	CoCreate Bundle File	
+BIMX	BIM Explorer File	
+BIT	Xilinx Bitstream File	
+BLK	AutoCAD Block Template File	
+BMF	FloorPlan File	
+BPM	Bizagi Process Modeler	
+BPMC	Bizagi Process Modeler Collaboration	
+BPZ	Easy Blue Print Symbol Library	
+BRD	Cadence Allegro PCB Design File	
+BRD	KiCad PCB Design File	
+BSW	StruWalker 3D Model	
+BSWX	BIMReview 3D Model	
+BXL	Accelerated Designs PCB Library File	
+CAD	BobCAD-CAM File	
+CAD	Autodesk QuickCAD File	
+CAM	Gerber CAM Job File	
+CAM	FastCAM CAM File	
+CATDRAWING	CATIA V5 Drawing	
+CATPART	CATIA V5 Part File	
+CATPRODUCT	CATIA V5 Assembly File	
+CDDX	Circuit Diagram Document	
+CDL	CADKEY Wireframe Design File	
+CDW	KOMPAS Document	
+CEL	MicroStation Cell Library	
+CF2	Common File Format File	
+CFF	Common File Format	
+CGR	CATIA Graphical Representation File	
+CIB	Luminaire Data File	
+CIRCUIT	KTechlab Circuit Design File	
+CKD	Kubotek Design Container	
+CMP	Solid Edge Wire Harness File	
+CMP	Generic CADD Component File	
+CNC	PartMaster CNC File	
+CNC	CNC Machine Tool Path	
+CND	Melco Condensed Embroidery File	
+CPA	CADSTAR PCB Archive File	
+CRV	VCarve Pro Design File	
+CYP	Home Designer Pro Project File	
+CZD	CAD Zone Drawing	
+DB1	Tekla Structures Model File	
+DBQ	AutoCAD Query Set	
+DC	DesignCAD Design File	
+DC1	DevCad Document	
+DC2	DesignCAD 2D ASCII Drawing	
+DC2	DevCad Cam Pro Document	
+DC3	DesignCAD 3D ASCII Drawing	
+DCD	DesignCAD Drawing	
+DES	Pro/DESKTOP CAD File	
+DFT	Solid Edge Draft Document	
+DFX	Drafix CAD File	
+DGB	FlashCAD Drawing Database	
+DGK	Delcam 3D Model File	
+DGN	MicroStation Design File	
+DLV	CATIA 4 Export File	
+DLX	DIALux Document	
+DRA	OrCAD Drawing File	
+DRA	Dolphin PartMaster Drawing File	
+DRG	AllyCAD Drawing File	
+DRU	EAGLE Design Rules File	
+DRW	ANVIL Drawing File	
+DRW	Personal Designer Drawing File	
+DRWDOT	SolidWorks Drawing Template	
+DSG	Control Studio Document	
+DSN	OrCAD Design File	
+DST	AutoCAD Sheet Set File	
+DST	Tajima Embroidery Format	
+DVG	Graphic Works Vector Graphic	
+DWFX	Design Web Format XPS File	
+DWG	AutoCAD Drawing Database File	
+DWS	AutoCAD Drawing Standards File	
+DWT	AutoCAD Drawing Template	
+DXE	AutoCAD Data Extraction Template	
+DXF	Drawing Exchange Format File	
+DXX	AutoCAD Drawing Interchange Attribute File	
+EASM	eDrawings Assembly File	
+EDF	Edificius Project	
+EDN	EDIF Implementation Netlist File	
+EDRW	SolidWorks eDrawings File	
+ELD	Eulumdat Formatted Luminaire Data File	
+EPF	EAGLE Project	
+EPRT	eDrawings File	
+EQN	GAL Equation File	
+EWB	Electronics Workbench Circuit Design File	
+EWD	EasyWOOD Design File	
+EXB	CAXA Draft	
+EZC	AutoCAD Ecscad Components Backup File	
+EZP	AutoCAD Ecscad Project Backup File	
+FAN	Form•Z Animation File	
+FCD	FastCAD DOS Drawing	
+FCSTD	FreeCAD Document	
+FCSTD1	FreeCAD Backup Document	
+FCW	FastCAD Windows Drawing	
+FLX	FelixCAD Drawing	
+FMZ	Form•Z Project File	
+FNC	QuickCAM 3D CNC File	
+FPD	Front Panel Designer Project	
+FPP	Front Panel Project	
+FZ	Fritzing Project File	
+FZB	Fritzing Bin File	
+FZM	Fritzing Module File	
+FZP	Fritzing Part File	
+FZZ	Fritzing Shareable Project File	
+G	BRL-CAD Geometry File	
+G3D	GOM 3D File	
+GBX	Gerber PCB File	
+GCD	Generic CADD Drawing File	
+GCODE	G-Code 3D Printer File	
+GDS	Graphic Data System File	
+GEO	TruTops Geometry File	
+GINSPECT_PRJ	GOM Inspect Project File	
+GSM	Graphic Description Language File	
+GXC	General CADD Pro Component	
+GXD	General CADD Pro Drawing	
+GXH	General CADD Pro Hatch Pattern File	
+GXM	General CADD Pro Macro File	
+HCP	HydroCAD Project File	
+HSC	Aspen HYSYS Simulation File	
+HSF	HOOPS Stream Format File	
+HUS	Husqvarna Embroidery File	
+IAM	Inventor Assembly File	
+IBA	Lectra Clothing Design Pieces File	
+IC3D	IC3D Scene File	
+ICD	IronCAD 3D Drawing File	
+ICS	IronCAD 3D Drawing File	
+IDE	Inventor iFeature File	
+IDV	Inventor Design View File	
+IDW	Inventor Drawing	
+IF	Procedimientos-Uno IFWin Project File	
+IFCXML	Industry Foundation Classes XML File	
+IFCZIP	Compessed IFC File	
+IGS	IGES Drawing File	
+IPF	iMPACT Project File	
+IPJ	Inventor Project File	
+IPN	Inventor Presentation File	
+IPT	Inventor Part File	
+ISE	Xilinx ISE Project	
+ISO	Arbortext IsoDraw Document	
+ISOZ	Compressed Arbortext IsoDraw Illustration	
+JAM	Jam STAPL File	
+JBC	Jam STAPL Byte-Code File	
+JOB	MetaCAM Nest Job File	
+JT	JT Open CAD File	
+JVSG	Video Surveillance Project	
+JVSGZ	Compressed Video Surveillance Project	
+KIT	20-20 Design File	
+L3B	LEGO 3D Model File	
+LCF	ArchiCAD Library Container File	
+LDR	LDraw Model File	
+LDT	Eulumdat Formatted Luminaire Data File	
+LI3D	Live Interior 3D Document	
+LIA	P-CAD ASCII Library file	
+LIN	AutoCAD Linetype File	
+LIZD	Live Interior 3D Compressed Document	
+LOGICLY	Logicly Circuit File	
+LTL	Luminaire Data File	
+LYC	bestIMAGE Compressed Design File	
+LYR	bestIMAGE Design File	
+MC9	Mastercam 9 Geometry File	
+MCD	MiniCAD Design File	
+MCX	MICRO CADAM-X/6000 Model Data File	
+MDL	Lectra Modaris Clothing Design File	
+MHS	Xilinx XPS Hardware Specification File	
+MIN	Okuma CNC Program File	
+MIN	MAX Interchange Notation File	
+MMG	Model Master 3 Axis Flat File	
+MOD	Femap Model	
+MODEL	CATIA 3D Model FIle	
+MODFEM	Femap Model	
+MP10	Multisim 10 Project File	
+MP11	Multisim 11 Project File	
+MP12	Multisim 12 Project	
+MP13	Multisim 13 Project	
+MP14	Multisim 14 Project	
+MP7	Multisim 7 Project File	
+MP8	Multisim 8 Project	
+MP9	Multisim 9 Project File	
+MS11	Multisim 11 Circuit Design File	
+MS12	Multisim 12 Circuit Design File	
+MS13	Multisim 13 Circuit Design File	
+MS14	Multisim 14 Circuit Design File	
+MS7	Multisim 7 Circuit Design File	
+MS9	Multisim 9 Circuit Design File	
+MSM	Multisim Circuit Design File	
+MTO	FastCAM MTO Text File	
+MVS	Microchip Verification Specification File	
+NC	Mastercam Numerical Control File	
+NC1	Mastercam Numerical Control File	
+NEU	Pro/ENGINEER Neutral File	
+NGC	Xilinx Generated Netlist File	
+NGD	Xilinx Netlist File	
+NPL	Xilinx ISE 5-6 Project File	
+NWC	Navisworks Cache File	
+NWD	Navisworks Document	
+NWF	Navisworks File Set	
+OLB	OrCAD Symbol Library File	
+OPJ	OrCAD Project File	
+OPT	Opterecenja File	
+PAT	AutoCAD Hatch Pattern File	
+PC6	PowerCADD 6 Drawing File	
+PC7	PowerCADD 7 Drawing File	
+PCS	Pfaff Embroidery File	
+PHJ	PhCNC Project File	
+PHO	Gerber Photoplot File	
+PIPD	PIPE-FLO Demo Project File	
+PIPE	PIPE-FLO Project File	
+PLA	ArchiCAD Project Archive	
+PLN	ArchiCAD Project File	
+PM3	Crouzet Logic Software M3 File	
+PRG	PC-DMIS Part Program File	
+PRO	KiCad Project	
+PRT	Creo Parametric Part File	
+PRT	Solid Edge Part File	
+PRT	Unigraphics Part File	
+PRT	CADKEY Part File	
+PSF	AutoCAD PostScript Patterns File	
+PSM	Solid Edge Sheet Metal File	
+PSS	AutoCAD Plot Stamp Settings File	
+PSU	PSU Designer Document	
+PSV	Pipe System Viewer File	
+PWD	Solid Edge Weldment Document	
+PWT	AutoCAD Publish To Web Template	
+QPM	Quick Pallet Maker Input Data	
+RCD	LEGO MINDSTORMS Recording File	
+RCV	RoofCon Viewer Project File	
+RDF	Relux Project File	
+RED	CADViewer Redline Markup File	
+RIG	vRigger Design File	
+RML	Redline Markup Language File	
+RRA	vRigger Rigging Gear File	
+RS	RapidSketch Document	
+RSG	RaySupreme Graph	
+RSM	RouterSim Network Visualizer File	
+RTD	Robot Structural Analysis Design File	
+SAB	ACIS SAB Model File	
+SAT	ACIS SAT 3D Model File	
+SBP	OpenSBP CNC Program File	
+SCAD	OpenSCAD Script	
+SCDOC	SpaceClaim Document	
+SCH	gEDA Schematic File	
+SCH	KiCad Schematic File	
+SDG	Strater Project File	
+SEW	Home Embroidery Format	
+SHX	AutoCAD Compiled Shape File	
+SKF	AutoSketch Drawing	
+SLDASM	SolidWorks Assembly File	
+SLDDRW	SolidWorks Drawing File	
+SLDPRT	SolidWorks Part File	
+SMG	SolidWorks Composer File	
+SPT	SpeedTree Tree Data File	
+STL	Stereolithography File	
+SVD	SolidView Design File	
+SYM	gEDA Symbol File	
+SZA	HiCAD Drawing File	
+T3001	TARGET 3001! Circuit Design Project File	
+TAK	TAK 2000 Thermal Model File	
+TBP	Tekla BIMsight Project	
+TC2	TurboCAD 2D Mac Drawing	
+TC3	TurboCAD 2D/3D Mac Drawing	
+TCD	TurboCAD Mac Deluxe Drawing	
+TCD	Technobox CAD Drawing	
+TCM	TurboCAD Mac Drawing	
+TCP	TurboCAD Mac Pro Drawing	
+TCT	TurboCAD Drawing Template	
+TCW	TurboCAD Drawing File	
+TCX	TurboCAD 3D Model Text File	
+TOP	TopSolid Design Document	
+TOPPRJ	TopSolid Project File	
+TOPVIW	TopSolid'Viewer Document	
+TSC	TINA Design File	
+TSF	Strater Template File	
+ULD	Unified Luminaire Data File	
+UNT	AutoCAD Unit Definition File	
+UPF	Unified Power Format File	
+VET	Lectra Cutter's Must File	
+VND	Type3 Design File	
+VTF	3DESIGN CAD File	
+VWX	Vectorworks Design File	
+WDF	Wintech Drawing File	
+WDP	AutoCAD Electrical Project File	
+X_B	Parasolid Model Part File	
+X_T	Parasolid Model Part File	
+XISE	Xilinx ISE Project File	
+XNC	Exchange NC File	
+XV3	Lattice XVL Geometry File

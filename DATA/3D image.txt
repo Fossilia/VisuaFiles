@@ -1,0 +1,369 @@
+3D	Stereo CAD-3D Image File	
+3D2	Stereo CAD-3D 20 Image File	
+3D4	Stereo CAD-3D 20 Image File	
+3DA	3D Assembly File	
+3DC	3DCT 3D Image	
+3DC	3DCrafter Scene File	
+3DF	3D Format	
+3DL	LightConverse 3D Model File	
+3DM	Rhino 3D Model	
+3DMF	QuickDraw 3D Metafile	
+3DMK	123D Make Project File	
+3DON	Scrutinize 3D Mesh File	
+3DP	123D Catch Photo Scene Data File	
+3DS	3D Studio Scene	
+3DV	3D VRML World	
+3DW	3D World Studio File	
+3DX	Rhino 3D Model File	
+3DXML	Dassault Systemes 3D XML File	
+3MF	3D Manufacturing File	
+A2C	Alice Object File	
+A3D	Alternativa Player 3D Export File	
+A8S	Anim8or Script	
+ACT	Genesis3D Actor File	
+ALBUM	GLC_Player Album File	
+AMF	Additive Manufacturing File	
+AN8	Anim8or File	
+ANIM	Maya Animation File	
+ANIM	Unity Animation File	
+ANIM	Antibody Animation File	
+ANIMSET	FaceFX Animation Set File	
+ANIMSET_INGAME	FaceFX In-Game Animation Set File	
+ANM	3D Animation File	
+AOF	Artlantis Object File	
+AOI	Art of Illusion 3D Scene	
+ASAT	Assemble SAT 3D Model File	
+ATF	Alternativa Texture File	
+ATL	Artlantis 3D Scene File	
+ATM	Vue Atmospheres File	
+B3D	Blitz3D Entity Model File	
+BIO	Mudbox Bio 3D File	
+BIP	Character Studio Biped File	
+BLD	Skyscraper Simulator Building Script	
+BLEND	Blender 3D Data File	
+BLK	BLK360 Data File	
+BR3	Bryce 3 Scene File	
+BR4	Bryce 4 Scene File	
+BR5	Bryce 5 Scene File	
+BR6	Bryce 6 Scene File	
+BR7	Bryce 7 Scene File	
+BRG	Age of Mythology Model File	
+BRO	Broadleaf Tree Model	
+BSK	Bryce Skies File	
+BTO	Bryce Tree File	
+BVH	Biovision Hierarchy Animation File	
+C3D	C3D Model File	
+C3Z	OpenQwaq 3D Model File	
+C4D	Cinema 4D Model File	
+CAF	Cal3D Binary Animation File	
+CAL	3ds Max Pose Adjustment File	
+CAL	CryENGINE Character Animation List	
+CAS	Total War Model File	
+CCB	CopperCube 3D Scene	
+CCP	CopperCube JavaScript File	
+CFG	Cal3D Model Configuration File	
+CG	Cg Program	
+CG3	Cabri 3D Document	
+CGA	Crytek Geometry Animation File	
+CGFX	CgFX Shader File	
+CHR	3ds Max Characters File	
+CHR	CryENGINE Character File	
+CHRPARAMS	CryENGINE Character Parameters File	
+CM2	Poser Camera Set File	
+CMF	Cal3D Binary Mesh File	
+CMOD	Celestia Model	
+CMS	Car Mechanic Simulator 3D Car Model File	
+CMZ	Compressed Poser Camera Set File	
+CPY	3ds Max Copy Track File	
+CR2	Poser Character Rigging File	
+CRF	Cal3D Binary Materials File	
+CRZ	Compressed Poser Character Rigging File	
+CSD	Manga Studio Scene File	
+CSF	Cal3D Binary Skeleton File	
+CSM	Character Studio Marker File	
+CSO	Compiled Shader Object File	
+D3D	Game Maker 3D File	
+DAE	Digital Asset Exchange File	
+DAZ	DAZ Studio 3D Scene	
+DBC	DAZ Brick Camera File	
+DBL	DAZ Brick Light File	
+DBM	DAZ Brick Material File	
+DBS	GAMBIT Mesh File	
+DDD	GLBasic 3D Data File	
+DES	Corel Designer File	
+DFF	RenderWare Model File	
+DFS	BrainSuite Surface File	
+DIF	Torque Game Engine Model File	
+DMC	Mimic Configuration File	
+DN	Adobe Dimension Document	
+DRF	VIZ Render File	
+DS	DAZ Studio 1/2 Script	
+DSA	DAZ Studio 3+ Script	
+DSB	DAZ Studio Binary Script	
+DSD	DAZ Studio Object Morph File	
+DSE	DAZ Studio Encrypted Script	
+DSF	DAZ Studio Asset File	
+DSI	DAZ Studio Layered Image Set	
+DSI	Double-Precision Spectral Image	
+DSO	DAZ Studio Object File	
+DSV	DAZ Studio UV Mapping File	
+DUF	DAZ User File	
+DWF	Design Web Format File	
+E57	LIDAR Point Cloud Data File	
+EGG	Panda3D Model File	
+EXP	CATIA 4 Export File	
+F3D	Fusion 3D Design	
+FACEFX	FaceFX Actor File	
+FACEFX_INGAME	FaceFX In-Game Actor File	
+FBM	Marine Vessel Model File	
+FBX	Autodesk FBX Interchange File	
+FC2	Poser Face Pose File	
+FCP	Phantasy Star Online 2 Female Cast File	
+FCZ	Compressed Poser Face Pose File	
+FG	FaceGen Project File	
+FIG	3ds Max Figure File	
+FLT	OpenFlight Scene Description File	
+FNC	Vue Functions File	
+FP	Fragment Program File	
+FP3	FloorPlan 3D Design File	
+FPE	FPS Creator Entity File	
+FPF	IKEA Home Planner File	
+FPJ	CryENGINE Facial Editor Project File	
+FRY	fryrender Scene File	
+FSH	Fragment Shader File	
+FSQ	CryENGINE Facial Editor Sequence File	
+FUN	Cubify Invention File	
+FUSE	Adobe Fuse 3D Model	
+FX	Direct3D Effects File	
+FXA	OC3 Entertainment FaceFX Actor File	
+FXL	CryENGINE Facial Expression Library	
+FXM	messiahStudio Motion File	
+FXS	messiahStudio Scene File	
+FXT	FaceFX Actor Template File	
+GEO	VRML Geography File	
+GLB	Binary GL Transmission Format File	
+GLF	Space Engine Shader File	
+GLM	Ghoul 2 Model File	
+GLTF	GL Transmission Format File	
+GMF	Leadwerks Game Model File	
+GMMOD	Game Maker 3D Model File	
+GMT	rFactor Model File	
+GRN	Granny 3D File	
+HD2	Poser Hand Pose File	
+HDZ	Compressed Poser Hand Pose File	
+HIP	Houdini Project File	
+HIPNC	Houdini Apprentice File	
+HLSL	High Level Shader Language File	
+HR2	Poser Hair File	
+HRZ	Compressed Poser Hair File	
+HXN	Hexagon Model File	
+IFC	Industry Foundation Classes File	
+IGES	IGES Drawing File	
+IGI	Indigo Image File	
+IGM	Indigo Renderer Material File	
+IGS	Indigo Renderer Scene File	
+IK	CryENGINE IK Animation File	
+IRR	Irrlicht 3D Scene	
+IRRMESH	Irrlicht Static Mesh File	
+IV	Open Inventor Scene Graph File	
+IVE	OpenSceneGraph Binary File	
+J3O	jMonkeyEngine 3D Scene	
+JAS	Cheetah3D Model File	
+KFM	Gamebryo 3D Model File	
+KMC	Kinemac Animation File	
+KMCOBJ	Kinemac Sprite Object	
+KTZ	Kahootz Project File	
+LDM	VolumeViz Multi-Resolution Volume File	
+LLM	Linden Lab Mesh File	
+LND	3D Landscape File	
+LP	Lightscape Preparation File	
+LPS	Bryce Leaf Shape File	
+LT2	Poser Light Set File	
+LTZ	Compressed Poser Light Set File	
+LWO	LightWave 3D Object File	
+LWS	LightWave 3D Scene File	
+LXF	LEGO Digital Designer Model File	
+LXO	Luxology modo 3D Image	
+M3	Blizzard MDX3 Model File	
+M3D	3D Model File	
+M3D	DIALux 3D Object File	
+MA	Maya Project File	
+MAKERBOT	MakerBot Print File	
+MAT	3ds Max Materials File	
+MAX	3ds Max Scene File	
+MAXC	3ds Max Container File	
+MB	Maya Binary Project File	
+MC5	Poser 5 Material File	
+MC6	Poser Material Collection File	
+MCZ	Compressed Poser Material File	
+MD5ANIM	id Tech 4 Model Animation File	
+MD5CAMERA	id Tech 4 Model Camera File	
+MD5MESH	id Tech 4 3D Mesh File	
+MDD	Point Oven Deformation Data File	
+MDL	Warcraft 3 3D Model Text File	
+MDX	Warcraft 3 Model File	
+MEB	PRO100 3D Interior Catalog Element	
+MESH	Godot Engine 3D Mesh File	
+MESH	DirectX Mesh File	
+MESH	3D Mesh Model	
+MGF	Materials and Geometry Format	
+MIX	3ds Max Motion Mixer File	
+MNM	Character Studio Marker Name File	
+MOT	LightWave Motion File	
+MP	Maya PLE Project File	
+MPJ	messiahStudio Project File	
+MQO	Metasequoia Document	
+MRML	3D Slicer Scene Description File	
+MS3D	MilkShape 3D Model	
+MSH	Orbiter 3D Mesh File	
+MSH	Godot Engine 3D Mesh File	
+MTL	OBJ Material File	
+MTX	MetaStream Scene File	
+MTZ	Compressed MetaStream Scene File	
+MU	Kerbal Space Program Mesh File	
+MUD	Mudbox 3D Scene File	
+MXM	Maxwell Material File	
+MXS	Maxwell Studio Scene File	
+N2	Nitrous Minecraft GLSL Shader File	
+N3D	Nuclear 3D File	
+NFF	Neutral File Format	
+NIF	Gamebryo Model File	
+NM	Space Engine Nebula Model File	
+NSBTA	Nintendo DS Texture Animation File	
+OBJ	Wavefront 3D Object File	
+OBP	Bryce Object File	
+OBZ	Compressed 3D Object File	
+OCT	Radiance Octree File	
+OFF	Object File Format	
+OGF	STALKER Model File	
+OL	Valve Hammer Object Layout File	
+P21	Express STEP Data Model File	
+P2Z	Compressed Poser Pose File	
+P3D	Peak3D 3D Graphics File	
+P3L	Adobe Photoshop Light Preset File	
+P3M	Adobe Photoshop Material Preset File	
+P3R	Adobe Photoshop Render Settings Preset File	
+P4D	Pix4D Project	
+P5D	Planner 5D Project	
+PAR	Solid Edge Part File	
+PAT	3D Patch File	
+PGAL	Photo! 3D Album Gallery	
+PHY	3ds Max Physique File	
+PIGM	Packaged Indigo Renderer Material File	
+PIGS	Packaged Indigo Renderer Scene File	
+PKG	CoCreate OneSpace Modeling Package File	
+PKG	Midtown Madness 2 Model File	
+PL0	3D Home Architect Foundation Floor Plan	
+PL1	3D Home Architect Floor Plan	
+PL2	3D Home Architect Second Level Floor Plan	
+PLY	Polygon Model File	
+PMD	MikuMikuDance Model File	
+PMD	Poser Binary Morph File	
+PMX	MikuMikuDance Model File	
+PP2	Poser Prop File	
+PPZ	Compressed Poser Prop File	
+PRC	Product Representation Compact File	
+PREFAB	Unity Prefab File	
+PRIMITIVES	World of Tanks 3D Model File	
+PRIMITIVES_PROCESSED	World of Tanks 3D Model File	
+PRM	Re-Volt Model File	
+PRO	TurboFloorPlan 3D Design File	
+PRO	Professional Home Design Project	
+PRV	Vue Preview File	
+PSA	Unreal Engine Skeletal Animation File	
+PSK	Unreal Engine Skeletal Mesh File	
+PZ2	Poser Pose File	
+PZ3	Poser Scene File	
+PZZ	Compressed Poser Scene File	
+QC	Half-Life Model Compiler Script	
+R3D	RISA-3D Model File	
+RAD	VRAD Lights File	
+RAD	Radiance Scene File	
+RAY	Rayshade Image	
+RCS	RandomControl Scene File	
+RDS	Ray Dream Studio Scene File	
+RFT	Revit Family Template File	
+RIG	Antibody Model Rig File	
+S	Microsoft Train Simulator Shape File	
+S3G	MakerBot 3D Print File	
+SBSAR	Substance Archive	
+SC4MODEL	SimCity 4 Model File	
+SDB	SAP2000 Model File	
+SESSION	CATIA 4 Session File	
+SGN	Signet Bureau DRM File	
+SH3D	Sweet Home 3D Design File	
+SH3F	Sweet Home 3D Model Library	
+SHP	Shapes File	
+SI	Softimage Image File	
+SIS	arivis ImageCore File	
+SKL	Maya Skeleton File	
+SKP	SketchUp Document	
+SM	Space Engine 3D Mesh File	
+SMD	Valve Studiomdl Data File	
+SRF	LightWave Surface File	
+STC	Shade to Manga Studio File	
+STEP	STEP 3D Model	
+STO	PRO100 3D Interior Design Project	
+STP	STEP 3D CAD File	
+T3D	Unreal Engine 3D Object File	
+T3D	Swift 3D Document	
+TCN	Techne Model File	
+TDDD	3D Data Description File	
+TGO	Terragen Object File	
+THING	MakerBot Thing File	
+THL	Total 3D Home Design File	
+TMD	PlayStation Game Model File	
+TME	Bryce Time File	
+TMO	3DCG Animation and Pose File	
+TPS	Bryce Tree Shape File	
+TRI	FaceGen Polygonal Model File	
+TRI	Triangle Mesh File	
+TRUCK	Rigs of Rods Truck Definition File	
+TS1	VirtualBus Texture Description File	
+TVM	TV3D Model	
+U3D	Universal 3D File	
+UMS	Rune 3D Mesh File	
+V3D	Visual3DNET Data File	
+V3O	Emergency 3 and 4 Model File	
+V3V	Vector Art 3D Model File	
+VAC	MikuMikuDance Accessory Settings File	
+VEG	Vue Vegetation file	
+VERT	Vertex Shader File	
+VISUAL	World of Tanks 3D Model Surface File	
+VISUAL_PROCESSED	World of Tanks 3D Model Surface File	
+VMD	Vocaloid Motion Data File	
+VMO	Virtools Media Object File	
+VOB	Vue Objects File	
+VOX	Voxlap Voxel Model File	
+VP	Vertex Program File	
+VPD	MikuMikuDance Vocaloid Pose Data File	
+VRL	VRML Virtual World	
+VS	Vertex Shader File	
+VSH	Vertex Shader File	
+VSO	Compiled Vertex Shader File	
+VTX	Anim8or 3D Model	
+VUE	Vue Scene File	
+VVD	Vivid 3D Scanner Element File	
+W3D	Adobe Shockwave 3D File	
+WFT	GTA 4 Car Model File	
+WOW	SparkMaker 3D Print File	
+WRL	VRML World	
+WRP	Geomagic 3D Wrap File	
+WRZ	Compressed VRML World File	
+X	DirectX Model File	
+X3D	Xara3D Project	
+X3G	3D Print File	
+XAF	3ds Max XML Animation File	
+XAF	Cal3D XML Animation File	
+XMF	Cal3D XML Mesh File	
+XMM	3ds Max XML Animation Map File	
+XOF	Reality Lab 3D Image File	
+XPR	Pro/ENGINEER Part Instance Accelerator File	
+XRF	Cal3D XML Materials File	
+XSF	Cal3D XML Skeleton File	
+XSI	Softimage XSI 3D Image	
+XV0	Lattice XVL Structure File	
+YAODL	PowerFlip 3D Image File	
+YDL	PowerFlip YAODL 3D Image File	
+Z3D	ZModeler 3D File	
+ZT	Mental Ray Image Depth File

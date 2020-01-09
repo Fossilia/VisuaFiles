@@ -154,6 +154,8 @@ public class FileScanner implements Global{
 		File base = new File("DATA");
 		String line;
 
+		FileGroup other = new FileGroup("Other files");
+		
 		for(String name: base.list()){
 			File file = new File("DATA/"+name);
 			FileGroup fileGroup = new FileGroup(name);
@@ -164,11 +166,13 @@ public class FileScanner implements Global{
 				br = new BufferedReader(new FileReader(file));
 				line = br.readLine();
 				//System.out.println(e.getName());
+				//boolean found = false;
 				while(line!=null){
 					words = line.split("\t");
 					//System.out.println(words[0]+" "+e.getName().toUpperCase());
 					if(words[0].equals(e.getName().toUpperCase())){
 						fileGroup.addGroup(e);
+						//found = true;
 						//System.out.println("found");
 						break;
 					}
@@ -195,7 +199,7 @@ public class FileScanner implements Global{
 	}
 
 	public void displayGroupFiles(int num){
-		groupList.get(num).printFiles(20);
+		groupList.get(num).printFiles(100);
 	}
 
 	public void printFileGroups(int num){
@@ -207,8 +211,10 @@ public class FileScanner implements Global{
 			limit = groupList.size();
 		}
 		for(int i=0; i<limit; i++){
-			double percent = ((double)groupList.get(i).getSize()/(double)size)*100;
-			System.out.printf("%10s%10s count: %5d percent: %5.2f%% size: %s\n", groupList.get(i).getName(), manager.getProgressBar(percent, 5), groupList.get(i).getCount(), percent, manager.convertSize(groupList.get(i).getSize()));
+			if(groupList.get(i).getSize()>0){
+				double percent = ((double)groupList.get(i).getSize()/(double)size)*100;
+			System.out.printf("%20s%10s count: %5d percent: %5.2f%% size: %s\n", groupList.get(i).getName(), manager.getProgressBar(percent, 5), groupList.get(i).getCount(), percent, manager.convertSize(groupList.get(i).getSize()));
+			}	
 		}
 	}
 

@@ -1,0 +1,63 @@
+ACSM	Adobe Content Server Message File	
+AEP	Activ E-Book Project	
+APNX	Amazon Page Number Index File	
+AVA	AvaaBook eBook	
+AZW	Amazon Kindle eBook File	
+AZW1	Amazon Topaz eBook	
+AZW3	Amazon KF8 eBook File	
+AZW4	Amazon Print Replica eBook	
+BKK	BookBuddi eBook File	
+BPNUEB	PNU eBook File	
+CBC	Comic Book Collection	
+CEB	Apabi eBook File	
+CEBX	Apabi XML eBook File	
+DNL	DNAML eBook File	
+EA	Kindle End Actions File	
+EAL	Kindle End Actions File	
+EBK	eBook Pro eBook File	
+EDN	Adobe eBook Activation File	
+EPUB	Open eBook File	
+ETD	Adobe Reader EBX Transfer Data File	
+FB2	FictionBook 20 File	
+FKB	Flipkart eBook File	
+HAN	Amazon Kindle eBook Data File	
+HTML0	Book Designer File	
+HTMLZ	Zipped HTML eBook	
+HTXT	Hanvon eBook File	
+HTZ4	HyperMaker 4 Publication	
+HTZ5	HyperMaker 5 Publication	
+IBOOKS	Multi-Touch iBook	
+JWPUB	Jehovah's Witnesses Publication File	
+KFX	Amazon KF10 eBook File	
+KOOB	Koob E-Book File	
+LIT	eBook File	
+LRF	Sony Portable Reader File	
+LRS	Librie Reader Source File	
+LRX	Sony Portable Reader File	
+MART	MartView eBook File	
+MBP	Mobipocket Notes File	
+MOBI	Mobipocket eBook	
+NCX	EPUB Navigation Control XML File	
+NVA	NVA Document	
+OEB	Open eBook File	
+OEBZIP	Zipped Open eBook File	
+OPF	Open Packaging Format File	
+ORB	Original eBook Reader File	
+PEF	PEF Braille Book File	
+PHL	Kindle Popular Highlights File	
+PML	Palm Markup Language File	
+PMLZ	Zipped Palm Markup Language File	
+POBI	Kindle Touch Periodical File	
+PRC	Mobipocket eBook File	
+QMK	YanCEyDesktop Quickmarks File	
+RZB	Red Zion Book File	
+RZS	Red Zion Security File	
+SNB	Shanda Bambook eBook	
+TCR	Psion Series 3 eBook File	
+TK3	TK3 Multimedia eBook	
+TPZ	Kindle Topaz eBook File	
+TR	TomeRaider 2 eBook File	
+TR3	TomeRaider eBook File	
+VBK	VitalSource eBook	
+WEBZ	WEBZ Compressed eBook File	
+YBK	YanCEyWare eBook

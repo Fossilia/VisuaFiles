@@ -1,0 +1,287 @@
+4UI	ForeUI Plot File	
+ADB	Now Contact Address Book Template	
+ADF	ARIS Express Document	
+AFP	Advanced Function Presentation File	
+ANH	Project ROME File	
+ANTMPL	Adobe Edge Animate Template File	
+AO	ActionOutline Outline File	
+AP	ArtPro File	
+ARTICLE	Twixl Publisher Article	
+AV	Final Draft AV Script	
+AVERY	Avery Design & Print Label File	
+BCF	Business Card Designer Pro File	
+BCP	Business Card Designer Plus File	
+BIZ	Broderbund Business Card File	
+BLK	ABBYY FineReader Area Template	
+BMML	Balsamiq Mockups Markup Language File	
+BOOK	FrameMaker Book File	
+BOOK	BookSmart Book File	
+BOOKTEMPLATE	BookSmart Template	
+BPF	Baan ERP Document	
+BRO	CreataCard Brochure Project	
+BRO	Design & Print Page Design File	
+BTW	BarTender Label	
+CADOC	Clicker App Document	
+CAJ	Chinese Academic Journal File	
+CAL	Calendar File	
+CBF	Calendar Builder File	
+CD2	Click'N Design 3D File	
+CDF	Computable Document Format File	
+CDML	Creately Diagram File	
+CDOC	Clicker Document	
+CEDPRJ	Ashampoo CoverEditor Project	
+CH3	Harvard Graphics DOS Chart File	
+CHAI	Chaimera Artwork File	
+CHAIT	Chaimera Artwork Template	
+CL2ARC	Comic Life 2 Document Archive	
+CL2DOC	Comic Life 2 Document	
+CL2LYT	Comic Life 2 Layout File	
+CL2TPL	Comic Life 2 Template	
+CLD	Canon CD Label Template	
+CLKB	Clicker Books File	
+CLKBD	Clicker Board Set	
+CLKC	Clicker Connect Set File	
+CLKD	Clicker Docs File	
+CLT	Clarity Legal Transcript File	
+CNDX	Avery DesignPro for Mac Label File	
+COMIC	Comic Life Comic	
+COMICDOC	Comic Life Document	
+COMICLIFE	Comic Life Document	
+COMPOSITIONTEMPLATE	Invantive Composition Template	
+CONSIS	Sciral Consistency Document	
+COV	Fax Cover Page File	
+CPE	Fax Cover Page File	
+CPH	Corel Print House File	
+CPY	eCopy Desktop File	
+CRTR	MultiAd Creator Pro Document	
+CSD	Compact Shared Document	
+CST	Manga Studio Story File	
+CVW	CaseView Document	
+CW	CardWorks Template	
+CWT	ChordWizard Template	
+DCX	FAXserve Fax Document	
+DE	DrawExpress Diagram File	
+DMTEMPLATE	Direct Mail Template	
+DOT	Word Document Template	
+DOTM	Word Open XML Macro-Enabled Document Template	
+DOTX	Word Open XML Document Template	
+DPD	Ovation Pro File	
+DRA	Scriptor Script File	
+DRMX	Drumlin Fully Secure PDF File	
+DRMZ	Drumlin Fully Secure Mobile PDF File	
+DTL	Now Contact Detail Template	
+DTP	Publish-iT Document	
+DTX	Documented LaTeX File	
+DWDOC	DrawWell Document	
+EDDX	Edraw XML FIle	
+EDRWX	XPS Drawing Document	
+EL4	Easy-PhotoPrint EX Calendar File	
+ENC	Copysafe Protected PDF File	
+ENV	Now Contact Envelope Template	
+FADEIN	Fade In Document	
+FAX	Now Contact Fax Template	
+FCDT	FormsCentral Design Template	
+FD2	PictureMate Borders File	
+FDD	FormDocs Document	
+FDT	FormDocs Template	
+FEY	FCS Express Layout File	
+FGC	Greeting Card Factory Card File	
+FLB	FileMaker Pro Label File	
+FLO	Automate Flowchart File	
+FLOWCHART	PureFlow Flowchart	
+FLW	Kivio Flow Chart	
+FM	FrameMaker Document	
+FOLIO	Adobe Folio File	
+FORM	NetBeans Java GUI Designer Form	
+FP	FinePrint File	
+FP3	FastReport Prepared Report File	
+FPE	Free PDF Editor Document	
+FR3	FastReport Form File	
+FRDOC	FineReader Document	
+FRF	Free Report Form File	
+FSD	Flowsheet Document	
+FXM	WinFax Document	
+GDE	The Guide Document	
+GDOC	Google Drive Document Link File	
+GDOCX	Google Drive Document	
+GEM	Ventura Publisher Document	
+GOFIN	DRUKI Gofin Form File	
+GSLIDES	Google Drive Presentation Link File	
+GSP	Silhouette Studio SD Card Document	
+GWB	Interwrite Presentation File	
+HCR	Half-Fold Card File	
+HFD	HotDocs Form Document	
+HFT	HotDocs Form Template	
+HMK	Hallmark Card Studio File	
+HPD	HotDocs PDF Document	
+HPT	HotDocs PDF Template	
+HWDT	Thinkfree Office NEO Word Template	
+ICAP	InCopy Package File	
+ICML	InCopy Document	
+ICMT	InCopy Template	
+IDAP	Adobe InDesign Assignment Package	
+IDML	Adobe InDesign Markup Language File	
+IDMS	Adobe InDesign Snippet	
+IDPK	Adobe InDesign Package for GoLive File	
+IFD	InForm Document	
+ILDOC	QuickSilver Document	
+IMM	iMindMap Map File	
+IMTX	iMindMap Template File	
+IMX	iMindMap Map File	
+INCD	InCopy Document	
+INCT	InCopy Template	
+INCX	InCopy CS3 Interchange File	
+IND	Adobe InDesign Document	
+INDB	Adobe InDesign Book File	
+INDD	Adobe InDesign Document	
+INDL	Adobe InDesign Library	
+INDP	Adobe InDesign CS3 Package File	
+INDS	Adobe InDesign Snippet File	
+INDT	Adobe InDesign Template	
+INFOPATHXML	Microsoft InfoPath Form	
+INLX	Adobe InDesign Interchange Library	
+INP	Urdu InPage Document	
+INX	Adobe InDesign Interchange File	
+ISALE	iSale Auction	
+ISALETEMPLATE	iSale Template	
+ISALLIC	iSale License File	
+ISD	Flexera InstallShield Dialog Box File	
+JSD	HP JetSuite Document	
+JTP	Windows Journal Template	
+JTX	XPS Document	
+JTX	Jrju Text File	
+LAB	WordPerfect Label Definition File	
+LBL	Now Contact Label Template	
+LBL	dBASE Label File	
+LLD	Logo! Soft Comfort LAD File	
+LMA	Logo! UDF File	
+LPDF	Localized PDF File	
+LSC	Logo! Soft Comfort File	
+LST	Now Contact List Template	
+LTF	Laser App Temp Form File	
+MAILSTATIONERY	Apple Mail Stationery File	
+MARS	Adobe MARS File	
+MAX	OmniPage Scanned Document	
+MBBK	ManaBook Book Kit File	
+MCSP	My Craft Studio Project File	
+MCSX	My Craft Studio Professional File	
+MDI	Microsoft Document Imaging File	
+MFO	MediaFace Online Saved File	
+MFP	MediaFACE Project File	
+MFT	MediaFACE Project Template	
+MGA	Manga Document	
+MIF	FrameMaker Interchange Format File	
+MML	FrameMaker Maker Markup Language File	
+MRG	Now Contact Merge Template	
+MTC	Make the Cut! Project	
+MVD	MindView OS X Document	
+MVDX	MindView Windows Document	
+MVTX	MindView Template	
+MWL	XMS Print Layout File	
+NPP	Art Explosion Publisher Pro Document	
+NUD	Now Up-To-Date Calendar File	
+OLA	Online Access File	
+OMP	OpenMind Windows Document	
+OO3TEMPLATE	OmniOutliner Template	
+OPD	OmniPage Document	
+OXPS	OpenXPS File	
+P65	PageMaker 65 Document	
+PA	Print Artist Project	
+PCL	Printer Command Language Document	
+PCT	Picture File	
+PDE	ProntoDoc for Excel Document Template	
+PDER	ProntoDoc for Excel Conventional Document	
+PDF	Portable Document Format File	
+PDF-1	Renamed PDF File	
+PDFXML	Adobe PDFXML Document	
+PDG	Print Shop Deluxe Design File	
+PDH	ProntoDoc for Word Browser Display Document Template	
+PDM	ProntoDoc for Word Mobile Display Document Template	
+PDP	Adobe Portable Document Format File	
+PDR	ProntoDoc for Word Recovered Document	
+PDS	The Print Shop Project	
+PDW	ProntoDoc for Word Conventional Document Template	
+PDWR	ProntoDoc for Word Conventional Document	
+PDZ	ProntoDoc for Word Structured Text Document Template	
+PEX	West Publisher Portable Exhibit File	
+PFF	Formatta Portable Form File	
+PFL	PDFill Project File	
+PGS	PageStream Document	
+PM4	PageMaker 4 Document	
+PM5	PageMaker 50 Document	
+PM6	PageMaker 60 Document	
+PMD	PageMaker Document	
+PMX	PrintMaster Project File	
+PNH	Project ROME Plug-in Archive	
+PPP	Serif PagePlus Document	
+PPX	Serif PagePlus Template File	
+PRN	Printable File	
+PSG	Page Segment File	
+PSPROJ	The Print Shop Project File	
+PSR	Powersoft Report File	
+PTX	E-Transcript File	
+PUB	Publisher Document	
+PUBLICATION	Twixl Publisher Publication	
+PWT	Pocket Word Template	
+PZF	GraphPad Prism Project	
+PZFX	GraphPad Prism XML Project	
+Q3C	Quick 3D Cover Project File	
+QDF	Label Matrix Label Design	
+QPT	QuarkXPress Project Template	
+QXB	QuarkXPress Book File	
+QXD	QuarkXPress Document	
+QXP	QuarkXPress Project File	
+QXT	QuarkXPress Template	
+RAP	Raptor Flowchart File	
+RB4	Resume Builder 4 File	
+RELS	Open Office XML Relationships File	
+RFD	Recogniform Form Designer File	
+RLF	ArcGIS Report Layout File	
+RMR	ResumeMaker File	
+RPC	Rich Page Content Document	
+RPTR	RafflePrinter Document	
+RPX	Report XML File	
+RSM	WinWay Resume Deluxe Resume File	
+RWT	ReadWriteThink Printing Press Draft	
+RWT	ReadWriteThink Timeline	
+SBK	Scrapbook Factory File	
+SBV	Superbase Form Definition File	
+SCUT4	Easy Cut Studio Project	
+SDT	SmartDraw Template File	
+SIMP	Software Ideas Modeler Project	
+SJD	Scrapbook Factory Journal File	
+SMA	SmartPlant Enhanced Report	
+SMMX	SimpleMind Mind Map File	
+SNP	Access Report Snapshot	
+SP	SignPlot Traffic Sign File	
+SPL	sPlan Schematic Diagram File	
+SPL7	sPlan 7 Schematic Diagram File	
+SPUB	Swift Publisher Document	
+STUDIO	Silhouette Studio Document	
+STUDIO3	Silhouette Studio Version 3 Document	
+SUBLIME-SNIPPET	Sublime Text Snippet File	
+T2D	TouchDraw Document	
+TDS	Adobe LiveCyle Designer Template	
+TOTALSLAYOUT	Totals Invoice Layout File	
+TP3	Harvard Graphics DOS Template File	
+UXF	UML eXchange Format	
+VFC	VentaFax Cover Page File	
+VP	Ventura Publication File	
+WEBTEMPLATE	iWeb Template	
+WEBTHEME	iWeb Theme Template	
+WLP	Worldlabelcom Label Designer File	
+WMGA	Web Manga Document	
+WPT	Works Template	
+WWF	World Wide Fund Non-Printable Document	
+XDW	Fuji Xerox DocuWorks File	
+XIF	ScanSoft Pagis File	
+XMT	XMind Template	
+XPS	XML Paper Specification File	
+XSN	InfoPath Form Template File	
+XTP	InfoPath Template Part File	
+XZFX	ZipLogix ZipForm File	
+ZDL	Avery DesignPro Label File	
+ZDP	Avery DesignPro Label File	
+ZDS	DesignPro Label File	
+ZFX	ZipForm File	
+ZNO	Zinio Electronic Magazine File

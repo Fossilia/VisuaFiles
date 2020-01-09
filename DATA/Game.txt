@@ -1,0 +1,500 @@
+0	M3 DS Real Save File	
+001	Snes9x Slot 2 Saved State	
+3DS	Nintendo 3DS ROM	
+3DSX	Homebrew Launcher File	
+68K	SEGA Mega Drive & Genesis Classics ROM File	
+AAO	America's Army Map File	
+AC	AC3D 3D Definition File	
+ACF	Steam Application Cache File	
+ACWW	Animal Crossing Wild World Pattern File	
+ADT	World of Warcraft Map File	
+AGE3REC	Age of Empires 3 Recording	
+AGE3SAV	Age of Empires 3 Save File	
+AGE3SCN	Age of Empires 3 Scenario File	
+AGE3XREC	Age of Empires 3: The WarChiefs Recording	
+AGE3XSAV	Age of Empires 3: The WarChiefs Save File	
+AGE3YREC	Age of Empires 3: The Asian Dynasties Recording	
+AGE3YSAV	Age of Empires 3: The Asian Dynasties Save File	
+AIN	Source Engine Compiled AI Nodegraph File	
+AM1	Adventure Maker	
+ARCH00	FEAR Game Archive	
+ARP	Audition Replay File	
+B	Grand Theft Auto 3 Saved Game File	
+BA2	Bethesda Softworks Archive	
+BAR	Age of Empires 3 Data File	
+BDAE	Gameloft Game Data File	
+BEJEWELED2DELUXESAVEDGAME	Bejeweled 2 Deluxe Saved Game	
+BFG	Big Fish Games Application File	
+BFS	FlatOut Game Data File	
+BGL	Flight Simulator Scenery File	
+BIF	BioWare Infinity Engine File	
+BIG	Electronic Arts Game Data File	
+BIK	Video Game Movie File	
+BIN	Sega Genesis Game ROM	
+BIN	Nintendo DS Binary File	
+BLACKHAWKSTRIKER2	Blackhawk Striker 2 Saved Game	
+BLASTERBALL3SAVEDGAME	BlasterBall 3 Saved Game	
+BLORB	Interactive Fiction Package Game File	
+BLP	Blizzard Texture File	
+BLS	Blockland Saved Game File	
+BLZ	N-Gage Mobile Video Game File	
+BMD	MU Online Game Data File	
+BME	BeatMania 7-Key Song File	
+BMS	BeatMania Song File	
+BMZ	Portal Bonus Map Zip File	
+BNK	Test Drive Unlimited Data Package	
+BNS	Portal Bonus Map Script	
+BO2	Minecraft BO2 Object File	
+BO3	Minecraft BO3 Object File	
+BOOKWORMDELUXESAVEDGAME	Bookworm Deluxe Saved Game	
+BPS	BPS Patch File	
+BRRES	Wii BRRES Resource Package	
+BSA	Bethesda Softworks Archive	
+BSB	BioShock Saved Game File	
+BSP	Quake Engine Game Map File	
+BUS	OMSI Bus Configuration File	
+BZW	BZFlag World File	
+C4K	Clonk Key File	
+CARC	Nintendo Compressed Archive File	
+CBH	ChessBase Database Header File	
+CBV	ChessBase Database File	
+CDP	Trainz Simulator Content Dispatcher Pack	
+CDP2	Trainz Classics Content Dispatcher Pack 2	
+CGF	Crytek Geometry Format File	
+CGZ	Cube Map File	
+CHD	MAME Hard Disk Image	
+CHK	StarCraft Chunk File	
+CLIP	Grand Theft Auto 5 Clip	
+COMPILED	Compiled Game Resource File	
+COURSE	Super Mario ReMaker Course File	
+CPN	Age of Mythology Campaign File	
+CRP	Cities: Skylines Colossal Raw Asset Package	
+CT	Cheat Engine Cheat Table	
+CTX	Valve ICE Encoded Script	
+CTY	SimCity City File	
+DAT	Minecraft Data File	
+DAT_NEW	Minecraft World Level File	
+DAZIP	Dragon Age: Origins Game File	
+DDB	Command & Conquer: Renegade Data File	
+DDT	Football Manager Keep Player Data File	
+DEC	Magic: The Gathering Online Deck File	
+DEK	Magic: The Gathering Deck File	
+DEK	Yugioh Virtual Desktop Deck File	
+DEK	LackeyCCG Card Deck File	
+DEM	Video Game Demo File	
+DIF	MAME CHD Diff File	
+DL	Zoo Tycoon 2 Data File	
+DM2	Quake 2 Demo File	
+DM_82	Wolfenstein 100 Demo Movie File	
+DM_83	Wolfenstein 102 Demo Movie File	
+DM_84	Wolfenstein 206 Demo Movie File	
+DMB	BYOND Game Executable	
+DMO	Duke Nukem 3D Demo File	
+DMO	Cube 2: Sauerbraten Demo File	
+DNF	Duke Nukem Forever Map File	
+DNS	Duke Nukem Forever Save File	
+DOL	GameCube Executable File	
+DSG	Doom Saved Game	
+DUC	Action Replay Max DS Save File	
+DUN	Dungeon Defenders Saved Game File	
+DV2	Divinity 2 Data File	
+E2GM	Pangea Enigmo 2 Custom Game File	
+ECW	EclipseCrossword Word List File	
+EGM	Enigmo Custom Game File	
+ELF	PlayStation Executable File	
+ENG	Chess Engine	
+EPK	Metin2 Game Data Package	
+ERB	Evil Genius Resource File	
+ERF	BioWare Entity Resource File	
+ERP	Alter Ego Game Archive	
+ESCAPE	Prison Architect Escape Mode Save File	
+ESG	Enigmo Saved Game File	
+ESM	Elder Scrolls Master File	
+ESM	Fallout 3 Master File	
+ESP	Elder Scrolls Plugin File	
+ESP	Fallout 3 Plugin File	
+ESS	The Elder Scrolls Saved Game	
+FAR	The Sims Archive File	
+FCM	fCraft World File	
+FCS	FCEUX Save State File	
+FF	Call of Duty 4 Fast File	
+FGD	Forge Game Data File	
+FL	Freelancer Saved Game File	
+FML	WWE RAW Character File	
+FOMOD	Fallout Mod Archive	
+FORGE	Assassin's Creed Game Data File	
+FOS	Fallout 3 Saved Game	
+FPG	FPS Creator Game Project File	
+FPOP	Spider-Man: Shattered Dimensions Saved Game	
+FPS	FPS Creator Segment File	
+FRZ	Snes9x Saved State	
+FS2	FreeSpace 2 Saved Mission File	
+FSM	FreeSpace Mission File	
+FSSAVE	Flight Simulator Save File	
+FST	Crazy Machines 2 Object File	
+FUK	Postal 2 Map File	
+G3X	RealFlight Content File	
+GALAXY	Blizzard Galaxy File	
+GAM	Saved Game File	
+GAME	GameSalad Exported Game File	
+GB	Game Boy ROM File	
+GBA	Game Boy Advance ROM	
+GBASKIN	Game Boy Advance Controller Skin File	
+GBC	Game Boy Color ROM	
+GBCSKIN	Game Boy Color Controller Skin File	
+GBX	Nadeo Game File	
+GCF	Game Cache File	
+GDC	Godot Engine Compiled Script	
+GDG	GDevelop Project File	
+GDI	Dreamcast Gigabyte Disc Image	
+GEN	Sega Genesis ROM	
+GFX	GFx Scaleform File	
+GMA	Garry's Mod Addon File	
+GMRES	GameMaker Resource File	
+GMS	Garry's Mod Save File	
+GPF	GRAVITY Ragnarok Online Patch File	
+GR2	Granny 3D File	
+GRF	Ragnarok Client Archive	
+GRF	Transport Tycoon Graphics Resource File	
+GRP	StarCraft Graphics Group File	
+GSC	Call of Duty Game Script	
+H3M	Heroes 3 Map File	
+H4R	Heroes of Might and Magic IV Data File	
+H5U	Heroes of Might and Magic V Mod File	
+HIT	The Sims Sound File	
+HONMOD	HON Modification Manager File	
+HOT	The Sims Sound File	
+HPS	HPL Script	
+HUM	OMSI Human Configuration File	
+IBT	Texture and Model File	
+IDX0	Runescape Cache Index File	
+IDX255	Runescape Cache File	
+IFP	GTA Animation File	
+IMG	Grand Theft Auto Data File	
+INFO	Minecraft Forge Information File	
+INFORM	Inform Project	
+IPL	GTA Item Placement File	
+IPS	Internal Patching System Patch File	
+ISR	GoMoku Game File	
+IWD	Call of Duty Game Data File	
+J2I	Jazz 2 Internet Link File	
+J2L	Jazz Jackrabbit 2 Level File	
+JAP	Nonogram Puzzle File	
+JG4	BigJig Jigsaw Puzzle	
+JMF	Jackhammer Project	
+JST	Jnes Save State	
+KODU	Kodu Game File	
+KWREPLAY	Command & Conquer 3 Replay File	
+LDB	Max Payne Level File	
+LDW	Virtual Villagers Saved Game File	
+LGL	LeechGet Download List	
+LGP	Final Fantasy Media Archive	
+LIP	Bethesda Softworks Lip Sync File	
+LIP	Real Virtuality Lip Sync File	
+LITEMOD	Minecraft LiteLoader Mod File	
+LL	List & Label Preview File	
+LMP	Quake Engine Lump File	
+LMU	RPG Maker Map File	
+LOD	Heroes of Might and Magic 3 Graphics File	
+LOVE	LÖVE Game File	
+LRF	League of Legends Replay File	
+LSD	RPG Maker Game Save File	
+LSW	RPG Maker Saved Game File	
+LTX	STALKER Properties File	
+LUXB	Lux Map File	
+LVL	Game Level File	
+M2	World or Warcraft Model Object	
+MAE	My Avatar Editor Character File	
+MAHJONGTITANSSAVE-MS	Mahjong Titans Saved Game	
+MAP	Quake Engine Map File	
+MAP	Halo Map File	
+MAPLET	Maplet World File	
+MAS	rFactor Track File	
+MASSEFFECTPROFILE	Mass Effect Player Profile	
+MASSEFFECTSAVE	Mass Effect Saved Game	
+MCA	Minecraft "Anvil" Map File	
+MCAPM	Minecraft Anvil PocketMine Data File	
+MCPACK	Minecraft Resource Pack File	
+MCR	Minecraft Region File	
+MCSERVER	Minecraft Server File	
+MCWORLD	Minecraft World Backup File	
+MD2	Quake 2 Player Model	
+MD3	Quake 3 3D Model	
+MDL	Half-Life Model File	
+MENU	Quake 3 Engine Menu File	
+MGL	Age of Empires 2 Replay File	
+MGX	Age of Empires 2 Expansion Replay File	
+MGX	Rise of Nations Saved Game	
+MII	Wii Virtual Avatar File	
+MINESWEEPERSAVE-MS	Minesweeper Saved Game	
+MIS	Saved Game Mission File	
+MIS	Marble Blast Gold Mission File	
+MP2M	Max Payne 2 Mod File	
+MP2S	Max Payne 2 Saved Game	
+MPM	Max Payne Modfication File	
+MPQ	Blizzard Mo'PaQ File	
+MRS	GunZ Game Data File	
+MUL	Ultima Online Multi File	
+MWL	Super Mario World Level	
+N-GAGE	N-Gage Application	
+N3PMESH	Knight Online 3D Mesh File	
+N64	Nintendo 64 Emulator ROM File	
+NAR	Nexon game archive	
+NARC	Nintendo DS Archive File	
+NCA	Nintendo Content Archive	
+NCF	No Cache File	
+NDS	Nintendo DS Game ROM	
+NES	Nintendo (NES) ROM File	
+NGAGE	N-Gage Game File	
+NGP	NeoGeo Pocket ROM	
+NL2SCRIPT	NoLimits 2 Script File	
+NLTRACK	NoLimits Roller Coaster Track File	
+NPA	Steins;Gate Archive	
+NRO	Nintendo Switch Executable File	
+NS1	Nestopia Save State	
+NSBCA	Nintendo DS Model Animation File	
+NSBMD	Nintendo DS Model File	
+NSBTX	Nintendo DS Model Texture File	
+NTRK	Pacific FIghters Online Track File	
+OMOD	Oblivion Mod Archive	
+OSK	Osu! Skin File	
+OSR	Osu! Replay File	
+OSZ	Osu! Beatmap File	
+OVH	OMSI Vehicle Configuration File	
+P3T	PlayStation 3 Theme File	
+PACKAGE	Electronic Arts Game Package File	
+PAK	Video Game Package	
+PAPA	Game Save Backup File	
+PBN	Portable Bridge Notation File	
+PBP	PSP Firmware Update File	
+PCC	Mass Effect Package	
+PCK	Perfect World Data File	
+PCSAV	Mass Effect 2 Saved Game	
+PEGN	Peggle Nights Replay File	
+PGN	Portable Game Notation File	
+PHN	Algodoo Phun Phunlet	
+PJ	Project64 Saved State File	
+PK3	Quake 3 Engine Game Data File	
+PK4	Doom 3 Engine Game Data File	
+PKG	PlayStation Store Downloaded Package	
+PKX	Decrypted 3DS Pokémon Save File	
+PLAYER	Terraria Mobile Player File	
+PLAYMISSION	MissionPlayer Game File	
+PLN	Flight Simulator Flight Plan	
+PLR	Terraria Player File	
+PLR	rFactor Player File	
+POD	Terminal Reality Game Data File	
+PQHERO	Puzzle Quest Saved Game	
+PRK	Thrillville Park File	
+PSS	PlayStation 2 Game Video File	
+PSSG	EGO Engine Textures File	
+PSV	PlayStation 2 Save File	
+PUZ	Across Lite Crossword Puzzle	
+PWF	Counter-Strike PODBot Waypoint File	
+PXP	Counter-Strike PODBot Experience File	
+QC	QuakeC Source Code File	
+QVM	Quake 3 Virtual Machine File	
+QWD	QuakeWorld Demo File	
+RADQ	Need for Madness Game Archive	
+RAW	Dolphin Wii and Gamecube Emulator Game Save File	
+RBXL	ROBLOX Location File	
+RBXM	ROBLOX Model	
+RBXMX	ROBLOX Model	
+REP	Grand Theft Auto Replay File	
+REP	StarCraft Replay File	
+REZ	Lithtech Game Engine Resource File	
+RFM	rFactor Modification File	
+RGD	Raft Saved Game File	
+RGSS3A	RPG Maker VX Ace RGSS Encrypted Archive	
+RGSSAD	RPG Maker VX RGSS Encrypted Archive	
+ROM	N64 Game ROM File	
+ROT	Homeworld 2 Graphics File	
+RPF	Grand Theft Auto Data File	
+RPGPROJECT	RPG Maker MV Project	
+RPL	Toribash Replay File	
+RPY	Touhou Project Replay File	
+RTTEX	Robinson Technologies Texture File	
+RVDATA	RPG Maker VX Data File	
+RVDATA2	RPG Maker VX Ace Data File	
+RVPROJ	RPG Maker VX Project File	
+RVPROJ2	RPG Maker VX Ace Project File	
+RXDATA	RMXP Data File	
+S2Z	Heroes of Newerth Game Data File	
+SAD	Black & White Audio File	
+SAMI	Grand Theft Auto San Andres Mod Installer File	
+SAV	Saved Game	
+SAV	Mass Effect 3 Saved Game	
+SAV	Nintendo DS Save File	
+SAVE	The Sims 4 Save File	
+SC2ARCHIVE	Blizzard StarCraft 2 Archive File	
+SC2ASSETS	Blizzard StarCraft 2 Assets File	
+SC2BANK	StarCraft 2 Bank File	
+SC2DATA	Blizzard StarCraft 2 Data File	
+SC2MA	StarCraft 2 Map Data File	
+SC2MAP	Blizzard StarCraft 2 Map File	
+SC2MOD	Blizzard StarCraft 2 Modification File	
+SC2REPLAY	Blizzard StarCraft 2 Replay File	
+SC2SAVE	Blizzard StarCraft 2 Saved Game	
+SC4	SimCity 4 Saved File	
+SC4DESC	SimCity 4 Description File	
+SC4LOT	SimCity 4 Lot File	
+SCHEMATIC	MCEdit Schematic File	
+SCM	CLEO Compiled Script	
+SCN	Age of Mythology Scenario File	
+SCN	SimCity Scenario File	
+SCS	SimCity Societies Saved Game File	
+SCS	Prism3D Game Data File	
+SCWORLD	Survivalcraft World File	
+SCX	Game Scenario File	
+SCX	Microsoft Game Scenario File	
+SD7	Spring Content Package	
+SDT	Grand Theft Auto 3 Audio File	
+SDZ	Spring Content Package	
+SFAR	Mass Effect 3 DLC File	
+SFC	Super Nintendo ROM	
+SFO	PSP Game Parameters File	
+SG0	Humongous Entertainment Game Save File	
+SGA	Relic Entertainment Game Archive	
+SGB	Dawn of War Map File	
+SGB	Super Game Boy ROM File	
+SGF	Smart Game Format File	
+SGM	VisualBoyAdvance Saved Game	
+SGPBPRJ	Baltie Project	
+SID	Steam Game Data Backup File	
+SII	18 Wheels of Steel: Haulin' Truck Definition File	
+SIMS2PACK	Downloaded Sims 2 Package File	
+SIMS3	The Sims 3 Game Save File	
+SIMS3PACK	The Sims 3 Package File	
+SLI	OMSI Spline Configuration File	
+SM	StepMania Song File	
+SMC	Super Nintendo Game ROM	
+SMD	Sega Mega Drive ROM	
+SMRAILROADSSAVEDGAME	Sid Meier's Railroads! Saved Game	
+SMZIP	StepMania Package	
+SOEPSX	Player Studio Viewer Item File	
+SPB	Flight Simulator Mission File	
+SPC	SNES Soundtrack File	
+SPLANE	Simple Planes Plane File	
+SPRITE	SuperTux Sprite File	
+SQF	ArmA Script File	
+SQM	Operation Flashpoint Mission File	
+SRM	Super Nintendo ROM Save File	
+SSC	StepMania Song File	
+STA	MAME Saved State File	
+STENCYL	Stencyl Game File	
+SUD	Sudoku Puzzle File	
+SV5	BigJig Saved Puzzle	
+SVS	Game Boy Advance Saved State File	
+SWC	Super Nintendo Wild Card ROM File	
+TBM	Toribash Mod File	
+TED	Alamo Map File	
+TIGER	Tomb Raider Game Data Archive	
+TIM	The Incredible Machine Level	
+TOC	World of Warcraft Add-on Table of Contents File	
+TOR	Star Wars: The Old Republic Asset File	
+TTARCH	Telltale Games Archive	
+TWT	Carmageddon 2 Data File	
+U	Unreal Tournament Class Package	
+U8	Mario Kart Wii Archive	
+UASSET	Unreal Asset File	
+UC	UnrealScript Class	
+UDK	Unreal Engine Map File	
+UKX	Unreal Animation Package	
+UMD	Splinter Cell Blacklist Game Data File	
+UMOD	Unreal Tournament Module File	
+UMX	Unreal Music Package	
+UNF	UNIF ROM File	
+UNITY	Unity Scene File	
+UNITY3D	Unity Web Player Archive	
+UNITYPROJ	Unity 3D Project	
+UNR	Unreal Level Map	
+UPK	Unreal Engine 3 Package	
+UPS	UPS Patch File	
+USA	Unreal Saved Game File	
+USX	Unreal Static Meshes	
+UT2	Unreal Tournament Map	
+UT2MOD	Unreal Tournament 2003/2004 Module File	
+UT3	Unreal Tournament 3 Map File	
+UT4MOD	Unreal Tournament 2004 Module	
+UTC	Bioware Creature File	
+UTX	Unreal Texture Package	
+UVX	Unreal Tournament 2003 Saved Game	
+UXX	Unreal Tournament Cache	
+V64	Nintendo 64 ROM Dump	
+VB	Virtual Boy ROM File	
+VCM	Vice City Mod Manager File	
+VDF	Valve Data File	
+VFS0	Metro 2033 Sound File	
+VMF	Valve Map File	
+VMV	VisualBoyAdvance Recording	
+VMV	VirtuaNES Recording	
+VOB	Live for Speed Car File	
+VOL	Video Game Archive	
+VPK	Valve Pak	
+VTF	Valve Texture File	
+W3G	Warcraft 3 Replay File	
+W3M	Warcraft 3 Map File	
+W3N	Warcraft 3 Expansion Campaign Map File	
+W3X	Warcraft 3 Expansion Map FIle	
+W3Z	Warcraft 3 Saved Game File	
+WAD	Doom WAD File	
+WAD	Nintendo Wii Game Data File	
+WAGAME	Worms Armageddon Game Recording	
+WAL	Quake 2 Texture File	
+WAM	Worms Armageddon Mission File	
+WBT	Toribash Help File	
+WDB	Blizzard World of Warcraft Database File	
+WHIRLD	Unity Whirld Package	
+WL6	Wolfenstein 3D Data File	
+WLD	Terraria World File	
+WMO	World of Warcraft World Map Object	
+WORLD	WorldPainter File	
+WORLD	The Sims 3 Create a World Tool File	
+WORLD	Terraria Mobile World File	
+WOTREPLAY	World of Tanks Replay File	
+WOWSREPLAY	World of Warships Replay File	
+WPM	Warcraft 3 Path Map File	
+WTD	Grand Theft Auto IV Textures File	
+WTF	World of Warcraft Text File	
+WU8	Wiimm U8 Mario Kart Wii Archive	
+WZ	MapleStory Game Data File	
+WZ	Warzone 2100 Data File	
+XBE	Xbox Executable File	
+XCI	NX Card Image File	
+XDS	DS Game Maker Project File	
+XEN	Guitar Hero III Data File	
+XEX	Xbox 360 Executable File	
+XMB	Age of Empires Game Data File	
+XMB	X-Wing Mission Briefing File	
+XNB	XNA Game Studio Binary Package	
+XOM	Worms 3D Object File	
+XP3	KiriKiri Package File	
+XPD	PlayStation Store PSP License File	
+XPK	WWE RAW Model File	
+XS	Age of Empires 3 Map AI Generator	
+YCM	Yugioh Card Maker File	
+YDC	Yu-Gi-Oh! Card Deck File	
+YDK	Yu-Gi-Oh! Deck File	
+YDR	Yu-Gi-Oh! Power of Chaos Replay File	
+Z2F	Zoo Tycoon 2 Object File	
+Z3	Z-machine Z-code Version 3 File	
+Z4	Z-machine Z-code Version 4 File	
+Z5	Z-machine Z-code Version 5 File	
+Z64	Nintendo 64 Game ROM	
+ZBLORB	Z-machine Package Game File	
+ZDS	GZDoom Save File	
+ZIP	MAME Game ROM	
+ZMAP	Zombies Ate My Neighbors Map File	
+ZS0	ZSNES Slot 0 Saved State File	
+ZS1	ZSNES Slot 1 Saved State File	
+ZS2	ZSNES Slot 2 Saved State File	
+ZS3	ZSNES Slot 3 Saved State File	
+ZS4	ZSNES Slot 4 Saved State File	
+ZS5	ZSNES Slot 5 Saved State File	
+ZS6	ZSNES Slot 6 Saved State File	
+ZS7	ZSNES Slot 7 Saved State File	
+ZS8	ZSNES Slot 8 Saved State File	
+ZS9	ZSNES Slot 9 Saved State File	
+ZST	ZSNES Save File	
+ZTD	Zoo Tycoon Data Archive	
+ZTMP	Steam Compressed Game Resource File

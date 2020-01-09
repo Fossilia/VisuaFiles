@@ -1,0 +1,220 @@
+8BA	Photoshop Plug-in	
+8BC	Photoshop 50 Plug-in	
+8BE	PhotoDeluxe Plug-in	
+8BF	Filter Factory Image Filter	
+8BF	Photoshop Filter Plug-in	
+8BI	Photoshop Plug-in	
+8BI8	Photoshop Plug-in	
+8BL	Photoshop Plug-in	
+8BS	Photoshop 50 Selection Plug-in	
+8BX	PhotoDeluxe Plug-in	
+8BY	PhotoDeluxe Plug-in	
+8LI	Photoshop Scripting Plug-in	
+AAUI	Acrobat User Interface File	
+AAXPLUGIN	Avid Audio eXtension Plugin File	
+ABA	Avant Browser Add-on File	
+ABI	AbiWord Plug-in	
+ACCDA	Access Add-in File	
+ACCDU	Access Add-in File	
+ACROPLUGIN	Adobe Acrobat Plug-in	
+ADDON	CFS Console Add-on File	
+AEX	After Effects Plug-in	
+AFZPLUG	AfterShot Pro Plugin Archive	
+AGMODULE	Adobe Lightroom Module	
+AIP	Adobe Illustrator Plug-in	
+ALP	Ableton Live Pack File	
+AMX	AMX Mod Plugin File	
+AMXX	AMX Mod X Plugin File	
+APD	Eclipse Plugin Descriptor File	
+APE	AVS Plugin Effects File	
+API	Acrobat Plug-in	
+APL	ACDSee Plugin File	
+APLG	Audials Plug-in	
+APLP	Audials Plug-in Package	
+ARPACK	ArtRage Package	
+ARX	AutoCAD Runtime Extension File	
+ASI	Grand Theft Auto Mod Library	
+ASSETPROJ	Camtasia Studio Asset Information File	
+ATX	Animation Master Plugin File	
+AVX	ArcView Extension File	
+AVX	Avid Plugin File	
+AX	DirectShow Filter	
+BAV	AVG AntiVirus The Bat! Plugin File	
+BBLM	BBEdit Language Module	
+BKZ	BaKoMa TeX Installation Module	
+BLU	FileMaker Pro Runtime Extension	
+BMI	3ds Max Plug-in	
+BRI	Bryce Plug-in File	
+BRM	Bryce Plug-in File	
+BRO	Bryce Plug-in	
+BUNDLE	Mac OS X Application Bundle	
+BZPLUG	AfterShot Pro Plugin Bundle	
+CCIP	Curse Client Install Package	
+CCX	Click & Create Extension	
+CDL	ConceptDraw PRO Library File	
+CLEO	CLEO Grand Theft Auto Mod File	
+CMP	HotDocs Clause Component File	
+CODAPLUGIN	Coda Plug-in	
+COLORPICKER	Color Picker Plugin	
+COMPONENT	Mac OS X System Component	
+COX	Click & Create Extension	
+CRX	Chrome Extension	
+CST	Gary Gadget Plug-in	
+CVT	Canvas External Tool File	
+DBX	AutoCAD Database Extension File	
+DFP	Fusion Plugin File	
+DLO	3ds Max Plug-in	
+DLR	finalRender Plugin	
+DLU	3ds Max Utility Plug-in File	
+DPM	Pro Tools Plugin File	
+DVTPLUGIN	Xcode DVT Plug-in	
+EAZ	ArcGIS Explorer Add-in File	
+ECF	Outlook Add-in	
+EPK2	E-Prime 20 Package File	
+EXT	Norton Commander Extension	
+EXV	Adobe Extension Script	
+FB2K-COMPONENT	Foobar2000 Component Install File	
+FFT	Adobe Audition Noise Print File	
+FLT	Adobe Audition Filter	
+FLT	Image Filter	
+FMPLUGIN	FileMaker Plug-in	
+FMX	FileMaker Plug-in	
+FPI	Foxit Reader Plugin	
+FS	Mac OS X File System Plug-in	
+FSB	Form•Z Compiled Script	
+FWACTION	Freeway Action File	
+FWACTIONB	Freeway Action Bundle File	
+FXT	Finale Plug-in	
+FZIP	Foxit Reader Add-on	
+FZP	Form•Z Plug-in	
+HVPL	iTunes Visual Plug-in File	
+IADACTION	iAd Producer Plugin Action Template	
+IADCLASS	iAd Producer Plugin Class Description File	
+IADCOMPONENT	iAd Producer Plugin Component File	
+IADPAGE	iAd Producer Plugin Page Template	
+IADPLUG	iAd Producer Plugin	
+IADSTYLE	iAd Producer Plugin Style Template	
+IBPLUGIN	Interface Builder Plug-in	
+IDEPLUGIN	Xcode IDE Plug-in	
+INDESIGNPLUGIN	Adobe InDesign Plug-in	
+INFO	Drupal Module Information File	
+INX	Inkscape Extension Descriptor File	
+JSXBIN	Binary ExtendScript Script File	
+KMM	K-Meleon Macro Module	
+LNG	Acrobat Language Plug-in	
+LNG	Winamp Language File	
+LRMODULE	Adobe Lightroom Module	
+LRPLUGIN	Adobe Lightroom Plug-in	
+LRWEBENGINE	Adobe Lightroom Web Gallery File	
+M2P	Maxthon 2 Browser Plugin File	
+M3P	Mach3 Plugin File	
+MAT	V-Ray Materials File	
+MDA	Access Add-in	
+MDE	Compiled Access Add-in File	
+MDE	ArchiCAD Educational Version Module File	
+MDIMPORTER	Metadata Importer	
+MFW	MobileFrame Workflow Pack File	
+MFX	Multimedia Fusion Extension	
+MILK	MilkDrop Winamp Plugin Preset	
+MLL	Maya Plugin	
+MMIP	MediaMonkey Installation Package	
+MOD	ArchiCAD Module	
+MODE	Coda Syntax Mode File	
+MODULE	Drupal Module File	
+MOX	Montax Imposer Template Document	
+MTX	MadTracker 2 Extension	
+MXADDON	Maxthon Add-On File	
+MXP	Adobe Extension Package	
+NBM	NetBeans Module	
+NBP	NeoBook Plugin File	
+NET	FileMaker Networking Module	
+NY	Audacity Nyquist Plug-in	
+OEX	Opera Extension	
+OIV	OpenIV Mod Package File	
+OSAX	AppleScript Scripting Addition	
+OXT	Apache OpenOffice Extension	
+P	LightWave Plug-in	
+P64	64-bit Windows IDA Plugin Module	
+PBA	OpenOfficeorg Basic Protected Module File	
+PFL	PhotoFiltre Plugin	
+PIM	Pro Tools Controller Plug-in Mappings File	
+PLG	Sibelius Plug-in	
+PLN	Adobe InDesign Plug-in	
+PLUGIN	Mac OS X Plugin	
+PLUGIN	Adobe Photoshop Plug-in	
+PLW	32-bit Windows IDA Plugin Module	
+PLX	32-bit Linux IDA Plugin Module	
+PLX64	64-bit Linux IDA Plugin Module	
+PPA	PowerPoint Add-in	
+PPAM	PowerPoint 2007 Add-In	
+PPMOD	Papers Please Mod File	
+PRM	Premiere Plug-in	
+PSET	Adobe InDesign Plug-in Set File	
+Q1Q	LunarCell Photoshop Plug-in	
+Q2Q	Flexify Photoshop Plug-in	
+Q4Q	Solar Cell Photoshop Plug-in	
+Q5R	Melancholytron Photoshop Plug-in	
+Q7Q	India Ink Photoshop Plug-in	
+Q8R	Flood Photoshop Plug-in	
+Q9R	Glitterato Photoshop Plug-In	
+Q9S	Mr Contrast Photoshop Plug-In	
+QAR	QlikView Extension	
+QLGENERATOR	Quick Look Generator File	
+QPX	QuickTime Player Extension	
+QTR	QuickTime Extension Resource	
+QTX	QuickTime Extension	
+RBZ	SketchUp Plugin	
+REV	LiveCode Plugin	
+REZ	Escape Velocity Plug-in File	
+RHP	Rhino Plug-in	
+ROCK	Rockbox Plug-in	
+RPI	Render Plug-in	
+RPLIB	Axure RP Widget Library File	
+RPLN	InDesign Required Plug-in File	
+RPM	RealPlayer Plug-in	
+RWPLUGIN	RapidWeaver Plugin	
+SA9	Hue and Cry Photoshop Plug-in	
+SAFARIEXTZ	Apple Safari Extension Package	
+SCM	GIMP Script-Fu Script	
+SEPLUGIN	AppleScript Editor Plug-in	
+SKYPECHATSTYLE	Chat Style File	
+SO-ABI	Cocoa AbiWord Plug-in	
+SPARC	Skype Plugin Archive	
+SPD	SPSS Custom Dialog File	
+SPE	SPSS Extension	
+SUBLIME-PACKAGE	Sublime Text Package File	
+SUGAR	Espresso Plug-in	
+SYN	TextPad Syntax File	
+T3X	TYPO3 Compressed Extension	
+TBP	Autodesk Topobase File	
+TGP	Terragen Plugin	
+TKO	AMX Software Module File	
+TMBUNDLE	TextMate Bundle File	
+TPI	EDIUS Plugin File	
+VBOX-EXTPACK	Oracle VM VirtualBox Extension Pack	
+VDF	VirtualDub Video Filter	
+VSIX	Visual Studio Extension	
+VSL	Visio Add-on	
+VST	VST Audio Plugin	
+VST3	VST 3 Audio Plugin	
+WBM	Webmin Module	
+WIE	WordPress Widget Export File	
+WLL	Microsoft Word Add-in	
+WLZ	Winamp Language Pack	
+WOWSL	WOW Slider	
+X32	Adobe Xtra File	
+XADD	Expression Web Add-in	
+XBA	OpenOfficeorg Basic Module File	
+XCODEPLUGIN	Xcode Plug-in	
+XCPLUGIN	Xcode Plug-in	
+XLA	Excel Add-In File	
+XLAM	Excel Open XML Macro-Enabled Add-In	
+XLL	Excel Add-In File	
+XLV	Excel Visual Basic Module	
+XMD	Bitdefender Plugin File	
+XNT	QuarkXPress Extension File	
+XPI	Cross-platform Installer Package	
+XPT	Mozilla Firefox Component	
+XSIADDON	Softimage Add-on File	
+ZLB	Form•Z Symbol Library File	
+ZXP	Extension Manager Package

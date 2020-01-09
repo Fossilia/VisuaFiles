@@ -1,0 +1,194 @@
+ACID	ACID Encrypted File	
+ADOBE	Dharma Ransomware Encrypted File	
+AEP	Advanced Encryption Package Encrypted File	
+AES	AES Crypt Encrypted File	
+AFP	FileProtector Encrypted File	
+ASC	PGP ASCII Armored File	
+ATSOFTS	LetEncrypt Encrypted File	
+AURORA	Aurora Ransomware Encrypted File	
+AXX	AxCrypt Encrypted File	
+AZF	AirZip FileSECURE File	
+AZS	AirZip FileSECURE File	
+B2A	Btoa Encoded File	
+BC5B	Ransomware Encrypted File	
+BFA	Blowfish Encrypted File	
+BHX	BinHex Encoded File	
+BIN	Macbinary Encoded File	
+BIP	Dharma Ransomware Encrypted File	
+BIT	FinalCrypt Encrypted Data File	
+BLOWER	Blower Ransomware Encrypted File	
+BPK	Nero SecurDisc Public Key File	
+BPW	Bitser Password File	
+BSK	Nero SecurDisc Private Key File	
+BTOA	Binary-to-ASCII Encoded File	
+BVD	Bitdefender Vault File	
+CAROTE	Carote Ransomware Encrypted File	
+CCF	CryptLoad Container File	
+CDOC	Encrypted DigiDoc File	
+CEF	CenturionMail Encrypted Package	
+CERBER	Cerber Ransomware Encrypted File	
+CERBER2	Cerber2 Ransomware Encrypted File	
+CGP	PixelCryptor Encrypted File	
+CHML	Chameleon Encrypted Database File	
+CLX	Ceelox SecureMail Secure Message	
+CNG	CryptoNG Encrypted Archive	
+COOT	Coot Ransomware Encrypted File	
+CPIO	Unix CPIO Archive	
+CPT	Ccrypt Encrypted Archive	
+CRYPT	WhatsApp Encrypted Database File	
+CRYPT	CryptXXX Ransomware Encrypted File	
+CRYPT1	UltraCrypter Ransomware Encrypted File	
+CRYPTED	WinOptimizer Encrypted File	
+CRYPTRA	Cryptra Encrypted File	
+DC4	ViaThinkSoft (De)Coder 4 File	
+DCD	DisCryptor Encrypted Database	
+DCF	Safetica Free Encrypted Archive	
+DCO	Safetica Free Encrypted Virtual Disk Archive	
+DDOC	DigiDoc Signature File	
+DIM	DIME File	
+DIME	Direct Internet Message Encapsulation File	
+DLC	Download Link Container File	
+DM	LG Encrypted Gallery File	
+E4A	Encrypt4all Archive	
+ECD	Encrypted Cryptee Document	
+EDOC	Electronically Certified Document	
+EFL	Encryptafile Encrypted File	
+EFR	Encryptafile Private Key File	
+EFU	Encryptafile Public Key File	
+EMC	Striata Reader Encrypted Document	
+ENC	Encoded File	
+ENX	Max PC Safe Encrypted File	
+ENX	eDataSecurity Management Encrypted File	
+ESF	Password Manager Container File	
+ESLOCK	ES File Explorer File Manager Encrypted File	
+EXC	eDataSecurity Management Self-extracting File	
+EXTR	COW App Extractor File	
+FILEBOLT	Filebolt Encrypted File	
+FILM	Filmkey Player Media File	
+FPENC	FileProtect Encrypted File	
+FSM	Splitty Master Split File	
+GDCB	GandCrab Ransomware Encrypted File	
+GFE	Glarysoft Encrypted File	
+GXK	Galaxkey Secured File	
+GZQUAR	Bitdefender Antivirus Quarantine File	
+HBX	BinHex Encoded File	
+HEX	BinHex Encoded File	
+HID	KeepSafe File	
+HID2	KeepSafe File	
+HQX	BinHex 40 Encoded File	
+HTPASSWD	Apache HTACCESS File	
+IDEA	Tresor IDEA Encrypted File	
+IWA	iWork Archive File	
+JAC	JaStaCry Encrypted File	
+JCEKS	JCEKS Keystore File	
+JCRYPT	JCRYPT File	
+JKS	Java Keystore File	
+JMC	JM-Crypt Encrypted File	
+JMCE	JM-Crypt Encrypted File	
+JMCK	JM-Crypt Key File	
+JMCP	JM-Crypt Encrypted File	
+JMCR	JM-Crypt Encrypted File	
+JMCX	JM-Crypt Encrypted File	
+KDE	KryptoStorage Container File	
+KEYSTORE	Java Keystore File	
+KKK	KKK Ransomware Encrypted File	
+KLQ	Kaspersky Quarantine File	
+KODE	KodeFile Encrypted File	
+KRAB	GandCrab V4 Ransomware Encrypted File	
+KS	Keystore File	
+KSD	KeepSafe File	
+KXX	Keyman Developer Encrypted Keyboard File	
+LASTLOGIN	Minecraft User Credential File	
+LCN	License File	
+LILOCKED	Lilocked Ransomware Encrypted File	
+LITAR	Litar Virus Encrypted File	
+LOCKED	Ransomware Encrypted File	
+LOCKY	Locky Ransomware Encrypted File	
+LVIVT	Lvivtotoro Encrypted Game File	
+MBA	Martus Bulletin Archive	
+MCRP	MobyExplorer Encrypted File	
+MEO	MEO Encrypted Archive	
+MFS	MetFS Encrypted File System	
+MIM	Multi-Purpose Internet Mail Message File	
+MIME	Multi-Purpose Internet Mail Extension	
+MJD	Adobe Acrobat MIME Encoded Job Definition File	
+MME	Multi-Purpose Internet Mail	
+MNC	AutoCAD Compiled Menu File	
+MSE	3ds Max Encrypted MAXScript File	
+NC	mcrypt Encrypted File	
+NULL	Null Ransomware Encrypted File	
+NXL	Nextlabs Encrypted Data File	
+ODIN	Locky Ransomware Encrypted File	
+PACK	Pack200 Packed Jar File	
+PDC	Lizard Safeguard Secure PDF File	
+PDEX	Orient Computer Encrypted Data File	
+PFILE	Rights Management Protected File	
+PFO	Private Folder	
+PKEY	PowerKey Encrypted File	
+PLP	Photo Locker Picture	
+PPDF	Rights Management Protected File	
+PSW6	Password Depot 6 File	
+PWV	Password Vault Archive	
+PXF	Pendix Firmware File	
+PXX	Keyman Developer Encrypted Customization File	
+RAP	Scarab Ransomware Encrypted File	
+RDI	Rohos Disk Image File	
+RSDF	RapidShare Download File	
+RZK	Red Zion Key File	
+RZX	File Crypt Encrypted File	
+SAFE	SIGLock Encrypted File	
+SCB	Scrambls Encrypted File	
+SCB	Euro Truck Simulator 2 Product Key File	
+SDO	Signed Document	
+SDOC	Sealed Word Document	
+SDTID	SecurID Soft Token File	
+SEB	Safe Exam Browser Configuration File	
+SEF	Encryptafile Signature File	
+SEF	Password Manager Container File	
+SFI	SafeFolder Encrypted File	
+SGZ	SigzaLock Encrypted File	
+SHY	ShyFile Encrypted File	
+SIA	Sia Metadata File	
+SIGNATURE	e-Filing Digital Signature File	
+SJPG	Sealed JPG File	
+SLE	Steganos Safe Encrypted Drive	
+SME	SmartEncryptor Encrypted File	
+SNK	Strong Name Key File	
+SPD	Sealed Acrobat Document	
+SPDF	Sealed PDF File	
+SRF	Samsung Smart TV Recording File	
+STXT	Sealed Text File	
+SUF	Ccrypt Encrypted File	
+SWITCH	Switch Package	
+SXLS	Sealed Excel Spreadsheet	
+SXML	Sealed XML File	
+TARMD5	Android System File	
+UEA	Protector Suite QL Encrypted Archive	
+UFR	Upfiring File	
+UU	Uuencoded File	
+UUD	UUDecoded File	
+UUE	Uuencoded File	
+VDATA	Vaulty Vault File	
+VIIVO	Viivo Encrypted File	
+VLT	WinVault File Archive	
+VP	Verilog Encrypted Source Code File	
+WALLET	Wallet Ransomware	
+WCRY	WannaCry Virus Encrypted File	
+WERD	Werd Ransomware Encrypted File	
+WLS	R-Link Update File	
+WLU	Jaff Ransomware Encrypted File	
+WNCRY	Wana Decrypt0r 20 Encrypted File	
+WNRY	WannaCry Virus Encrypted File	
+WOLF	Wolf RPG Editor Game Data Archive	
+WPE	WordPerfect Entrust Document	
+WRYPT	Panwrypter Depleted Storage Volume File	
+XMDX	ExamSoft Answer File	
+XTBL	XTBL Ransomware Encrypted File	
+XXE	XXEncoded File	
+XXX	Extractor Ransomware Encrypted File	
+YENC	yEnc File	
+YKCOL	Locky Ransomware Encrypted File	
+YNC	yEnc Encoded File	
+ZEPTO	Zepto Virus File	
+ZPS	Zebra Portable Safe File	
+ZZZZZ	Ransomware Encrypted File
