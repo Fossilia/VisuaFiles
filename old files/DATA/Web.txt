@@ -1,7 +1,7 @@
 A4P	A4Desk Pro Project File	
 A5W	Alpha Five Webpage File	
 ADR	Opera Bookmarks File	
-AEX	Alpha Five Compiled com.fossilia.visuafiles.util.Global Functions File
+AEX	Alpha Five Compiled Global Functions File	
 ALX	ActiveX Layout Control File	
 AN	Adobe Edge Animate Project File	
 AP	Active Page	

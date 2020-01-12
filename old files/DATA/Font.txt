@@ -1,0 +1,54 @@
+ABF	Adobe Binary Screen Font File	
+ACFM	Adobe Composite Font Metrics File	
+AFM	Adobe Font Metrics File	
+AMFM	Adobe Multiple Font Metrics File	
+BDF	Glyph Bitmap Distribution Format	
+CHA	Character Layout File	
+CHR	Borland Character Set File	
+COMPOSITEFONT	Windows Composite Font File	
+DFONT	Mac OS X Data Fork Font	
+EOT	Embedded OpenType Font	
+ETX	TeX Font Encoding File	
+EUF	Private Character Editor File	
+F3F	Crazy Machines Font File	
+FEA	AFDKO Feature Definitions File	
+FFIL	Mac Font Suitcase	
+FNT	Windows Font File	
+FON	Generic Font File	
+FOT	Font Resource File	
+GDR	Symbian OS Font File	
+GF	METAFONT Bitmap File	
+GLIF	Glyph Interchange Format File	
+GXF	General CADD Pro Font File	
+LWFN	Adobe Type 1 Mac Font File	
+MCF	Watchtower Library Font File	
+MF	METAFONT File	
+MXF	Maxis Font File	
+NFTR	Nintendo DS Font Type File	
+ODTTF	Obfuscated OpenType Font	
+OTF	OpenType Font	
+PCF	PaintCAD Font	
+PFA	Printer Font ASCII File	
+PFB	Printer Font Binary File	
+PFM	Printer Font Metrics File	
+PFR	Portable Font Resource File	
+PK	Packed METAFONT File	
+PMT	PageMaker Template File	
+SFD	Spline Font Database File	
+SFP	Soft Font Printer File	
+SUIT	Macintosh Font Suitcase	
+T65	PageMaker Template File	
+TFM	TeX Font Metric File	
+TTC	TrueType Font Collection	
+TTE	Private Character Editor File	
+TTF	TrueType Font	
+TXF	Celestia Font Texture File	
+UFO	Unified Font Object File	
+VFB	FontLab Studio Font File	
+VLW	Processing Font File	
+VNF	Vision Numeric Font	
+WOFF	Web Open Font Format File	
+WOFF2	Web Open Font Format 20 File	
+XFN	Ventura Printer Font	
+XFT	ChiWriter Printer Font	
+YTF	Google Picasa Font Cache

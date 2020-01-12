@@ -156,7 +156,7 @@ GPF	GRAVITY Ragnarok Online Patch File
 GR2	Granny 3D File	
 GRF	Ragnarok Client Archive	
 GRF	Transport Tycoon Graphics Resource File	
-GRP	StarCraft Graphics com.fossilia.visuafiles.group.Group File
+GRP	StarCraft Graphics Group File	
 GSC	Call of Duty Game Script	
 H3M	Heroes 3 Map File	
 H4R	Heroes of Might and Magic IV Data File	

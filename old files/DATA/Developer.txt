@@ -42,7 +42,7 @@ BCP	Borland C++ Makefile
 BDSPROJ	Borland Developer Studio Project	
 BET	BETA Source File	
 BLUEJ	BlueJ Package File	
-BPG	Borland Project com.fossilia.visuafiles.group.Group
+BPG	Borland Project Group	
 BPL	Borland Package Library	
 BRX	BREW Application Resource File	
 BS2	BASIC Stamp 2 Code File	
@@ -168,7 +168,7 @@ GMX	GameMaker File
 GORM	Gorm Interface Resource File	
 GREENFOOT	Greenfoot Project Archive	
 GROOVY	Groovy Source Code File	
-GROUPPROJ	Delphi Project com.fossilia.visuafiles.group.Group File
+GROUPPROJ	Delphi Project Group File	
 GS	Google Apps Script	
 GS3	GameStarter File	
 GSPROJ	GameSalad Windows Project File	
@@ -421,7 +421,7 @@ V	Coq Source Code File
 V11SUO	Visual Studio 2012 Solution User Options File	
 V12SUO	Visual Studio 2013 Solution User Options File	
 VB	Visual Basic Project Item File	
-VBG	Visual Basic Project com.fossilia.visuafiles.group.Group File
+VBG	Visual Basic Project Group File	
 VBP	Visual Basic Project File	
 VBPROJ	Visual Studio Visual Basic Project	
 VBX	Visual Basic Custom Control	

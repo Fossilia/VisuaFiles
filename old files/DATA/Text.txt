@@ -1,0 +1,302 @@
+1ST	Readme File	
+602	Text602 Document	
+_DOC	Renamed Microsoft Word Document	
+_DOCX	Renamed Microsoft Word Open XML Document	
+ABW	AbiWord Document	
+ACT	FoxPro Documenting Wizard Action Diagram	
+ADOC	AsciiDoc File	
+AIM	AIMMS ASCII Model File	
+ANS	ANSI Text File	
+APKG	Exported Anki Flashcard Deck	
+APT	Almost Plain Text File	
+ASC	ASCII Text File	
+ASC	Autodesk ASCII Export File	
+ASCII	ASCII Text File	
+ASE	Autodesk ASCII Scene Export File	
+ATY	Association Type Placeholder	
+AWP	Ability Write Template	
+AWT	AbiWord Template	
+AWW	Ability Write Document	
+BAD	Exchange Badmail File	
+BBS	Bulletin Board System Text	
+BDP	Exchange Diagnostic Message	
+BDR	Exchange Non-Delivery Report Body File	
+BEAN	Bean Rich Text Document	
+BIB	BibTeX Bibliography Database	
+BIB	Bibliography Document	
+BIBTEX	BibTeX Bibliography Database	
+BML	Braille 2000 Braille File	
+BNA	Barna Word Processor Document	
+BOC	EasyWord Big Document	
+BRX	Beam Report Document	
+BTD	Business-in-a-Box Document	
+BZABW	Compressed AbiWord Document	
+CALCA	Calca Document	
+CHARSET	Character Set	
+CHORD	Song Chords File	
+CNM	NoteMap Outline File	
+COD	Atlantis Word Processor Encrypted Document	
+CRWL	Windows Crawl File	
+CWS	Claris Works Template	
+CYI	Clustify Input File	
+DCA	DisplayWrite Document	
+DFTI	FlexiWrite Document	
+DGS	Dagesh Pro Document	
+DIZ	Description in Zip File	
+DNE	Netica Text File	
+DOC	Microsoft Word Document	
+DOC	WordPad Document	
+DOCM	Word Open XML Macro-Enabled Document	
+DOCX	Microsoft Word Open XML Document	
+DOCXML	Microsoft Word XML Document	
+DOCZ	ThinkFree Online Note Document	
+DOX	MultiMate Document	
+DROPBOX	Dropbox Shared Folder Tracker	
+DSC	Text Description File	
+DVI	Device Independent Format File	
+DWD	DavkaWriter File	
+DX	DEC WPS Plus File	
+DXB	Duxbury Braille File	
+DXP	Duxbury Print File	
+EIO	Yozo Office File	
+EIT	Yozo Office Template File	
+EMF	Jasspa MicroEmacs Macro File	
+EML	E-Mail Message	
+EMLX	Apple Mail Message	
+EMULECOLLECTION	eMule Data File	
+EPP	EditPad Pro Project	
+ERR	Error Log File	
+ERR	FoxPro Compilation Error	
+ETF	ENIGMA Transportable File	
+ETX	Structure Enhanced Text (Setext) File	
+EUC	Extended Unix Code File	
+FADEINTEMPLATE	Fade In Template	
+FAQ	Frequently Asked Questions Document	
+FBL	CADfix Command Level Log File	
+FCF	Final Draft Converter File	
+FDF	Acrobat Forms Data Format	
+FDR	Final Draft Document	
+FDS	Final Draft Secure Copy	
+FDT	Final Draft 5-7 Template	
+FDX	Final Draft Document	
+FDXT	Final Draft 8 Template	
+FFT	Final Form Text File	
+FGS	Fig Figure Settings File	
+FLR	Flare Decompiled ActionScript File	
+FODT	OpenDocument Flat XML Document	
+FOUNTAIN	Fountain Script File	
+FPT	FoxPro Table Memo	
+FRT	FoxPro Report Memo	
+FWDN	fWriter Document	
+GMD	GroupMail Message	
+GPD	Generic Printer Description File	
+GPN	GlidePlan Map Document	
+GSD	General Station Description File	
+GTHR	Gather Log File	
+GV	Graphviz DOT File	
+HBK	Mathcad Handbook File	
+HHT	Help and Support Center HHT File	
+HS	Java HelpSet File	
+HWP	Hanword Document	
+HWP	Hangul (Korean) Text Document	
+HZ	Chinese (Hanzi) Text	
+IDX	Outlook Express Mailbox Index File	
+IIL	CleanSweep Installation Log	
+IPF	OS/2 Help File	
+IPSPOT	iPhoto Spot File	
+JARVIS	Jarvis Subscriber File	
+JIS	Japanese Industry Standard Text	
+JNP	Java Web Start File	
+JOE	JOE Document	
+JP1	Japanese (Romaji) Text File	
+JRTF	JAmes OS Rich Text File	
+JTD	JustSystems Ichitaro Document	
+KES	Kurzweil 3000 Document	
+KLG	Log File	
+KLG	KOFIA Log	
+KNT	KeyNote Note File	
+KON	Yahoo! Widget XML File	
+KWD	KWord Document	
+LATEX	LaTeX Document	
+LBT	FoxPro Label Memo	
+LIS	SQR Output File	
+LNT	Laego Note Taker File	
+LOG	Log File	
+LP2	iLEAP Word Processing Document	
+LST	Data List	
+LST	FoxPro Documenting Wizard List	
+LTR	Letter File	
+LTX	LaTeX Document	
+LUE	Norton LiveUpdate Log File	
+LUF	Lipikar Uniform Format File	
+LWP	Lotus Word Pro Document	
+LXFML	LEGO Digital Designer XML File	
+LYT	TurboTax Install Log File	
+LYX	LyX Document	
+MAN	Unix Manual	
+MBOX	Email Mailbox File	
+MCW	MacWrite II Document	
+MD5TXT	Message Digest 5 Hash File	
+ME	Readme Text File	
+MELL	Mellel Word Processing File	
+MELLEL	Mellel Word Processing Document	
+MIN	Mint Source File	
+MNT	FoxPro Menu Memo	
+MSG	Outlook Mail Message	
+MW	MacWrite Text Document	
+MWD	Mariner Write Document	
+MWP	Lotus Word Pro SmartMaster File	
+NB	Nota Bene File	
+NDOC	Naver Word	
+NFO	Warez Information File	
+NGLOSS	Nisus Writer Glossary	
+NJX	NJStar Document	
+NOTE	Notability Note File	
+NOTES	Memento Notes File	
+NOW	Readme File	
+NWCTXT	NoteWorthy Composer Text File	
+NWM	Nisus Macro	
+NWP	Now Contact WP Document	
+OCR	FAXGrapper Fax Text File	
+ODIF	Open Document Interchange Format	
+ODM	OpenDocument Master Document	
+ODO	Online Operating System Write Document	
+ODT	OpenDocument Text Document	
+OFL	Ots File List	
+OPEICO	Opeico Text File	
+OPENBSD	OpenBSD Readme File	
+ORT	Rich Text Editor Document	
+OTT	OpenDocument Document Template	
+P7S	Digitally Signed Email Message	
+PAGES	Pages Document	
+PAGES-TEF	Pages iCloud Document	
+PDPCMD	Pdplayer Command File	
+PFX	First Choice Word Processing Document	
+PLAIN	Plain Text File	
+PLANTUML	PlantUML File	
+PMO	Pegasus Saved Message File	
+PRT	Printer Output File	
+PRT	Crypt Edit Protected Text Format File	
+PSW	Pocket Word Document	
+PU	PlantUML File	
+PVJ	ProofVision Job Ticket	
+PVM	Photo Video Manifest File	
+PWD	Pocket Word Document	
+PWDP	Password Pad Document	
+PWDPL	Password Pad Lite Document	
+PWI	Pocket Word Document	
+PWR	PowerWrite Document	
+QDL	QDL Program	
+QPF	QuickPad Encrypted Document	
+RAD	Radar ViewPoint Radar Data	
+README	Readme File	
+RFT	Revisable Form Text Document	
+RIS	Research Information Systems Citation File	
+RPT	Generic Report	
+RST	reStructuredText File	
+RTD	RagTime Document	
+RTF	Rich Text Format File	
+RTFD	Rich Text Format Directory File	
+RTX	Rich Text Document	
+RUN	Runscanner Scan File	
+RVF	RichView Format File	
+RZK	File Crypt Password File	
+RZN	Red Zion Notes File	
+SAF	SafeText File	
+SAFETEXT	SafeText File	
+SAM	Ami Pro Document	
+SAM	LMHOSTS Sample File	
+SAVE	Nano Temporary Save File	
+SCC	Scenarist Closed Caption File	
+SCM	Schema File	
+SCRIV	Scrivener Document	
+SCRIVX	Scrivener XML Document	
+SCT	FoxPro Form Memo	
+SCW	Movie Magic Screenwriter Document	
+SDM	StarOffice Mail Message	
+SDOC	Satra Khmer Document	
+SDW	StarOffice Writer Text Document	
+SE	Shuttle Document	
+SESSION	Mozilla Firefox Session File	
+SGM	SGML File	
+SIG	Signature File	
+SKCARD	Starfish Sidekick Card File	
+SLA	Scribus Document	
+SLAGZ	Scribus Compressed Document	
+SMF	StarMath Formula File	
+SMS	Exported SMS Text Message	
+SSA	Sub Station Alpha Subtitle File	
+STORY	Storyist Document	
+STRINGS	Text Strings File	
+STW	StarOffice Document Template	
+STY	LaTeX Style	
+SUBLIME-PROJECT	Sublime Text Project File	
+SUBLIME-WORKSPACE	Sublime Text Workspace File	
+SXG	Apache OpenOffice Master Document	
+SXW	StarOffice Writer Document	
+TAB	Guitar Tablature File	
+TAB	Tab Separated Data File	
+TDF	Guide Text Definition File	
+TDF	Xserve Test Definition File	
+TEMPLATE	Apple Pages Template	
+TEX	LaTeX Source Document	
+TEXT	Plain Text File	
+TEXTCLIPPING	Mac OS X Text Clipping File	
+THP	TurboTax Text String	
+TLB	VAX Text Library	
+TM	TeXmacs Document	
+TMD	TextMaker Document	
+TMDX	TextMaker Document	
+TMV	TextMaker Template	
+TMVX	TextMaker Document Template	
+TPC	Topic Connection Placeholder	
+TRELBY	Trelby File	
+TVJ	TrueView Job Ticket	
+TXT	Plain Text File	
+U3I	U3 Application Information File	
+UNAUTH	SiteMinder Unauthorized Message File	
+UNX	Unix Text File	
+UOF	Uniform Office Document	
+UOT	Uniform Office Document	
+UPD	Program Update Information	
+UTF8	Unicode UTF8-Encoded Text Document	
+UTXT	Unicode Text File	
+VCT	Visual Class Library Memo	
+VNT	Mobile Phone vNote File	
+VW	Volkswriter Text File	
+WBK	WordPerfect Workbook	
+WEBDOC	Boxnet Web Document	
+WN	WriteNow Text Document	
+WP	WordPerfect Document	
+WP4	WordPerfect 4 Document	
+WP5	WordPerfect 5 Document	
+WP6	WordPerfect 6 Document	
+WP7	WordPerfect 7 Document	
+WPA	ACT! Word Processing Document	
+WPD	WordPerfect Document	
+WPD	ACT! 2 Word Processing Document	
+WPD	602Text Word Processing Document	
+WPL	DEC WPS Plus Text Document	
+WPS	Microsoft Works Word Processor Document	
+WPS	Kingsoft Writer Document	
+WPT	WordPerfect Template	
+WPT	Kingsoft Writer Template	
+WPW	WP Works Word Processor File	
+WRI	Microsoft Write Document	
+WSD	WordStar Document	
+WTT	Write! Document	
+WTX	Text Document	
+XBDOC	Xiosis Scribe Document	
+XBPLATE	Xiosis Scribe Template	
+XDL	XML Schema File	
+XDL	Oracle Expert Definition Language File	
+XWP	XMLwriter Project	
+XWP	Xerox Writer Text Document	
+XWP	Crosstalk Session File	
+XY	XYWrite Document	
+XY3	XYWrite III Document	
+XYP	XYWrite Plus Document	
+XYW	XYWrite for Windows Document	
+ZABW	Compressed AbiWord Document File	
+ZRTF	Nisus Compressed Rich Text File	
+ZW	Chinese Text File

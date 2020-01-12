@@ -1,0 +1,195 @@
+$ER	GroupWise Database	
+4DD	4th Dimension Database Data File	
+4DL	4th Dimension Database Log File	
+^^^	PervasiveSQL Database File	
+ABCDDB	Apple Address Book Contact List	
+ABS	Absolute Database File	
+ABX	WordPerfect Address Book	
+ACCDB	Access 2007 Database File	
+ACCDC	Microsoft Access Signed Package	
+ACCDE	Access Execute Only Database	
+ACCDR	Access Runtime Application	
+ACCDT	Microsoft Access Database Template	
+ACCDW	Microsoft Access Database Link File	
+ACCFT	Microsoft Access Data Type Template	
+ADB	Alpha Five Database File	
+ADB	Ability Database File	
+ADE	Access Project Extension	
+ADF	ACT! Data File	
+ADN	Access Blank Project Template	
+ADP	Access Project	
+ALF	ACT! Lookup File	
+ASK	askSam Database	
+BTR	Btrieve Database File	
+CAT	Advanced Disk Catalog Database	
+CDB	Symbian Phonebook Database	
+CDB	Pocket Access Database	
+CDB	CardScan Contacts Database	
+CKP	SQL Server Checkpoint File	
+CMA	TM1 Exported Cube File	
+CPD	RoboHelp Cache Project Database	
+CRYPT12	WhatsApp Encrypted Database File	
+CRYPT5	WhatsApp Encrypted Database File	
+CRYPT6	WhatsApp Encrypted Database File	
+CRYPT7	WhatsApp Encrypted Database File	
+CRYPT8	WhatsApp Encrypted Database File	
+CRYPT9	WhatsApp Encrypted Database File	
+DACONNECTIONS	RemObjects Data Abstract Connections File	
+DACPAC	SQL Server Data Tier Application Package	
+DAD	RemObjects Data Abstract Driver File	
+DADIAGRAMS	RemObjects Data Abstract Data Diagrams File	
+DASCHEMA	RemObjects Data Abstract Schema File	
+DB	Database File	
+DB	Mobile Device Database File	
+DB-JOURNAL	SQLite Rollback Journal File	
+DB-SHM	SQLite Database Shared Memory File	
+DB-WAL	SQLite Database Write-Ahead Log File	
+DBCRYPT	WhatsApp Encrypted Database File	
+DBCRYPT12	WhatsApp Encrypted Database File	
+DBCRYPT8	WhatsApp Encrypted Database File	
+DB2	dBASE II Database	
+DB3	SQLite Database File	
+DBC	FoxPro Database	
+DBF	Database File	
+DBS	SQLBase Database File	
+DBT	Database Text File	
+DBV	Database Variable Field	
+DBX	Dropbox Encrypted Database File	
+DCB	Concordance Database File	
+DCT	FoxPro Database Memo	
+DCX	FoxPro Database Index	
+DDL	Data Definition Language File	
+DLIS	DLIS Well Log Data File	
+DP1	DataPower Database File	
+DQY	Excel Query File	
+DSK	Simple IDs Database	
+DSN	Database Source Name File	
+DTSX	DTS Settings File	
+DXL	Domino XML Language File	
+ECO	ECCO Database File	
+ECX	ECCO Corrupted Database File	
+EDB	Exchange Information Store Database	
+EDB	Windows Search Index Database	
+EPIM	EssentialPIM Database File	
+EXB	Evernote Database File	
+FCD	First Choice Database	
+FDB	Microsoft Dynamics NAV Database File	
+FIC	WinDev Hyper File Database	
+FLEXOLIBRARY	Final Cut Pro Library Database	
+FM5	FileMaker 5 Database	
+FMP	FileMaker Pro Database	
+FMP12	FileMaker Pro 12 Database	
+FMPSL	FileMaker Pro 12 Snapshot Link	
+FOL	PFS First Choice Database File	
+FP3	FileMaker Pro 3 Database	
+FP4	FileMaker Pro 4 Database	
+FP5	FileMaker Pro 5 Database	
+FP7	FileMaker Pro 7+ Database	
+FPT	FileMaker Pro Database Memo File	
+FRM	MySQL Database Format File	
+GDB	GPS Database File	
+GDB	InterBase Database File	
+GRDB	Gramps Database File	
+GWI	GroupWise Database Shortcut File	
+HDB	HansaWorld Database File	
+HIS	FindinSite Database Definition File	
+IB	InterBase Database	
+IDB	IDA Database File	
+IHX	IN-HEH Timeline Database	
+ITDB	iTunes Database File	
+ITW	InTouch With Database File	
+JET	JET Database File	
+JTX	ESE Transaction Log	
+KDB	Keypass Database File	
+KEXI	Kexi Database	
+KEXIC	Kexi Database Connection File	
+KEXIS	Kexi Database Shortcut File	
+LGC	SimpleK Database File	
+LWX	Lightwright Database File	
+MAF	Microsoft Access Form	
+MAQ	Microsoft Access Query	
+MAR	Microsoft Access Report	
+MARSHAL	Marshal Data Migration Model File	
+MAS	Access Stored Procedures	
+MAV	Access View File	
+MAW	Access Data Access Page	
+MDB	Microsoft Access Database	
+MDBHTML	Microsoft Access Database HTML File	
+MDF	SQL Server Database File	
+MDN	Blank Access Database Template	
+MDT	GeoMedia Access Database Template	
+MFD	Music Finder Database	
+MPD	Microsoft Project Database	
+MRG	MySQL Merge File	
+MUD	Textease Multi User Database	
+MWB	MySQL Workbench Document	
+MYD	MySQL Database Data File	
+NDF	SQL Server Secondary Database File	
+NNT	Eudora Address Book File	
+NRMLIB	Neat Cabinet File	
+NS2	Lotus Notes 2 Database	
+NS3	Lotus Notes 3 Database	
+NS4	Lotus Notes 4 Database	
+NSF	Lotus Notes Database	
+NV	NewViews Database File	
+NV2	NewViews 2 Database File	
+NWDB	Neat Database File	
+NYF	myBase Database File	
+ODB	OpenDocument Database	
+ODB	ABAQUS Database	
+OQY	Excel OLAP Query File	
+ORA	Oracle Database Configuration File	
+ORX	RadiantOne VDS Database Schema	
+OWC	OutWit Catch Database	
+P96	Win96 Database File	
+P97	Win97 Database File	
+PAN	Panorama Database File	
+PDB	Program Database	
+PDB	Palm Desktop Database File	
+PDM	PowerDesigner Database File	
+PNZ	Panorama Database Set	
+QRY	Query File	
+QVD	QlikView Data File	
+RBF	Redatam Binary File	
+RCTD	RabbitCT Dataset	
+ROD	RIB office Database File	
+ROD	Ancestry Genealogical Database File	
+RODX	Ancestry Genealogical Database File	
+RPD	RIB Project Database File	
+RSD	RealSQLDatabase File	
+SAS7BDAT	SAS Data Set File	
+SBF	Superbase Database File	
+SCX	FoxPro Form	
+SDB	ServerBoss Database File	
+SDB	MonKey Office SQLite Database File	
+SDB	SparkleDB Database File	
+SDB	OpenOfficeorg Base Database File	
+SDC	Paragon Dictionary Database File	
+SDF	SQL Server Compact Database File	
+SIS	Sisma Database File	
+SPQ	SPSS Database Query File	
+SQL	Structured Query Language Data File	
+SQLITE	SQLite Database File	
+SQLITE3	SQLite 3 Database File	
+SQLITEDB	SQLite Database	
+TE	Textease CT Database File	
+TEACHER	SMART Response Teacher Database File	
+TEMX	Cemetery Registry Database File	
+TMD	MySQL Temporary Database File	
+TPS	Clarion TopSpeed Data File	
+TRC	Oracle Trace File	
+TRC	SQL Server Trace File	
+TRM	Oracle Trace Map File	
+UDB	Dynamics AX User Database File	
+UDL	Microsoft Universal Data Link File	
+USR	FileMaker Pro Database File	
+V12	All The Right Type Database File	
+VIS	Visual Importer Script	
+VPD	VoxPro Database File	
+VVV	Virtual Volumes View Catalog	
+WDB	Microsoft Works Database	
+WMDB	Windows Media Database File	
+WRK	SQL Server Log Shipping File	
+XDB	PowerDesigner Database Definition File	
+XLD	Excel Database File	
+XMLFF	XML Flat File

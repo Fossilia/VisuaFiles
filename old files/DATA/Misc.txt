@@ -1,0 +1,500 @@
+!BT	BitTorrent Incomplete Download File	
+!UT	uTorrent Incomplete Download	
+000	Windows CE Installation Data File	
+1	Unix Section 1 Man Page	
+3DC	RacerMate 3D Course File	
+83P	TI-83 Calculator File	
+8XP	TI-83 Plus Calculator File	
+_EML	Windows Live Mail Email File	
+_NWS	Windows Live Mail Newsgroup Copy File	
+_SYSLFO	Adware File	
+AAWDEF	Ad-Aware Definitions File	
+ABR	Adobe Photoshop Brushes File	
+AC$	AutoCAD Temporary File	
+ACB	AOL Cab Launcher	
+ACL	AutoCorrect List File	
+ACS	Agent Character File	
+ADADOWNLOAD	Adobe Download Assistant Partial Download File	
+ADD	Dynamics AX Developer Documentation File	
+ADI	Dynamics AX Developer Documentation Index File	
+AEPKEY	Advanced Encryption Package Key File	
+AFPLOC	Apple Filing Protocol Location	
+AHD	Dynamics AX Online Help Data File	
+AHI	Dynamics AX Online Help Index File	
+AIF	Symbian Application Information File	
+ALT	Dynamics AX Temporary File	
+AML	Microsoft Assistance Markup Language File	
+AOD	Dynamics AX Object Data File	
+AOI	Dynamics AX Application Object Index File	
+APF	Adobe Profile File	
+APPDOWNLOAD	Mac App Store Partially Downloaded App	
+APPUP	Erlang Application Upgrade File	
+ARIA2	aria2 Control File	
+ARR	Advanced RAR Password Recovery Project	
+ASS	Aegisub Advanced Substation Alpha File	
+AUZ	Ableton Authorization File	
+AVASTLIC	Avast License File	
+AVGDX	AVG Diagnostics File	
+AZ!	Vuze Partial Download File	
+BBL	BibTeX Generated Bibliography File	
+BC	BitComet Partially Downloaded File	
+BC!	BitComet Incomplete File	
+BFC	Windows Briefcase File	
+BKMK	Yummy FTP Bookmark File	
+BLF	MasterWorks Working File	
+BMK	Nokia Device Bookmark File	
+BND	DB2 CLI Bind File	
+BOOTSKIN	Stardock Bootskin File	
+BOX	Microsoft Store Download File	
+BP2	AutoCAD Batch Plot File	
+BP3	AutoCAD Batch Plot File	
+BPDX	Acrobat Batch PDX File	
+BPL	AutoCAD Batch Plot File	
+BPS	BPS Virus File	
+BQY	Brio Query File	
+BST	BibTeX Style Document	
+BT!	BitSpirit Incomplete Download File	
+BUP	McAfee Quarantined File	
+CACHE	Cache File	
+CALIBRE	Calibre Device Data File	
+CAS	Autodesk Cascade License File	
+CBDS	Comic Book DS File	
+CBT	Computer Based Training File	
+CCH	NET Security Resolution Cache File	
+CDF-MS	ClickOnce Compiled Manifest File	
+CERBER3	Cerber Ransomware Virus File	
+CFL	IMVU Product File	
+CFS	Lucene Compound Index File	
+CHK	Saved File Fragment	
+CHUNK001	File Splitter Split Archive Part 1	
+CHW	Compiled Help Index File	
+CL	Cursor Library	
+CLKK	Clicker Keyboard	
+CLKT	Clicker Template	
+CLKW	Clicker Word Bank	
+CLKX	Clicker Grid Set	
+CLR	Animate Color Set	
+CLS	LaTeX Document Class File	
+CML	CryptoMailer Encrypted File	
+CMM	Corel Multimedia Manager Album	
+CONTOUR	Contour Screenplay File	
+COS2	Pinnacle Studio Cache File	
+CP3	Grand Prix 3 Cockpit Shape File	
+CRASHED	AbiWord Crash-Saved Document	
+CRC	Total Commander Checksum File	
+CRD	Windows CardSpace File	
+CRD	Guitar Tabs	
+CRDOWNLOAD	Chrome Partially Downloaded File	
+CSH	Photoshop Custom Shapes File	
+CTF	AVG Update Control File	
+CTF	Content Transformation File	
+CTG	Canon Digital Camera Catalog File	
+CUL	Windows Cursor Library	
+CVF	CPU-Z Validation File	
+CVR	Microsoft Crash Report File	
+CXF	Picasa Collage File	
+DA2	Ad-Aware License File	
+DAL	Download Accelerator Plus URL List	
+DAP	Download Accelerator Plus Partial Download	
+DAT	Exchange E-mail Attachment	
+DAT	Inno Setup Uninstaller Data File	
+DB	Windows Thumbnail Cache	
+DBX	Outlook Express E-mail Folder	
+DCOVER	Disc Cover File	
+DCT	Dictionary File	
+DCTMP	DC++ Partially Downloaded File	
+DECRYPT	Decrypted Microsoft ESD File	
+DEK	Memorize-It Flashcard Deck	
+DESKTOP	Desktop Entry File	
+DIC	Dictionary File	
+DISABLED	Spybot - Search & Destroy Disabled File	
+DISKDEFINES	Linux LiveCD Information File	
+DLM	Akamai Download Manager File	
+DMX-INFO	DriverMax Driver Information File	
+DOC#	LibreOffice Document Lock File	
+DOWNLOADING	Pando Incomplete Download File	
+DR	DRM Rights Object	
+DRC	DRM Rights Object	
+DSC	Nikon Disk Identification File	
+DSKIN	DockX Skin	
+DSTUDIO	DownloadStudio Incomplete Download	
+DTAPART	DownThemAll! Partially Downloaded File	
+DTF	Domino Temporary File	
+DWC	Emulex DWC Firmware Update File	
+DWL	TurboCAD Drawing Lock File	
+DWLIBRARY	Paperless Document Library	
+DWN	Firmware Update File	
+EBN	Philips Firmware Update File	
+EDC	Kryptel Lite Encrypted File	
+EF2	Internet Download Manager Export File	
+EFL	External Format Language File	
+ENC	Encore Musical Notation File	
+ENF	EndNote Filter File	
+ERL	GameGuard Error Log File	
+ERR	AutoCAD Error Log File	
+ESD	Windows Electronic Software Download File	
+EVENT	Corel Cataloged Folder File	
+EXD	Control Information Cache File	
+EXP	Melco Embroidery File	
+EXT	Generic Email Attachment	
+EYB	Microsoft Encarta Yearbook Update File	
+EZLOG	Skype Extras Manager Log File	
+EZW	easyOFFER Real Estate Form File	
+FB!	FlashGet Incomplete Download File	
+FDR	Windows Error Report File	
+FEEDBACK	Expression SketchFlow Feedback File	
+FILE	Generic Windows File	
+FLF	Microsoft Dynamics NAV License File	
+FMELIC	FME License File	
+FND	Windows Saved Search	
+FNLF	Scarlett Plug-in Suite License File	
+FPFV	File Protected From Virus	
+FRM	Form File	
+FRZ	Locked FormFlow File	
+FTIL	e-Hastakshar Contract Note	
+FTPLOC	FTP Location	
+FW	Firmware Update File	
+G3A	Casio Prizm Add-in File	
+GAU	Flight Simulator Gauge File	
+GG	Google Desktop Gadget File	
+GLINK	Google Drive External File Shortcut	
+GOD	God Configuration File	
+GP4	Guitar Pro 4 Tablature	
+GPG	GNU Privacy Guard Public Keyring	
+GROWLREGDICT	Growl Temp File	
+GSP	Geometer's Sketchpad File	
+GTA	Microsoft Groove Tool Archive	
+HDK	HotDocs Registration File	
+HEX	Hexadecimal Source File	
+HLX	ATI Radeon Video Driver Support File	
+HMX	Help & Manual 4 Project	
+HPS	HP Digital Sender Metadata File	
+HS	Motorola Flash Flex File	
+HXA	Microsoft Help 2 Attribute Definition File	
+HXC	Microsoft Help 2 Collection Definition File	
+HXE	Microsoft Help 2 Sample Definition File	
+HXK	Microsoft Help 2 Index File	
+HYP	Dictionary Information File	
+ICAL	iCalendar File	
+ICALENDAR	iCalendar File	
+ICMA	InCopy Assignment File	
+ICONTAINER	CandyBar iContainer File	
+ICS	Calendar File	
+ID	Lotus Notes User ID File	
+IDLK	Adobe InDesign Lock File	
+IDX	Movie Subtitle File	
+IFL	3ds Max Image File List	
+IMAPMBOX	IMAP Mailbox	
+IML	ACT! Internet Mail Message	
+IMY	iMelody Ringtone File	
+IN	Spyware File	
+INCA	InCopy CS3 Assignment File	
+INDK	Adobe Shortcut Set File	
+INETLOC	Internet Location	
+INFO	Generic Information File	
+INFO	Texinfo Document	
+ING	MasterCook Ingredients File	
+INLK	Adobe InDesign Lock File	
+IPSW	iPod and iPhone Software Update File	
+ISN	Installer Source File	
+ITC	iTunes Cover Flow Data File	
+JAD	Java Application Descriptor File	
+JC	FlashGet Partial Download	
+JC!	FlashGet Incomplete Download	
+JCL	JCloze File	
+JCW	JCross File	
+JMS	Masher Project	
+JMT	JMatch File	
+JMX	JMix File	
+JQZ	JQuiz File	
+JRS	Exchange Reserve Transaction Log File	
+KEY	Software License Key File	
+KEY	LightWave License File	
+KHD	Dynamics AX Kernel Help Data File	
+KHI	Dynamics AX Kernel Help Index File	
+KPF	Kindle Create Publishable File	
+KWM	WebMoney Key File	
+KYR	Lotus Domino Key Ring File	
+LAY	DVD Studio Pro Layout File	
+LCK	Program Lock File	
+LDB	Microsoft Access Lock File	
+LETTER	Undeliverable Mail File	
+LIC	Software License File	
+LICENSEKEY	iPartition License Key File	
+LID	Kodak EasyShare Album File	
+LINK	iPod Link File	
+LINX	iPod Links Folder	
+LOCK	Lock File	
+LOGONVISTA	LogonStudio Windows Vista Logon Screen	
+LOGONXP	LogonStudio Windows XP Logon Screen	
+LOOV	Smadav Virus Definitions File	
+LRC	Lyrics File	
+LRS	Check Point License Request File	
+LTF	Frogans Shortcut File	
+LWTP	LimeWire Theme Pack	
+LXA	Microsoft Speech Lexicon File	
+LYR	ArcView Layer File	
+MAB	Mozilla Address Book	
+MAG	Access Diagram Shortcut File	
+MAILPLANELICENSE	Mailplane License File	
+MAILTOLOC	Mail Internet Location File	
+MANIFEST	Steam Manifest File	
+MAP	TECkit Mapping File	
+MAR	Mozilla Archive	
+MAT	Microsoft Access Table Shortcut File	
+MB	Kodak EasyShare Data File	
+MBB	Kodak EasyShare Data File	
+MBS	Opera Mailbox File	
+MC2	MasterCook 5 Cookbook File	
+MCF	MasterCook 2 Cookbook File	
+MCFI	Maya Initial Fluid Cache File	
+MCFP	Maya Fluid Cache Playback File	
+MCO	Live Messenger Winks File	
+MD5	MD5 Checksum File	
+MDF	Translation Memory Data Find File	
+MDL	Flight Simulator Airplane Model	
+MDW	Access Workgroup File	
+MERLINLICENSE	Merlin License File	
+MFIL	Blizzard Software Update File	
+MGDATABASE	MacGourmet Deluxe Database File	
+MGO	MacGourmet Recipe File	
+MGT	Musicnotes Guitar Guru Song File	
+MIF	Management Information Format	
+MJDOC	MacJournal Document	
+MLS	CrystalPlayer Playlist	
+MMO	Memory Map Overlay File	
+MNL	AutoCAD Menu LISP File	
+MNX	FoxPro Menu	
+MOBILEPROVISION	Xcode Mobile Provisioning Profile	
+MONTAGE	Montage Screenplay File	
+MPCPL	Media Player Classic Playlist	
+MRK	DPOF Auto Print Order File	
+MSF	Mail Summary File	
+MSI	Windows Installer Package	
+MSO	Inline E-mail Attachment	
+MSO	Microsoft Office Macro Reference File	
+MSRCINCIDENT	Windows Remote Assistance Invitation File	
+MSU	Windows Vista Update Package	
+MTA	Samsung AllShare Metadata File	
+MTD	Musicnotes Digital Sheet Music File	
+MTHD	MOPEKS Method File	
+MVI	AutoCAD Movie Command File	
+MWF	Translation Memory Word Find File	
+MWLIC	MoneyWell License File	
+MXN	Miinoto Exchangeable Note File	
+MZZ	Microsoft NET Download Package	
+NA2	Netscape Address Book File	
+NAV2	WinAVI Temporary Navigation File	
+NCW	Nero CoverDesigner Wizard File	
+NDL	Lotus Notes Doclink File	
+NFS	Network File System Temporary File	
+NICK	Outlook 2000 Nickname File	
+NJB	Nikon Photo Index File	
+NK2	Outlook 2002 Nickname File	
+NOMEDIA	Android No Media File	
+NSS	Magentic Screensaver File	
+NTF	MediaFACE II CD Label File	
+NTH	Nokia Series 40 Theme File	
+NUP	Smart Security Update File	
+NVI	NVIDIA Driver File	
+NWP	Magentic Wallpaper File	
+OB!	Orbit Downloader Incomplete Download	
+ODF	OpenDocument Formula	
+OLB	OLE Object Library	
+OPDOWNLOAD	Opera Partially Downloaded File	
+OPF	FlipAlbum File	
+OST	Outlook Offline Data File	
+OTC	OpenDocument Chart Template	
+OTF	OpenDocument Formula Template	
+P10	Certificate Request File	
+P2P	FolderShare Placeholder File	
+P7M	Digitally Encrypted Message	
+P7R	Certificate Request Response File	
+PAD	ACT! Database Pointer File	
+PAMP	Poweramp Album Art File	
+PANDO	Pando File	
+PART	Partially Downloaded File	
+PARTIAL	Internet Explorer Partially Downloaded File	
+PDPCOMP	Pdplayer Composition File	
+PEKEY	PhysicsEditor License Key File	
+PES	Brother Embroidery Format	
+PGP	PGP Security Key	
+PID	Process ID File	
+PKPASS	Passbook Pass File	
+PLA	iriver iQuickList File	
+PLF	Papyrus License File	
+PLS	Multimedia Playlist File	
+PLSK	Messenger Plus! Live Skin Pack	
+PN	Powernoodle File (Discontinued)	
+PPK	PuTTY Private Key File	
+PSAR	PSP Update File	
+PSF	HP-UX Product Specification File	
+PSI	PrimalScript Online Help Shortcut	
+PSW	Windows Password Reset Disk File	
+PTH	4D Path Document	
+PTR	Flash Intro Project File	
+PVK	Private Key File	
+PVM	HP Photo Album	
+QDS	Windows Directory Query File	
+QUA	Avira AntiVir Quarantined File	
+QWQ	OpenQwaq Auto-Launch File	
+QXL	QuarkXPress Library	
+RADIUMKEY2	Radium 2 License File	
+RASKINLICENSE	Raskin License File	
+RAT	PICS Rating File	
+RELOC	Windows EXE Relocation Section File	
+REM	BlackBerry Encrypted Data File	
+REQ	SSL Certificate Request File	
+REQ	Canon SD Card Version Request File	
+RFB	RoboForm Bookmark File	
+RFC	RoboForm Contact File	
+RFN	RoboForm Safenote File	
+RFP	RoboForm Passcard File	
+RFT	RoboForm Identity File	
+RJS	RealJukebox Skin File	
+RMF	Adobe Rights Management Document	
+RMH	Rights-Managed HTML Document	
+RML	Elixir Report Template File	
+RND	PGP Random Seed File	
+RND	Random Hash Data File	
+ROM	Read Only Memory Image	
+ROV	Report Object Variable	
+RPMSG	Outlook Restricted Permission Message	
+RSA	RSA Certificate File	
+RSA	Minecraft JAR Codesign File	
+RTC	Live Meeting Connection File	
+RTM	LabVIEW Run-Time Menu File	
+RWLIBRARY	Paperless Receipt Library	
+RWZ	Outlook Rules Wizard File	
+RXC	Roxio Certificate File	
+SBC	Office Accounting Company Shortcut File	
+SC	Space Engine Script	
+SC2LOCALE	Blizzard StarCraft 2 Localization File	
+SCW	Score Writer Document	
+SDR	Dell Support File	
+SDX	Kivuto Secure Download Manager File	
+SEARCH-MS	Windows Saved Search File	
+SEC	PGP Secret Key Ring	
+SFT	Microsoft App-V Sequencer File	
+SFV	Simple File Verification File	
+SHA1	SHA-1 Hash File	
+SHA512	SHA 512 Hash File	
+SHORTCUT	Asutype Shortcut	
+SHS	Microsoft Scrap File	
+SHV	Husqvarna Viking Embroidery File	
+SHX	Motorola Flash Superfile	
+SIDB	iTunes Authorization Data File	
+SIDD	iTunes Authorization Data File	
+SIDN	iTunes Authorization Data File	
+SIS	Symbian Installation File	
+SISDM	Ovi Store DRM-Protected Application	
+SISX	Symbian OS Installation File	
+SISXDM	Nokia Ovi Store DRM-Protected Application	
+SKBA	SketchBook Pro Animation File	
+SKINDEX	Mail Index File	
+SKR	PGP Private Keyring	
+SLB	AutoCAD Slide Library	
+SLF	Symantec License File	
+SLUPKG-MS	XrML Digital License Package	
+SMRD	Adobe InDesign Filter File	
+SMWT	Adobe InDesign Filter	
+SNF	Starry Night Pro Document	
+SNM	Netscape Mail Index	
+SNT	Sticky Notes File	
+SPD	Form·Z Suspended Render File	
+SPK	Synology Package	
+SR0	SecuROM Analysis File	
+SSC	Stellarium Script	
+SSD	WindowBlinds Skin File List	
+SSLF	HLSW Shared Server List File	
+SST	Serialized Certificate Store File	
+SSW	Sony Ericsson Firmware File	
+STH	Lotus Domino Stash File	
+STMB	Synclavier Timbre File	
+STORYMILL	StoryMill Project File	
+SUM	Garmin Checksum File	
+SVN-WORK	Subversion Cache File	
+SWJ	SolidWorks Journal File	
+SWP	Vi Swap File	
+SXM	StarMath Formula	
+T$M	AVG Internet Security Temporary File	
+TBS	TuneUp Utilities Boot Screen	
+TCR	TouchMagix Creative Suite Published File	
+TD	Thunder Incomplete Download File	
+TDL	MathType Translator Definition Language	
+TEC	TECkit Compiled Mapping File	
+TEMP	Temporary (Temp) File	
+TFIL	Blizzard Software Update File	
+THM	Sony Ericsson Theme File	
+TIP	TuneUp Utilities Icon Package	
+TLB	OLE Type Library	
+TLS	TuneUp Utilities Logon Screen	
+TMB	Timbuktu Pro Connection Document	
+TNEF	Transport Neutral Encapsulation Format	
+TNSP	TI-Nspire PublishView Document	
+TOC	Eudora Table of Contents	
+TORRENT	BitTorrent File	
+TPKEY	TexturePacker License Key File	
+TPL	Document Template	
+TPM	Trusted Platform Module Password File	
+TPM	Transformation Parameters Model File	
+TRACE	VMware ThinApp Trace Log File	
+TSTREAM	SwarmPlayer Streaming Torrent	
+TTX	Trados TagEditor File	
+ULS	NetMeeting User Location Service File	
+UNKNOWN	Unknown File Type	
+UNL	Garmin Unlock File	
+UPG	Upgrade File	
+VBT	Spyware Doctor Temporary Scan File	
+VBT	iAntiVirus Temporary Scan File	
+VFS	Virtual File System Index	
+VIR	Virus-Infected File	
+VMDK-CONVERTTMP	VMWare Fusion Temporary File	
+VMF_AUTOSAVE	Valve Hammer Editor Autosave File	
+VMG	Nokia Text Message	
+VMHF	VMware Hot Fix File	
+VMHR	VMware Hot Fix Request File	
+VNCLOC	Screen Sharing VNC Internet Location	
+VOL	Volfs File System Directory	
+VOR	StarOffice Template	
+VPA	VPchat Chat Gestures File	
+VPC6	Virtual Machine Package	
+VPC7	Virtual Machine Package	
+W	Google Toolbar Search History File	
+WAL	Winamp Modern Skin	
+WBA	WindowBlinds Compressed Skin	
+WCM	Microsoft Works Communications Script	
+WDSEML	Thunderbird Searchable Email File	
+WJE	WinJournal Entry	
+WJF	WinJournal Journal File	
+WLX	Windows Live Mesh Sync File	
+WORDLIST	Desktop Poet Word List File	
+WRTS	Wrts File	
+WSZ	Winamp Classic Skin	
+WTC	Logitech Webcam File	
+WWD	Works Wizard File	
+WZMUL	WinZip Registration File	
+XENSEARCH	XenCenter Saved Search File	
+XLNK	XML Shortcut File	
+XLW	Excel Workspace File	
+XMP	Extensible Metadata Platform File	
+XNK	Exchange Shortcut	
+XOL	PowerDesigner Object Language File	
+XPR	PressIt Disc Label	
+XSLIC	XenServer License File	
+XWF	OmniPage Workflow File	
+XXX	Compucon Singer Embroidery File	
+YBD	YobiDrive Link File	
+YBK	Microsoft Encarta Yearbook File	
+YPS	Yahoo! Messenger Data File	
+Z1	ZoneAlarm Renamed VB File	
+Z80	TI-83 and 84 Plus Calculator File	
+ZM1	ZoneAlarm Renamed MDA File	
+ZM2	ZoneAlarm Renamed MDZ File	
+ZM3	ZoneAlarm Renamed NCH File	
+ZM9	ZoneAlarm MailSafe Renamed Zip File	
+ZML	Zooming Markup Language File	
+ZTF	DVD Label Template File	
+ZTR	DVD Label Template Media File	
+ZVPL	Visual Paradigm License File	
+ZZZ	CCleaner Securely Deleted File

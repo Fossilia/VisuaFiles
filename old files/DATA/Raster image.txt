@@ -112,7 +112,7 @@ FPOS	Photo Pos Pro Image
 FPPX	Microsoft Fresh Paint Painting File	
 FPX	FlashPix Bitmap Image File	
 FRM	Painter Frame Stack File	
-G3	CCITT com.fossilia.visuafiles.group.Group 3 Fax Image
+G3	CCITT Group 3 Fax Image	
 GBR	GIMP Brush File	
 GCDP	Greeting Card Studio Design Project	
 GFB	GIFBlast Compressed Image File	
@@ -123,7 +123,7 @@ GIH	GIMP Image Hose File
 GIM	PlayStation Portable Image File	
 GMBCK	Game Maker Background Image File	
 GMSPR	Game Maker Sprite File	
-GP4	CCITT com.fossilia.visuafiles.group.Group 4 Fax File
+GP4	CCITT Group 4 Fax File	
 GPD	Graphic PhotoDefiner Image File	
 GRO	Graphic Object Bitmap	
 GROB	Graphic Object Bitmap File	
@@ -167,8 +167,8 @@ J2K	JPEG 2000 Image
 JAS	Paint Shop Pro Compressed Graphic	
 JB2	JBIG2 Image	
 JBF	Paint Shop Pro Browser Cache File	
-JBG	Joint Bi-level Image com.fossilia.visuafiles.group.Group File
-JBIG	Joint Bi-level Image com.fossilia.visuafiles.group.Group File
+JBG	Joint Bi-level Image Group File	
+JBIG	Joint Bi-level Image Group File	
 JBIG2	JBIG2	
 JBMP	JAmes OS Bitmap Image	
 JBR	Paint Shop Pro Brushes File	
@@ -414,7 +414,7 @@ TBN	Kodi Thumbnail Image
 TEX	Texture File	
 TEXTURE	Diesel Engine Game Texture File	
 TFC	Unreal Engine 3 Texture File Cache	
-TG4	Tiled com.fossilia.visuafiles.group.Group 4 Raster Image File
+TG4	Tiled Group 4 Raster Image File	
 TGA	Targa Graphic	
 THM	Thumbnail Image File	
 THM	Video Thumbnail File	

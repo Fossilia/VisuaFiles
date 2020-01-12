@@ -1,10 +1,10 @@
 import java.io.*;
 
-public class VisuaFilesLauncher{
+public class Launcher{
 	public static void main(String[]args){
 		VisuaFiles visuaFiles = new VisuaFiles();
 		try{
-			Runtime.getRuntime().exec("explorer.exe /select, C:/");
+			//Runtime.getRuntime().exec("explorer.exe /select, C:/");
 			visuaFiles.start();
 		}
 		catch(IOException e){

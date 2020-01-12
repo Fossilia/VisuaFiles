@@ -22,7 +22,7 @@ ACD-ZIP	Sony ACID Project With Embedded Media File
 ACM	Interplay Audio File	
 ACP	aacPlus Audio File	
 ACT	ADPCM Compressed Audio File	
-ADG	Ableton Device com.fossilia.visuafiles.group.Group
+ADG	Ableton Device Group	
 ADT	ADTS Audio File	
 ADTS	Audio Data Transport Stream File	
 ADV	Ableton Device Preset File	
@@ -76,7 +76,7 @@ CDO	Crescendo Music Notation File
 CDR	Raw Audio CD Data	
 CEL	Audition Loop	
 CFA	Adobe Conformed Audio File	
-CGRP	Pro Tools Clip com.fossilia.visuafiles.group.Group File
+CGRP	Pro Tools Clip Group File	
 CIDB	iTunes CD Information File	
 CKB	Cricket Audio Bank File	
 CKF	Casio Keyboard File	
@@ -160,7 +160,7 @@ GPX	Guitar Pro 6 Document
 GROOVE	ACID Groove File	
 GSF	Game Boy Advance Sound File	
 GSFLIB	Game Boy Advance Song Library	
-GSM	com.fossilia.visuafiles.util.Global System for Mobile Audio File
+GSM	Global System for Mobile Audio File	
 H0	Movie Edit Pro Waveform Information File	
 H4B	Line 6 POD HD400 Edit Bundle	
 H5B	Line 6 POD HD500 Edit Bundle	
@@ -338,7 +338,7 @@ RBS	MP3 Ringtone File
 RCY	ReCycle 1x Document	
 REX	ReCycle Loop File	
 RFL	Reason ReFill Sound Bank	
-RGRP	Pro Tools Region com.fossilia.visuafiles.group.Group File
+RGRP	Pro Tools Region Group File	
 RIP	Hit'n'Mix Audio Mashup File	
 RMI	RMID MIDI File	
 RMJ	Real Media Jukebox Audio File	
@@ -380,7 +380,7 @@ SFL	Sound Forge Pro Sound Data File
 SFPACK	Packed SoundFont File	
 SFS	SFX Sample File	
 SFZ	SFZ Sample Definition File	
-SGP	MP3 Audio Mixer Sound com.fossilia.visuafiles.group.Group Project
+SGP	MP3 Audio Mixer Sound Group Project	
 SHN	Shorten Compressed Audio File	
 SIB	Sibelius Score	
 SLP	SpectraLayers Pro Project	

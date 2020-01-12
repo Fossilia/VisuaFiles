@@ -73,7 +73,7 @@ G41	Commodore 1541 Disk Image
 GBI	gBurner Project File	
 GCD	Prassi CD Image	
 GDRIVE	Gizmo Virtual Drive File	
-GI	com.fossilia.visuafiles.util.Global Image
+GI	Global Image	
 GKH	Ensoniq EPS Family Disk Image	
 HC	VeraCrypt Container File	
 HDD	Parallels Desktop Hard Disk File	

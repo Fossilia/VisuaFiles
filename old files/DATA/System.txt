@@ -8,8 +8,8 @@
 8CU	TI-84 Plus C Operating System File	
 8XU	TI-83 and TI-84 Plus Operating System File	
 ADM	Administrative Template File	
-ADML	com.fossilia.visuafiles.group.Group Policy Language-Specific Administrative Template
-ADMX	com.fossilia.visuafiles.group.Group Policy Administrative Template File
+ADML	Group Policy Language-Specific Administrative Template	
+ADMX	Group Policy Administrative Template File	
 ADV	Audio Driver File	
 AML	ACPI Machine Language File	
 ANI	Windows Animated Cursor	
@@ -95,13 +95,13 @@ FLG	Puppy Linux Partition Flag File
 FOTA	Firmware Over-the-Air File	
 FPBF	Mac OS X Burn Folder	
 FTF	FlashTool Firmware File	
-FTG	Full Text com.fossilia.visuafiles.group.Group
+FTG	Full Text Group	
 FTS	Full Text Search	
 FX	ReadyBoot Trace File	
 GMMP	WCS Gamut Map Model Profile	
 GRL	Windows Update Status File	
-GROUP	Windows Contacts com.fossilia.visuafiles.group.Group File
-GRP	Windows Program Manager com.fossilia.visuafiles.group.Group
+GROUP	Windows Contacts Group File	
+GRP	Windows Program Manager Group	
 H1S	Windows Assistance Platform Help File	
 HCD	Samsung Android Firmware File	
 HDMP	Windows Heap Dump	

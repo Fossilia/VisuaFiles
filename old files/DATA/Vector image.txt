@@ -133,7 +133,7 @@ PFV	PhotoFiltre Studio Vectorial Path
 PL	Unix Color Plot File	
 PLT	AutoCAD Plotter Document	
 PLT	HPGL Plot File	
-PMG	PageMaker com.fossilia.visuafiles.group.Group File
+PMG	PageMaker Group File	
 POBJ	Photo Pos Pro Vector Object File	
 PS	PostScript File	
 PSID	PostScript Image Data File	

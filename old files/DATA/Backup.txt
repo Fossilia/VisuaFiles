@@ -1,0 +1,277 @@
+$$$	Temporary File	
+$DB	dBASE Temporary File	
+001	Split Archive File	
+001	Norton Ghost Disk Backup	
+002	Split Archive Part 2 File	
+003	Split Archive Part 3 File	
+113	Iomega Backup File	
+73B	TI-73 Backup File	
+__A	File Splitter & Joiner Encrypted File	
+__B	File Splitter & Joiner Encrypted Archive File	
+AB	Android ADB Backup File	
+ABA	Palm Address Book Archive	
+ABBU	Address Book Backup	
+ABF	Analysis Services Backup File	
+ABK	Automatic Backup File	
+ABU	Asus App Backup File	
+ABU1	ASUS Backup File	
+ACP	Alfresco Content Package	
+ACR	Acer eRecovery Management Backup File	
+ADI	Active@ Disk Image Backup File	
+ADI	AOMEI Backupper Disk Backup File	
+AEA	AdWords Editor Archive	
+AFI	AOMEI Backupper File Backup File	
+ARC	Symbian OS Backup File	
+ARC	Norton Backup Archive	
+AS4	askSam Backup File	
+ASD	Word AutoSave File	
+ASHBAK	Ashampoo Backup Archive	
+ASV	Finale Auto-save File	
+ASVX	Finale Auto-save File	
+ATE	Office Accounting Compressed Backup File	
+ATI	Office Accounting Updated Company File	
+BA6	TaxAct 2016 Tax Return Backup File	
+BA7	TaxAct 2017 Tax Return Backup File	
+BA8	TaxAct 2018 Tax Return Backup File	
+BAC	Backup File	
+BACKUP	Android Backup File	
+BACKUPDB	Time Machine Backup Folder	
+BAK	Backup File	
+BAK	Bookmarks Backup File	
+BAK	ACT! Backup File	
+BAK	Finale Backup File	
+BAK	MobileTrans Backup File	
+BAK2	Backup File	
+BAK3	Backup File	
+BAKX	Finale Backup File	
+BAK~	AbiWord Auto-Saved Document	
+BBB	BlackBerry Mobile Phone Backup File	
+BBZ	BerryBuzz Backup File	
+BCK	VMX Backup File	
+BCKP	Ad-Aware Quarantined File	
+BCM	Microsoft Works Communications Script Backup	
+BDB	Microsoft Works Database Backup File	
+BFF	Backup File Format	
+BIF	Get Backup Project File	
+BIFX	Get Backup Project	
+BK1	Autodesk Backup File	
+BK1	ERwin Backup File	
+BKC	Backup4all Backup Catalog	
+BKF	Windows Backup Utility File	
+BKP	Backup File	
+BKP	Zapback Backup File	
+BKUP	Backup File	
+BKZ	FileFort Backup File	
+BLEND1	Blender Document Backup File	
+BLEND2	Blender Document Backup 2 File	
+BM3	Sony Ericsson Backup File	
+BMK	BillMinder Backup File	
+BOOKEXPORT	BookSmart Backup Book File	
+BPA	StorageSync Backup Archive	
+BPB	PowerDesigner Business Process Backup File	
+BPM	PowerDesigner Business Process Model	
+BPN	ArchiCAD Project Backup File	
+BPS	Works Document Backup	
+BUP	DVD IFO Backup File	
+BUP	Backup File	
+CAA	CleanApp Archive	
+CBK	Backup Configuration File	
+CBS	Comodo Backup Script	
+CBU	Comodo Backup File	
+CENON~	Cenon Backup File	
+CK9	Cook'n Cookbook Backup File	
+CMF	Connected Backup File	
+CRDS	Windows CardSpace Backup File	
+CSD	Steam Game Data Backup File	
+CSM	Steam Game Backup File	
+DA0	Windows Registry Backup File	
+DASH	Dashlane Profile	
+DBA	Palm Datebook Backup File	
+DBK	Sony Ericsson Mobile Phone Backup File	
+DBK	dBASE Database Backup	
+DIM	Active@ Raw Disk Image Backup File	
+DIY	My Drivers Backup Setup File	
+DNA	CA Backup and Migration Backup File	
+DOV	Temp File	
+DPB	DataPilot Backup File	
+DSB	Dell DataSafe Backup File	
+DSS	DiskStation Backup Configuration File	
+FBC	Family Tree Maker for DOS Backup File	
+FBF	Free Backup Fix Backup File	
+FBK	Microsoft Dynamics NAV Backup File	
+FBK	Family Tree Maker for Windows Backup File	
+FBU	FEBE Firefox Backup File	
+FBW	HP Recovery Manager Backup File	
+FH	Symantec Backup Exec File	
+FHF	Free Hide Folder Backup File	
+FLKA	Folder Lock Portable Locker File	
+FLKB	Folder Lock Basic Locker File	
+FPSX	Nokia Firmware Format File	
+FTMB	Family Tree Maker Backup File	
+FUL	Microsoft Backup File List	
+FWBACKUP	Freeway Backup	
+FZA	Form•Z Autosave File	
+FZB	Form•Z Project Backup File	
+GB1	Game Maker Backup File	
+GB2	Game Maker Backup File	
+GBP	Genie Timeline Backup Index File	
+GHO	Norton Ghost Backup File	
+GHS	Norton Ghost Image Segment	
+GS-BCK	Genius Scan Backup File	
+IBK	IncrediMail Account Backup File	
+ICBU	Calendar Backup File	
+ICF	Zoom Router Configuration File	
+INPROGRESS	Time Machine Backup Progress File	
+IPD	BlackBerry Backup File	
+IV2I	Norton Ghost Incremental Virtual Volume Image	
+J01	Akeeba Multi-part Backup Archive	
+JBK	Juno Backup File	
+JDC	JDownloader Links File	
+JPA	Akeeba Backup Archive	
+JPS	Akeeba Backup Archive	
+KB2	Kleo Backup File	
+LBF	LG Backup File	
+LCB	Living Cookbook Backup File	
+LDABAK	Legistant Encrypted Backup File	
+LLX	LabVIEW VI Library Backup File	
+MBF	Microsoft Money Backup File	
+MBK	dBASE IV Multiple Index Backup File	
+MBW	MBRWizard Archive	
+MDBACKUP	iPhone Data Backup File	
+MDDATA	iPhone Backup File	
+MDINFO	iPhone Backup Information File	
+MEM	FoxPro Variable File	
+MIG	Windows Migration Backup File	
+MPB	MyPhoneExplorer Backup File	
+MSIM	mSecure Password Manager Backup File	
+MV_	Movie Edit Pro Movie Backup File	
+MYNOTESBACKUP	Keep My Notes Backup	
+NB7	NovaBACKUP Output File	
+NBA	Nero BackItUp Archive	
+NBAK	Neat Backup File	
+NBD	NovaBACKUP File	
+NBD	Data Backup Data File	
+NBF	Nokia Backup File	
+NBF	Backup Now Archive	
+NBI	Nero BackItUp Information File	
+NBK	NovaBACKUP Job File	
+NBK	Data Backup Job File	
+NBS	NTI Backup Set	
+NBU	Nokia Phone Backup File	
+NCO	Nero BackItUp File	
+NDA	Nero Backup File	
+NFB	Nokia Phone Backup File	
+NFC	Nokia Phone Backup Copy File	
+NOY	NOY Backup File	
+NPF	NTI Partition File	
+NPS	NTI Partition Set	
+NRBAK	NeatReceipts Backup File	
+NRS	NovaBACKUP Restore Script	
+NWBAK	NeatWorks Backup File	
+OBK	Backup File	
+OEB	Outlook Express Backup Wizard File	
+OLD	Backup File	
+ONEPKG	Microsoft OneNote Package File	
+ORI	Original File	
+ORIG	Original File	
+OYX	Approach Alternate Database Index	
+PAQ	Hewlett-Packard Software Restore File	
+PBA	PowerBackup Archive	
+PBB	AT&T Phonebook File	
+PBD	EaseUS Todo Backup File	
+PBF	PowerBackup Data File	
+PBF	Paragon Backup File	
+PBJ	PowerBackup Job File	
+PBX5SCRIPT	Personal Backup Script	
+PBXSCRIPT	Personal Backup Script	
+PDB	PowerDesigner Database Backup File	
+PFI	Paragon Backup Index File	
+PQB	Pleco Chinese Dictionary Backup File	
+PQB-BACKUP	Pleco Chinese Dictionary Backup File	
+PRV	Free Folder Hider Backup File	
+PSA	Plesk Backup File	
+PTB	Sage 50 Backup File	
+PVC	Parallels Desktop Copied Configuration File	
+PVHD	Paragon Virtual Hard Drive	
+QBATLG	QBA Transaction Log File	
+QBB	QuickBooks Backup File	
+QBK	QuickTax Backup File	
+QBM	QuickBooks Portable Company File	
+QBMB	QuickBooks Backup File	
+QBMD	QuickBooks Backup File	
+QBX	QuickBooks Accountant Transfer File	
+QIC	Windows Backup File	
+QSF	Qualtrics Survey File	
+QUALSOFTCODE	J&ASoft Code Archive File	
+QUICKEN2015BACKUP	Quicken 2015 Backup File	
+QUICKEN2016BACKUP	Quicken 2016 Backup File	
+QUICKEN2017BACKUP	Quicken 2017 Backup File	
+QUICKENBACKUP	Quicken Essentials for Mac Backup File	
+QV~	ViewletBuilder Project Backup File	
+RBC	Retrospect Backup Catalog File	
+RBF	Windows Installer Rollback File	
+RBF	Stellar Insta Backup Image	
+RBF	Retrospect Backup File	
+RBK	Windows 95 Registry Backup File	
+RBS	Windows Installer Rollback Script	
+RDB	Retrospect Backup Set	
+RGMB	RootsMagic Backup File	
+RMBAK	Registry Mechanic Backup File	
+RRR	Registry Mechanic Backup File	
+SAFENOTEBACKUP	Safe Note Backup File	
+SAV	Parallels Desktop Saved State Image File	
+SBB	Office Accounting Company Backup File	
+SBS	Secure Backup System File	
+SBU	Samsung Backup File	
+SDC	Stardock Central Download Archive	
+SIM	Steam Game Backup Information File	
+SIS	Steam Game Backup Information File	
+SKB	SketchUp Backup Document	
+SME	Samsung Mobile Backup File	
+SN1	Drive Snapshot First Differential Backup	
+SN2	Drive Snapshot Second Differential Backup	
+SNA	Drive Snapshot Primary Backup File	
+SNS	Save-N-Sync Project File	
+SPF	ShadowProtect Full Backup File	
+SPG	TCP Optimizer Backup File	
+SPI	ShadowProtect Incremental Backup File	
+SPS	SyncBack Settings File	
+SQB	SQL Backup SQL Server Backup File	
+SRR	ReScene Metadata File	
+STG	ActiveSync Backup File	
+SV$	AutoCAD Automated Backup File	
+SV2I	Symantec System Index File	
+TBK	FoxPro Memo Backup	
+TDB	eBay Turbo Lister Backup File	
+TIBKP	Titanium Backup File	
+TIG	TI Connect Backup File	
+TIS	True Image Script	
+TLG	QuickBooks Transaction Log File	
+TMP	Temporary File	
+TMP	Finale Temporary File	
+TMR	Free Countdown Timer Backup File	
+TRN	SQL Server Transaction Log Backup File	
+TTBK	Canadian TurboTax 2010 Backup File	
+UCI	UFS Explorer Backup File	
+V2I	Norton Ghost Virtual Volume Image	
+VBK	Veeam Backup File	
+VBM	Veeam Backup Metadata File	
+VBOX-PREV	Oracle VM VirtualBox Settings Backup File	
+VPCBACKUP	Windows Virtual PC Backup File	
+VRB	Veeam Incremental Backup File	
+W01	Samsung Recovery File	
+WALLETX	Enpass Data File	
+WBB	WinBackup Archive	
+WBCAT	Windows Backup Catalog File	
+WBK	Word Document Backup	
+WIN	Windows Backup File	
+WIN	FoxPro Window Settings	
+WJF	WinZip Job File	
+WPB	Windows Phone Device Manager Backup File	
+WSPAK	WebsitePanel Backup File	
+WX	Wanam Xposed Backup File	
+XBK	XenServer Backup File	
+XLK	Excel Backup File	
+YRCBCK	YRC Backup Archive	
+ZBFX	zebNet Backup File Extended	
+~CW	Circuit Wizard Backup File

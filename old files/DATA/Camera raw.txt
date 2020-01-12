@@ -1,0 +1,35 @@
+3FR	Hasselblad 3F RAW Image	
+ARI	ARRIRAW Image	
+ARW	Sony Digital Camera Image	
+BAY	Casio RAW Image	
+CR2	Canon Raw Image File	
+CR3	Canon Raw 3 Image File	
+CRW	Canon Raw CIFF Image File	
+CS1	CaptureShop 1-shot Raw Image	
+CXI	FMAT RAW Image	
+DCR	Kodak RAW Image File	
+DNG	Digital Negative Image File	
+EIP	Enhanced Image Package File	
+ERF	Epson RAW File	
+FFF	Hasselblad RAW Image	
+IIQ	Phase One RAW Image	
+J6I	Ricoh Camera Image File	
+K25	Kodak K25 Image	
+KDC	Kodak Photo-Enhancer File	
+MEF	Mamiya RAW Image	
+MFW	Mamiya Camera Raw File	
+MOS	Leaf Camera RAW File	
+MRW	Minolta Raw Image File	
+NEF	Nikon Electronic Format RAW Image	
+NRW	Nikon Raw Image File	
+ORF	Olympus RAW File	
+PEF	Pentax Electronic File	
+RAF	Fuji RAW Image File	
+RAW	Raw Image Data File	
+RW2	Panasonic RAW Image	
+RWL	Leica RAW Image	
+RWZ	Rawzor Compressed Image	
+SR2	Sony RAW Image	
+SRF	Sony RAW Image	
+SRW	Samsung RAW Image	
+X3F	SIGMA X3F Camera RAW File

@@ -1,0 +1,299 @@
+0	Hacha Split Archive File	
+000	DoubleSpace Compressed File	
+7Z	7-Zip Compressed File	
+7Z001	7-Zip Split Archive Part 1 File	
+7Z002	7-Zip Split Archive Part 2 File	
+A00	ALZip Second Split Archive File	
+A01	ALZip Third Split Archive File	
+A02	ALZip Fourth Split Archive File	
+ACE	WinAce Compressed File	
+AGG	Bulk Data File	
+AIN	AIN Compressed File Archive	
+ALZ	ALZip Archive	
+APEX	Android Pony Express Package File	
+APZ	Autoplay Media Studio Exported Project	
+AR	Unix Static Library	
+ARC	Compressed File Archive	
+ARCHIVER	Archiver Compressed File Archive	
+ARDUBOY	Arduboy Game Package	
+ARH	ProTool Compressed Project File	
+ARI	ARI Compressed File Archive	
+ARJ	ARJ Compressed File Archive	
+ARK	PowerDesk Pro Archive	
+ASR	Audio Streaming Resource Archive	
+B1	B1 Compressed Archive	
+B64	Base64 MIME-Encoded File	
+B6Z	B6Z Archive	
+BA	Scifer External Header Archive	
+BDOC	Binary DigiDoc Signature File	
+BH	BlakHole Archive	
+BNDL	Game Data Bundle File	
+BOO	Booasm Compressed Archive	
+BUNDLE	Game Data Bundle File	
+BZ	Bzip Compressed File	
+BZ2	Bzip2 Compressed File	
+BZA	IZArc BGA Archive	
+BZIP	Bzip Compressed Archive	
+BZIP2	Bzip2 Compressed Archive	
+C00	WinAce Split Archive File	
+C01	WinAce Split Archive Part 1 File	
+C02	WinAce Split Archive Part 1 File	
+C10	WinAce Split Archive Part 10	
+CAR	CAR Archive	
+CB7	Comic Book 7-Zip Archive	
+CBA	Comic Book ACE Archive	
+CBR	Comic Book RAR Archive	
+CBT	Comic Book TAR File	
+CBZ	Comic Book Zip Archive	
+CDZ	Compressed CD Image File	
+COMPPKGHAUPTWERKRAR	Hauptwerk Component Package	
+COMPPKG_HAUPTWERK_RAR	Hauptwerk Component Package	
+CP9	ChoicePoint Encrypted File	
+CPGZ	Compressed CPIO Archive	
+CPT	Compact Pro Archive	
+CTX	Cherrytree Password-protected SQLite Document	
+CTZ	Cherrytree Password-protected XML Document	
+CXARCHIVE	CrossOver Bottle Archive	
+CZIP	ZipGenius CryptoZip File	
+DAF	DupArchive Format File	
+DAR	DAR Disk Archive	
+DD	DiskDoubler Archive	
+DEB	Debian Software Package	
+DGC	DGCA File Archive	
+DIST	Mac OS X Distribution Script	
+DL_	Compressed DLL File	
+DZ	Dzip File	
+ECS	Sony Ericsson Phone Backup File	
+ECSBX	Error-Correcting SeqBox Container File	
+EDZ	EPLAN Electric P8 Data Archive Zipped File	
+EFW	Renamed Zip or Executable File	
+EGG	ALZip Archive	
+EPI	EclipsePackager2000 Compressed File	
+F	Freeze Compressed File	
+F3Z	Fusion 360 Shared Project Archive	
+FDP	MySafe Encrypted Data	
+FP8	FP8 (= Fast PAQ8) Compressed File	
+FZBZ	Fritzing Bundled Bin File	
+FZPZ	Fritzing Bundled Part File	
+GCA	GCA File Archive	
+GMZ	Compressed GameMaker File	
+GZ	Gnu Zipped Archive	
+GZ2	Misnamed BZ2 File	
+GZA	IZArc BGA Archive File	
+GZI	Unix Gzip File	
+GZIP	Gnu Zipped File	
+HA	HA Compressed Archive	
+HBC	HyperBac Compressed Archive	
+HBC2	HyperBac Compressed File Archive	
+HBE	HyperBac Compressed and Encrypted Archive	
+HKI	WinHKI Archive	
+HKI1	WinHKI HKI1 Archive	
+HKI2	WinHKI HKI2 Archive	
+HKI3	WinHKI HKI3 Archive	
+HPK	HPack Compressed Archive	
+HPKG	Haiku Package File	
+HYP	HYPER Compressed Archive	
+IADPROJ	iAd Producer Project	
+ICE	ICE File Archive	
+IPG	iPod Game File	
+IPK	Itsy Package	
+ISH	ISH Compressed Archive	
+ISX	SimulationX Project	
+ITA	IconTweaker Theme Archive	
+IZE	IZArc Archive	
+J	JAR Archive	
+JARPACK	Pack200 Packed Jar File	
+JGZ	Gzipped Javascript File	
+JIC	Java Icon File	
+JSONLZ4	Compressed Firefox Bookmarks Backup File	
+KGB	KGB Archive File	
+KZ	KuaiZip Compressed File	
+LAYOUT	LayOut Document	
+LBR	LU Library Archive	
+LEMON	LemonSharenet Download	
+LHA	LHARC Compressed Archive	
+LHZD	Live Home 3D Compressed Project	
+LIBZIP	Camtasia Studio Zipped Library File	
+LNX	Commodore 64 Lynx Archive	
+LPKG	Liferay Application	
+LQR	SQ Compressed LBR Archive	
+LZ	Lzip Compressed File	
+LZH	LZH Compressed File	
+LZM	Slax Module	
+LZMA	LZMA Compressed File	
+LZO	LZO Compressed File	
+LZX	Amiga LZX Compressed File	
+MBZ	Moodle Backup FIle	
+MD	MDCD Compressed Archive	
+MINT	Linux Mint Installer File	
+MOU	WinMount Compressed File	
+MPKG	Meta Package File	
+MZP	MAXScript Zip Package	
+MZP	WinArchiver Mountable Archive	
+NEX	Navigator Extension	
+NPK	MikroTik Software Package	
+NZ	NanoZip Compressed File	
+OAR	OpenSimulator Archive	
+OPK	GCW Zero Open Package	
+OZ	Opera Job Management Compressed File	
+P01	Parchive Recovery Volume	
+P19	Parchive Recovery Volume	
+P7Z	S/MIME Compressed Email Message	
+PA	PowerArchiver Compressed File	
+PACKGZ	Pack200 Compressed Archive	
+PACKAGE	Linux Autopackage File	
+PAE	PowerArchiver Encrypted Archive	
+PAK	PAK (Packed) File	
+PAQ6	PAQ6 Data Archive	
+PAQ7	PAQ7 Data Archive	
+PAQ8	PAQ8 Data Archive	
+PAQ8F	PAQ8F Compressed Archive	
+PAQ8L	PAQ8L Data Archive	
+PAQ8P	PAQ8P Data Archive	
+PAR	Parchive Index File	
+PAR2	Parchive 2 Index File	
+PAX	PAX Archive	
+PBI	PC BSD Installer Package	
+PCV	MozBackup Profile Backup	
+PEA	PEA File Archive	
+PET	Puppy Linux Install Package	
+PF	Private File	
+PIM	PIM Archive	
+PIT	PackIt Compressed Archive	
+PIZ	Zipped File	
+PKG	Mac OS X Installer Package	
+PKGTARXZ	Arch Linux Package File	
+PRS	PRS Archive	
+PSZ	Compressed PostScript File	
+PUP	PlayStation 3 Update File	
+PUP	Puppy Linux DotPup Installer Package	
+PUZ	Packed Publisher File	
+PVMZ	Parallels Compressed Virtual Machine	
+PWA	Password Agent File	
+QDA	Quadruple D Archive	
+R0	WinRAR Compressed Archive	
+R00	WinRAR Compressed Archive	
+R01	WinRAR Split Archive Part 1	
+R02	WinRAR Split Archive Part 2	
+R03	WinRAR Split Archive Part 3	
+R04	WinRAR Split Archive Part 4	
+R1	WinRAR Multi-Volume Archive Part 1	
+R2	WinRAR Multi-Volume Archive Part 2	
+R21	WinRAR Split Archive Part 21	
+R30	WinRAR Split Archive Part 30	
+RAR	WinRAR Compressed Archive	
+REV	RAR Recovery Volume Set	
+RK	WinRK File Archive	
+RNC	RNC ProPack Archive	
+RP9	RetroPlatform Disk Image Archive	
+RPM	Red Hat Package Manager File	
+RSS	RAM Structural System Model File	
+RTE	RTE Encoded File	
+RZ	Rzip Compressed File	
+S00	ZipSplitter Part 1 File	
+S01	ZipSplitter Part 2 File	
+S02	ZipSplitter Part 3 File	
+S09	ZipSplitter Part 10 File	
+S7Z	Mac OS X 7-Zip File	
+SAR	Service Archive File	
+SBX	GLBasic Shoebox File	
+SBX	SeqBox Container File	
+SDC	Secure Download Cabinet	
+SDN	Shareware Distributors Network File	
+SEA	Self-Extracting Archive	
+SEN	Scifer Internal Header Archive	
+SFG	Synfig Studio Compressed Project	
+SFS	Squashfs File Archive	
+SFX	Windows Self-Extracting Archive	
+SH	Unix Shell Archive	
+SHAR	Unix Shar Archive	
+SHK	ShrinkIt Archive	
+SHR	Unix Shell Archive File	
+SI	Sound Interleave Archive	
+SIFZ	Synfig Studio Compressed Project	
+SIT	StuffIt Archive	
+SITX	StuffIt X Archive	
+SMPF	Sprite Monkey Project	
+SNAPPY	Snappy Compressed File	
+SNB	S Note File	
+SPD	S Note File	
+SPL	Splunk Application Package	
+SPM	Salt Package Manager Formula Package	
+SPT	TM File Packer Compressed Archive	
+SQX	SQX Archive	
+SQZ	The Master Genealogist Backup Project	
+SREP	SuperREP Compressed File	
+STPROJ	iAd Producer Project	
+SY_	Compressed SYS File	
+TARBZ2	Compressed Tarball File	
+TARGZ	Compressed Tarball File	
+TARGZ2	Misnamed BZ2 Tarball	
+TARLZ	Lzip Compressed Tarball	
+TARLZMA	LZMA Compressed Tarball	
+TARXZ	XZ Compressed Tar Archive	
+TARZ	Zipped Tarball File	
+TAZ	Tar Zipped File	
+TBZ	Bzip Compressed Tar Archive	
+TBZ2	Tar BZip 2 Compressed File	
+TCX	TestComplete Script Extension Package	
+TG	Gzip Compressed Tar Archive	
+TGZ	Gzipped Tar File	
+TLZ	Tar LZMA Compressed File	
+TLZMA	LZMA Compressed Tar Archive	
+TRS	Linear Saw Component Information Archive	
+TX_	Compressed Text File	
+TXZ	XZ Compressed Tar Archive	
+TZ	Zipped Tar Archive	
+TZST	Zstandard Compressed Tar File	
+UC2	UltraCompressor 2 Archive	
+UFSUZIP	Compressed Unix File System File	
+UHA	UHarc Compressed Archive	
+UZIP	FreeBSD Compressed Disk Image	
+VEM	Virtual Expander Compressed File	
+VFS	Animated Slide File	
+VIP	Virtual Instrument Package	
+VMCZ	Hyper-V Compressed Virtual Machine	
+VOCA	PhotoVOCA Communication Board File	
+VPK	PlayStation Vita Application Package	
+VSI	Visual Studio Content Installer File	
+WA	Windows Addon Archive	
+WAFF	Internet Explorer for Mac Web Archive	
+WAR	Java Web Archive	
+WARC	Web Archive	
+WASTICKERS	Sticker Maker Sticker Pack File	
+WDZ	WDZip Compressed Archive	
+WHL	Python Wheel Package	
+WLB	WinList Protocol Bundle	
+WOT	Web Of Trust File	
+WUX	Compressed Wii U Disk Image File	
+XAPK	Compressed Android Package File	
+XAR	Extensible Archive Format File	
+XEF	WinAce Encrypted File	
+XEZ	eManager Template Package	
+XIP	macOS Signed Archive	
+XMCDZ	Mathcad Compressed Worksheet File	
+XX	XXEncoded File	
+XZ	XZ Compressed Archive	
+XZM	Porteus Module	
+Y	Amiga Yabba Compressed File	
+YZ	YAC Compressed File	
+YZ1	Yamazaki ZIPPER File	
+Z	Unix Compressed File	
+Z01	First Split Zip File	
+Z02	Second Split Zip File	
+Z03	Third Split Zip File	
+Z04	Fourth Split Zip File	
+ZAP	FileWrangler Archive	
+ZFSENDTOTARGET	Compressed Folder	
+ZI	Renamed Zip File	
+ZI_	Renamed Zip File	
+ZIP	Zipped File	
+ZIPX	Extended Zip File	
+ZIX	WinZix Compressed File	
+ZL	Zlib Compressed File	
+ZOO	Zoo Compressed File	
+ZPI	Zipped File	
+ZSPLIT	Archiver Compressed Split File	
+ZST	Zstandard Compressed File	
+ZW	Zooper Widget Template	
+ZZ	Zzip Compressed Archive
