@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="VisuaFiles.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/VisuaFiles_jar</output-path>
+    <root id="root">
+      <element id="archive" name="VisuaFiles.jar">
+        <element id="module-output" name="VisuaFiles" />
+      </element>
+    </root>
+  </artifact>
+</component>

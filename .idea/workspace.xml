@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="VisuaFiles.jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b60d7c8e-10ac-44bd-bf1c-e710bc772d5c" name="Default Changelist" comment="" />
+    <list default="true" id="b60d7c8e-10ac-44bd-bf1c-e710bc772d5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/VisuaFiles_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VisuaFiles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/VisuaFiles.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -32,18 +42,22 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.intellij.jarRepository.settings.RemoteRepositoriesConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/VisuaFiles_jar/VisuaFiles.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Faisal\Documents\GitHub\test" />
       <recent name="C:\Users\Faisal\Documents\GitHub\" />
+      <recent name="C:\Users\Faisal\Documents\GitHub\test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.Unnamed">
     <configuration name="launch" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.fossilia.visuafiles.Launcher" />
       <module name="VisuaFiles" />
@@ -51,16 +65,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
-      <setting name="path" value="" />
-      <setting name="vmparams" value="" />
-      <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$" />
-      <setting name="debug" value="false" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="Unnamed" type="JarApplication" nameIsGenerated="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/VisuaFiles_jar/VisuaFiles.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Faisal\Documents\GitHub\VisuaFiles" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
     </configuration>
+    <configuration name="VisuaFiles.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/VisuaFiles_jar/VisuaFiles.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.launch" />
+      <item itemvalue="JAR Application.Unnamed" />
+      <item itemvalue="JAR Application.VisuaFiles.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.VisuaFiles.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -86,53 +110,73 @@
       <updated>1578798813027</updated>
       <workItem from="1578798818258" duration="7900000" />
       <workItem from="1578809984529" duration="2894000" />
-      <workItem from="1578869530717" duration="596000" />
+      <workItem from="1578869530717" duration="2807000" />
+      <workItem from="1578872598752" duration="773000" />
+      <workItem from="1578873434698" duration="849000" />
+      <workItem from="1578874303239" duration="311000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
     <state x="725" y="299" key="#BuildArtifactsBeforeRunChooser" timestamp="1578804897152">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="725" y="299" key="#BuildArtifactsBeforeRunChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578804897152" />
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578804901092">
+    <state x="552" y="179" key="#Project_Structure" timestamp="1578873835276">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578804901092" />
+    <state x="552" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1578873835276" />
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578874613968">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578874613968" />
     <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1578811269154">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578811269154" />
-    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578799470735">
+    <state x="775" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578874358407">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="689" y="305" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578799470735" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1578804818857">
+    <state x="775" y="323" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578874358407" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1578874607445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578804818857" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1578812880361">
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578874607445" />
+    <state width="914" height="281" key="GridCell.Tab.0.bottom" timestamp="1578873371745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578812880361" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1578812880361">
+    <state width="914" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578873371745" />
+    <state width="914" height="281" key="GridCell.Tab.0.center" timestamp="1578873371745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578812880361" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1578812880361">
+    <state width="914" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578873371745" />
+    <state width="914" height="281" key="GridCell.Tab.0.left" timestamp="1578873371745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578812880361" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1578812880361">
+    <state width="914" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578873371745" />
+    <state width="914" height="281" key="GridCell.Tab.0.right" timestamp="1578873371745">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578812880361" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1578804684280">
+    <state width="914" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578873371745" />
+    <state x="627" y="120" key="SettingsEditor" timestamp="1578874463411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578804684280" />
+    <state x="627" y="120" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578874463411" />
+    <state x="1175" y="389" key="classpath-attribute-editor" timestamp="1578874451049">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1175" y="389" key="classpath-attribute-editor/0.0.1920.1040@0.0.1920.1040" timestamp="1578874451049" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578874304505">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578874304505" />
   </component>
 </project>
