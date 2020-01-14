@@ -21,10 +21,9 @@ public class FileGroupList extends AbstractGroupList{
 
         FileGroup other = new FileGroup("Other files");
 
-        System.out.println(base.list().length);
         for(String name: Objects.requireNonNull(base.list())){
             File file = new File(basePath+"/" +name);
-            FileGroup fileGroup = new FileGroup(name);
+            FileGroup fileGroup = new FileGroup(name.substring(0, name.lastIndexOf(".")));
 
             String[] words;
 

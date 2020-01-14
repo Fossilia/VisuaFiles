@@ -67,11 +67,14 @@ public class VisuaFiles{
 	}
 
 	public void printScannerOutput(FileScanner fs){
+		System.out.println("-----SCANNING OVERVIEW---------");
+		System.out.println("Results of scanning path ["+fs.getFilePath()+"]:");
 		System.out.printf("Folders scanned: %-8d\n", fs.getNumberOfFolders());
 		System.out.printf("Files scanned:   %-8d\n", fs.getNumberOfFiles());
 		System.out.printf("Total size:      %-8s\n", StringManipulator.convertSize(fs.getSize()));
 		System.out.printf("Scan time:       "+time+"\n\n");
 		//fs.printFileGroups(28);
+		System.out.println("---------FILE GROUPS----------");
 		fs.getFileGroups().printGroups(28, fs.getSize());
 		System.out.println();
 		//fs.printExtensions(20);
@@ -103,6 +106,16 @@ public class VisuaFiles{
 		fs.getFileGroups().getGroup(input-1).sortFiles();
 		//fs.displayGroupFiles(input-1);
 		fs.getFileGroups().printGroupFiles(input-1);
+		//System.out.println("Type in a 'open ' followed by the files number to open it in file explorer\nType in 'back' to go back group list");
+		String sInput = "";
+
+		while(!sInput.equals("back")){
+			System.out.println("Type in a 'open ' followed by the files number to open it in file explorer\nType in 'back' to go back group list");
+			sInput = Input.getStringInput();
+			if(sInput.equals("back")) break;
+			int fileNum = Integer.parseInt(sInput.split(" ")[1]);
+			fs.getFileGroups().getGroup(input-1).openFileInExplorer(fileNum);
+		}
 
 	}
 

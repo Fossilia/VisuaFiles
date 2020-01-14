@@ -44,9 +44,12 @@ public class AbstractGroupList {
         int maxStringLength = 0;
 
         for(int i=0; i<limit; i++){
-            maxStringLength = Math.max(maxStringLength, groupList.get(i).getName().length());
+            if(groupList.get(i).getSize()>0) {
+                maxStringLength = Math.max(maxStringLength, groupList.get(i).getName().length());
+            }
         }
-        maxStringLength+=5;
+        maxStringLength+=2;
+        //System.out.println(maxStringLength);
 
         for(int i=0; i<limit; i++){
             if(groupList.get(i).getSize()>0){
@@ -54,7 +57,7 @@ public class AbstractGroupList {
                 String percentBar = StringManipulator.getProgressBar(percent, 5);
                 String memorySize = StringManipulator.convertSize(groupList.get(i).getSize());
                 //System.out.printf("%s %5.2f%% "+groupList.get(i)+"\n", percentBar, percent);
-                System.out.printf("%3d. %-"+maxStringLength+"s%10s count: %5d percent: %5.2f%% size: %-10s\n", (i+1), groupList.get(i).getName(), percentBar, groupList.get(i).getCount(), percent, StringManipulator.convertSize(groupList.get(i).getSize()));
+                System.out.printf("%3d. %-"+maxStringLength+"s%s count: %5d percent: %5.2f%% size: %-10s\n", (i+1), groupList.get(i).getName(), percentBar, groupList.get(i).getCount(), percent, memorySize);
             }
         }
     }

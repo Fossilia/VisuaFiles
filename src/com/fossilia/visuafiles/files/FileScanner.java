@@ -17,6 +17,7 @@ public class FileScanner implements Global {
 	private int files;
 	private int folders;
 	private int percent;
+
 	private File filePath;
 
 	private FileGroupList fileGroups;
@@ -122,7 +123,6 @@ public class FileScanner implements Global {
 	public void createExtensionGroups(){
 		//if(HashImp) extensionList = new ArrayList<Group>(extensionListHash.values());
 		if(HashImp) extensionGroups = new ExtensionGroupList(new ArrayList<Group>(extensionListHash.values()));
-		System.out.println(extensionListHash.size()+" xx "+extensionGroups.getGroupList().size());
 	}
 
 	/*public void sortFileGroups(){
@@ -259,6 +259,14 @@ public class FileScanner implements Global {
 
 	public long getSize(){
 		return size;
+	}
+
+	public File getFilePath() {
+		return filePath;
+	}
+
+	public void setFilePath(File filePath) {
+		this.filePath = filePath;
 	}
 
 }

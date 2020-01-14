@@ -45,18 +45,29 @@ public abstract class Group{
 		int maxStringSize = 0;
 
 		for(int i=0; i<limit; i++) {
-			maxStringSize = Math.max(maxStringSize, (int)files.get(i).getName().length());
+			if(files.get(i).length()>0) {
+				maxStringSize = Math.max(maxStringSize, files.get(i).getName().length());
+			}
 		}
-		maxStringSize+=5;
-		System.out.println(maxStringSize);
+		maxStringSize = maxStringSize + 5;
+		//System.out.println(maxStringSize);
 		for(int i=0; i<limit; i++){
 			if(files.get(i).length()>0){
 				double percent = ((double)files.get(i).length()/(double)size)*100;
 				String percentBar = StringManipulator.getProgressBar(percent, 5);
 				String memorySize = StringManipulator.convertSize(files.get(i).length());
-				System.out.printf("%s %5.2f%% %-"+(maxStringSize)+"s size: %15s path: %s\n",percentBar, percent, files.get(i).getName(), memorySize, files.get(i).getAbsolutePath());
+				String path = files.get(i).getAbsolutePath().substring(0, files.get(i).getAbsolutePath().lastIndexOf("\\"));
+				System.out.printf("%3d. %-"+(maxStringSize)+"s %s %5.2f%% size: %15s path: %s\n", (i+1), files.get(i).getName(), percentBar, percent, memorySize, path);
 				//System.out.printf("%20s%10s count: %5d percent: %5.2f%% size: %s\n", groupList.get(i).getName(), percentBar, groupList.get(i).getCount(), percent, memorySize);
 			}
+		}
+	}
+
+	public void openFileInExplorer(int fileNum){
+		try {
+			Runtime.getRuntime().exec("explorer.exe /select, "+files.get(fileNum).getAbsolutePath());
+		} catch (IOException e) {
+			e.printStackTrace();
 		}
 	}
 
@@ -86,4 +97,5 @@ public abstract class Group{
 		String memorySize = StringManipulator.convertSize(getSize());
 		return String.format("%-10s count: %5d size: %s", getName(), getCount(), memorySize);
 	}
+
 }
