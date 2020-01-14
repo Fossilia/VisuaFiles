@@ -1,13 +1,10 @@
 package com.fossilia.visuafiles.files;
 
 import com.fossilia.visuafiles.group.ExtensionGroup;
-import com.fossilia.visuafiles.group.FileGroup;
 import com.fossilia.visuafiles.group.Group;
 import com.fossilia.visuafiles.group.list.ExtensionGroupList;
 import com.fossilia.visuafiles.group.list.FileGroupList;
 import com.fossilia.visuafiles.util.Global;
-import com.fossilia.visuafiles.VisuaFiles;
-import com.fossilia.visuafiles.util.Sorter;
 import com.fossilia.visuafiles.util.StringManipulator;
 
 import java.io.IOException;
@@ -22,11 +19,11 @@ public class FileScanner implements Global {
 	private int percent;
 	private File filePath;
 
-	private FileGroupList fileGroupList2;
-	private ExtensionGroupList extensionGroupList2;
+	private FileGroupList fileGroups;
+	private ExtensionGroupList extensionGroups;
 
 	private ArrayList<File> filesList = new ArrayList<File>();
-	private ArrayList<Group> groupList = new ArrayList<Group>();
+	//private ArrayList<Group> groupList = new ArrayList<Group>();
 	private ArrayList<Group> extensionList = new ArrayList<Group>();
 	private HashMap<String, Group> extensionListHash = new HashMap<String, Group>();
 
@@ -35,6 +32,7 @@ public class FileScanner implements Global {
 		files = 0;
 		folders = 0;
 		percent = -1;
+		fileGroups = new FileGroupList();
 
 	}
 
@@ -52,7 +50,7 @@ public class FileScanner implements Global {
 
 	public void scanFolder(File basePath, File path, double usedSpace){
 
-		double percentageDone = ((double)size/(double)usedSpace)*100;
+		double percentageDone = ((double)size/usedSpace)*100;
 		int newPercent = (int)percentageDone;
 		if(percent<newPercent && newPercent<=100){
 			percent = newPercent;
@@ -113,16 +111,25 @@ public class FileScanner implements Global {
 		}
 	}
 
-	public void sortExtensionGroups(){
+	/*public void sortExtensionGroups(){
 		if(HashImp) extensionList = new ArrayList<Group>(extensionListHash.values());
+		if(HashImp) extensionGroups = new ExtensionGroupList(new ArrayList<Group>(extensionListHash.values()));
+		extensionGroups.sort();
 		Sorter.sortGroups(extensionList);
 		//Collections.sort(extensionList, new com.fossilia.visuafiles.group.GroupSortbySize());
+	}*/
+
+	public void createExtensionGroups(){
+		//if(HashImp) extensionList = new ArrayList<Group>(extensionListHash.values());
+		if(HashImp) extensionGroups = new ExtensionGroupList(new ArrayList<Group>(extensionListHash.values()));
+		System.out.println(extensionListHash.size()+" xx "+extensionGroups.getGroupList().size());
 	}
 
-	public void sortFileGroups(){
+	/*public void sortFileGroups(){
+		fileGroups.sort();
 		Sorter.sortGroups(groupList);
 		//Collections.sort(extensionList, new com.fossilia.visuafiles.group.GroupSortbySize());
-	}
+	}*/
 
 	public void printFiles(int num){
 		for(int i=0; i<num; i++){
@@ -130,7 +137,7 @@ public class FileScanner implements Global {
 		}
 	}
 
-	public void printExtensions(int num){
+	/*public void printExtensions(int num){
 		System.out.println(extensionList.size());
 		int limit = 0;
 		if(num<=extensionList.size()){
@@ -147,12 +154,13 @@ public class FileScanner implements Global {
 			/*ArrayList<File> groupFiles = extensionList.get(i).getFiles();
 			for(int k=0; i<10; k++){
 				System.out.println(groupFiles.get(i));
-			}*/
+			}
 		}
-	}
+	}*/
 
 	public void createGroups() throws FileNotFoundException, IOException{
-		BufferedReader br;
+		fileGroups = new FileGroupList("DATA", extensionGroups);
+		/*BufferedReader br;
 		File base = new File("DATA");
 		String line;
 
@@ -182,10 +190,8 @@ public class FileScanner implements Global {
 				}
 				br.close();
 			} 
-			groupList.add(fileGroup);
-		}
+			groupList.add(fileGroup);*/
 
-		
 		/*com.fossilia.visuafiles.group.FileGroup videoGroup = new com.fossilia.visuafiles.group.FileGroup("Video files");
 		for(com.fossilia.visuafiles.group.Group e: extensionList){
 			if(e.getName().equals("mkv") || e.getName().equals("mp4") || e.getName().equals("webm")){
@@ -196,15 +202,15 @@ public class FileScanner implements Global {
 		*/
 	}
 
-	public void sortGroup(int num){
+	/*public void sortGroup(int num){
 		groupList.get(num).sortFiles();
-	}
+	}*/
 
-	public void displayGroupFiles(int num){
+	/*public void displayGroupFiles(int num){
 		groupList.get(num).printFiles(100);
-	}
+	}*/
 
-	public void printFileGroups(int num){
+	/*public void printFileGroups(int num){
 		int limit = 0;
 		if(num<=groupList.size()){
 			limit = num;
@@ -215,18 +221,34 @@ public class FileScanner implements Global {
 		for(int i=0; i<limit; i++){
 			if(groupList.get(i).getSize()>0){
 				double percent = ((double)groupList.get(i).getSize()/(double)size)*100;
-			System.out.printf("%20s%10s count: %5d percent: %5.2f%% size: %s\n", groupList.get(i).getName(), StringManipulator.getProgressBar(percent, 5), groupList.get(i).getCount(), percent, StringManipulator.convertSize(groupList.get(i).getSize()));
+			System.out.printf("%-20s%10s count: %5d percent: %5.2f%% size: %-10s\n", groupList.get(i).getName(), StringManipulator.getProgressBar(percent, 5), groupList.get(i).getCount(), percent, StringManipulator.convertSize(groupList.get(i).getSize()));
 			}	
 		}
-	}
+	}*/
 
 
-	public void sortExtensionGroupsFiles(){
+	/*public void sortExtensionGroupsFiles(){
 		for(Group e: extensionList){
 			e.sortFiles();
 		}
+	}*/
+
+	public ExtensionGroupList getExtensionGroups() {
+		return extensionGroups;
 	}
 
+	public void setExtensionGroups(ExtensionGroupList extensionGroups) {
+		this.extensionGroups = extensionGroups;
+	}
+
+	public FileGroupList getFileGroups() {
+		return fileGroups;
+	}
+
+	public void setFileGroups(FileGroupList fileGroups) {
+		this.fileGroups = fileGroups;
+	}
+	
 	public int getNumberOfFolders(){
 		return folders-1;
 	}

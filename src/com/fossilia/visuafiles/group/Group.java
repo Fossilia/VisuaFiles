@@ -42,12 +42,19 @@ public abstract class Group{
 
 	public void printFiles(int num){
 		int limit = Math.min(num, files.size());
+		int maxStringSize = 0;
+
+		for(int i=0; i<limit; i++) {
+			maxStringSize = Math.max(maxStringSize, (int)files.get(i).getName().length());
+		}
+		maxStringSize+=5;
+		System.out.println(maxStringSize);
 		for(int i=0; i<limit; i++){
 			if(files.get(i).length()>0){
 				double percent = ((double)files.get(i).length()/(double)size)*100;
 				String percentBar = StringManipulator.getProgressBar(percent, 5);
 				String memorySize = StringManipulator.convertSize(files.get(i).length());
-				System.out.printf("%s %5.2f%% %-80s size: %15s path: %s\n",percentBar, percent, files.get(i).getName(), memorySize, files.get(i).getAbsolutePath());
+				System.out.printf("%s %5.2f%% %-"+(maxStringSize)+"s size: %15s path: %s\n",percentBar, percent, files.get(i).getName(), memorySize, files.get(i).getAbsolutePath());
 				//System.out.printf("%20s%10s count: %5d percent: %5.2f%% size: %s\n", groupList.get(i).getName(), percentBar, groupList.get(i).getCount(), percent, memorySize);
 			}
 		}
@@ -77,6 +84,6 @@ public abstract class Group{
 	@Override
 	public String toString() {
 		String memorySize = StringManipulator.convertSize(getSize());
-		return String.format("%10s count: %5d size: %s", getName(), getCount(), memorySize);
+		return String.format("%-10s count: %5d size: %s", getName(), getCount(), memorySize);
 	}
 }

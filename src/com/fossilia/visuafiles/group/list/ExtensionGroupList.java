@@ -9,6 +9,10 @@ import java.util.ArrayList;
 
 public class ExtensionGroupList extends AbstractGroupList{
 
+    public ExtensionGroupList(ArrayList<Group> groupList){
+        this.groupList = groupList;
+    }
+
     public ExtensionGroupList(){
          groupList = new ArrayList<Group>();
     }

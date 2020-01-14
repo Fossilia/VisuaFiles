@@ -6,19 +6,24 @@ import com.fossilia.visuafiles.util.StringManipulator;
 
 import java.io.*;
 import java.util.ArrayList;
+import java.util.Objects;
 
 public class FileGroupList extends AbstractGroupList{
-    private ArrayList<Group> groupList;
+
+    public FileGroupList(){}
 
     public FileGroupList(String basePath, ExtensionGroupList extList) throws FileNotFoundException, IOException {
+        //groupList = new ArrayList<>();
+
         BufferedReader br;
-        File base = new File("DATA");
+        File base = new File(basePath);
         String line;
 
         FileGroup other = new FileGroup("Other files");
 
-        for(String name: base.list()){
-            File file = new File("DATA/" +name);
+        System.out.println(base.list().length);
+        for(String name: Objects.requireNonNull(base.list())){
+            File file = new File(basePath+"/" +name);
             FileGroup fileGroup = new FileGroup(name);
 
             String[] words;
@@ -43,6 +48,8 @@ public class FileGroupList extends AbstractGroupList{
             }
             groupList.add(fileGroup);
         }
+        //System.out.println(groupList.size());
     }
+
 
 }
