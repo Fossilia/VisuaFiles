@@ -27,7 +27,7 @@ public class VisuaFiles{
 		int input;
 		roots = File.listRoots();
 		printMenu();
-		input = Input.getIntInput(1, roots.length);
+		input = Input.getIntInput(1, roots.length+1);
 		long startTime;
 		long endTime;
 

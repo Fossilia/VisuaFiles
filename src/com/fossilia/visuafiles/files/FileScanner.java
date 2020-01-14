@@ -46,6 +46,7 @@ public class FileScanner implements Global {
 
 	public void scanFolder(File path){
 		double usedSpace = path.getTotalSpace()-path.getUsableSpace();
+		filePath = new File(path.getName());
 		scanFolder(path, path, usedSpace);
 	}
 

@@ -10,9 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/VisuaFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/VisuaFiles.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/files/FileScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/files/FileScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/group/Group.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/group/Group.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/group/list/AbstractGroupList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/group/list/AbstractGroupList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/group/list/FileGroupList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/group/list/FileGroupList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,7 +117,7 @@
       <workItem from="1578879624184" duration="219000" />
       <workItem from="1578885331858" duration="616000" />
       <workItem from="1578935310969" duration="1246000" />
-      <workItem from="1578969708835" duration="12039000" />
+      <workItem from="1578969708835" duration="13928000" />
     </task>
     <servers />
   </component>
@@ -156,22 +154,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578874607445" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1578985518767">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1578986354534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578985518767" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1578985518766">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578986354534" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1578986354534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578985518766" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1578985518766">
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578986354534" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1578986354534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578985518766" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1578985518767">
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578986354534" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1578986354534">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578985518767" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578986354534" />
     <state x="627" y="120" key="SettingsEditor" timestamp="1578874463411">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
