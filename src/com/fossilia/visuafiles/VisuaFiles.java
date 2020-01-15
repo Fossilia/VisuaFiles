@@ -61,8 +61,8 @@ public class VisuaFiles{
 		catch(IOException e){
 			System.out.println(e);
 		}
+
 		//fs.sortFileGroups();
-		
 		printScannerOutput(fs);
 	}
 
