@@ -2,6 +2,7 @@
 
 package com.fossilia.visuafiles.util;
 
+import java.io.File;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
@@ -18,9 +19,11 @@ public final class Input {
             try{
                 input = sc.nextInt(); //gets input, may have an exception if user enters a string
                 if(input>=min && input<=max){ //checks if its in the range
-                    done = true;
                     sc.nextLine();
-                    return input;
+                    done = true;
+                }
+                else if(input == 0){
+                    System.exit(0);
                 }
                 else{
                     System.out.println("Type in a valid number between "+min+" and "+max);
@@ -31,7 +34,7 @@ public final class Input {
                 System.out.println("Please type in a valid number.");
             }
         }
-        return 0;
+        return input;
     }
 
     /**gets a string from the user, checks for exceptions*/
@@ -42,19 +45,40 @@ public final class Input {
         while(!done){
             try{
                 input = sc.nextLine(); //gets input, may have an exception if user does not type in a string
-                if(input == ""){ //checks for empty string
+                if(input.equals("")){ //checks for empty string
                     System.out.println("You have to type in something!");
                     continue;
                 }
+                else if(input.toLowerCase().equals("exit")){
+                    System.exit(0);
+                }
                 //sc.nextLine();
-                return input;
+                done = true;
             }
             catch(InputMismatchException e){ //in case user does not type in a string
                 sc.nextLine();
                 System.out.println("Please type in a valid string.");
             }
         }
-        return "";
+        return input;
+    }
+
+    /**gets a valid path from the user*/
+    public static String getValidPath(){
+        boolean done = false;
+        String input = getStringInput();
+        File file = new File(input);
+        while(!done){
+            if(file.exists()){
+                done = true;
+            }
+            else{
+                System.out.println("That path was invalid, please type in a valid path or 'exit' to exit.");
+                input = getStringInput();
+                file = new File(input);
+            }
+        }
+        return input;
     }
 
 }

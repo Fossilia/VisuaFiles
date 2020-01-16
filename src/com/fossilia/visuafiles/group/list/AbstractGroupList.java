@@ -28,7 +28,11 @@ public class AbstractGroupList {
     }
 
     public void printGroupFiles(int num){
-        groupList.get(num).printFiles(100);
+        groupList.get(num).printFiles(20);
+    }
+
+    public void printGroupFiles(int num, int start, int end){
+        groupList.get(num).printFiles(start, end);
     }
 
     public ArrayList<Group> getGroupList() {

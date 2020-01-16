@@ -1,5 +1,6 @@
 package com.fossilia.visuafiles.group;
 
+import com.fossilia.visuafiles.util.Input;
 import com.fossilia.visuafiles.util.Sorter;
 import com.fossilia.visuafiles.util.StringManipulator;
 
@@ -41,7 +42,13 @@ public abstract class Group{
 	}*/
 
 	public void printFiles(int num){
-		int limit = Math.min(num, files.size());
+		printFiles(0, num);
+	}
+
+	public void printFiles(int start, int end){
+		int limit = Math.min(end, files.size());
+		start = Math.max(0, start);
+
 		int maxStringSize = 0;
 
 		for(int i=0; i<limit; i++) {
@@ -51,7 +58,7 @@ public abstract class Group{
 		}
 		maxStringSize = maxStringSize + 5;
 		//System.out.println(maxStringSize);
-		for(int i=0; i<limit; i++){
+		for(int i=start; i<limit; i++){
 			if(files.get(i).length()>0){
 				double percent = ((double)files.get(i).length()/(double)size)*100;
 				String percentBar = StringManipulator.getProgressBar(percent, 5);
@@ -68,6 +75,27 @@ public abstract class Group{
 			Runtime.getRuntime().exec("explorer.exe /select, "+files.get(fileNum).getAbsolutePath());
 		} catch (IOException e) {
 			e.printStackTrace();
+		}
+	}
+
+	public boolean deleteFile(int fileNum){
+		String input = "";
+		while(true){
+			System.out.println("Are you sre you want to delete "+files.get(fileNum).getName()+"?\nType in 'yes' or 'no'");
+			input = Input.getStringInput();
+			if(input.toLowerCase().equals("yes")){
+				files.get(fileNum).delete();
+				files.remove(fileNum);
+				System.out.println("File was deleted.");
+				return true;
+			}
+			if(input.toLowerCase().equals("no")){
+				System.out.println("File was not deleted.");
+				return false;
+			}
+			else{
+				System.out.println("Invalid input!");
+			}
 		}
 	}
 
