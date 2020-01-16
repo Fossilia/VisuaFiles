@@ -19,5 +19,8 @@
   ![files Screenshot](screenshots/files.jpeg)
  
  
- 
+ ## Downloads
+  Download from the [Release Page](https://github.com/Fossilia/VisuaFiles/releases). 
+  As of now, only Windows machines are directly supported but you can build the game yourself
+  on Linux or Mac.
  
