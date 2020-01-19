@@ -86,11 +86,11 @@ public abstract class Group{
 			if(input.toLowerCase().equals("yes")){
 				files.get(fileNum).delete();
 				files.remove(fileNum);
-				System.out.println("File was deleted.");
+				System.out.println(files.get(fileNum).getName()+" was deleted.");
 				return true;
 			}
 			if(input.toLowerCase().equals("no")){
-				System.out.println("File was not deleted.");
+				System.out.println(files.get(fileNum).getName()+" was not deleted.");
 				return false;
 			}
 			else{

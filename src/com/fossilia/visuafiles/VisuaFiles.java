@@ -124,9 +124,10 @@ public class VisuaFiles{
 
 		while (!sInput.equals("back")) {
 			//System.out.println("Type in a 'open ' followed by the files number to open it in file explorer\nType in 'back' to go back group list");
-			System.out.println("[COMMANDS] DELETE: del (file num) | OPEN IN FILE EXPLORER: open (file num) | LOAD MORE: load (num to load) | | LOAD PREVIOUS: previous (num to load) | BACK: back | EXIT: exit");
+			System.out.println("[COMMANDS] DELETE: del (file num) | OPEN IN FILE EXPLORER: open (file num) | VIEW AGAIN: view | LOAD MORE: load (num to load) | | LOAD PREVIOUS: prev (num to load) | BACK: back | EXIT: exit");
 			sInput = Input.getStringInput();
 			if (sInput.equals("back")) break;
+			if (sInput.equals("view")) fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
 			int fileNum = -1;
 			String command = "";
 			try {
@@ -143,7 +144,7 @@ public class VisuaFiles{
 						fs.getFileGroups().getGroup(groupNum - 1).openFileInExplorer(fileNum - 1);
 						System.out.println("Opened "+fs.getFileGroups().getGroup(groupNum - 1).getFiles().get(fileNum).getName()+" in file explorer.");
 						break;
-					case "delete":
+					case "del":
 						if(fs.getFileGroups().getGroup(groupNum - 1).deleteFile(fileNum - 1)){
 							fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
 						}
@@ -153,7 +154,7 @@ public class VisuaFiles{
 						getFileViewerEnd+=fileNum;
 						fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
 						break;
-					case "previous":
+					case "prev":
 						getFileViewerEnd = fileViewerStart;
 						fileViewerStart-=fileNum;
 						fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
