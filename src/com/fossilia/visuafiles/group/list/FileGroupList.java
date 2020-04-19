@@ -20,18 +20,41 @@ public class FileGroupList extends AbstractGroupList{
         String line;
 
         FileGroup other = new FileGroup("Other files");
+        ArrayList<Group> tempGroupList = extList.getGroupList(); //create copy of the list to delete from to speed up file group creation
 
         for(String name: Objects.requireNonNull(base.list())){
             File file = new File(basePath+"/" +name);
             FileGroup fileGroup = new FileGroup(name.substring(0, name.lastIndexOf("."))); //gets rid of extension
 
             String[] words;
-
-            for(Group e: extList.getGroupList()){
+            for(int i=0; i<tempGroupList.size(); i++){
                 br = new BufferedReader(new FileReader(file));
                 line = br.readLine();
                 //System.out.println(e.getName());
                 //boolean found = false;
+
+                while(line!=null){
+                    words = line.split("\t");
+                    //System.out.println(words[0]+" "+e.getName().toUpperCase());
+                    if(words[0].equals(tempGroupList.get(i).getName().toUpperCase())){
+                        fileGroup.addGroup(tempGroupList.get(i));
+                        tempGroupList.remove(i);
+                        //found = true;
+                        //System.out.println("found");
+                        break;
+                    }
+                    line = br.readLine();
+                }
+                br.close();
+            }
+            groupList.add(fileGroup);
+            }
+            /*for(Group e: extList.getGroupList()){
+                br = new BufferedReader(new FileReader(file));
+                line = br.readLine();
+                //System.out.println(e.getName());
+                //boolean found = false;
+
                 while(line!=null){
                     words = line.split("\t");
                     //System.out.println(words[0]+" "+e.getName().toUpperCase());
@@ -46,7 +69,7 @@ public class FileGroupList extends AbstractGroupList{
                 br.close();
             }
             groupList.add(fileGroup);
-        }
+        }*/
         //System.out.println(groupList.size());
     }
 
