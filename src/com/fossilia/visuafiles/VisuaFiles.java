@@ -110,8 +110,10 @@ public class VisuaFiles{
 			fs.getFileGroups().printGroups(28, fs.getSize());
 			System.out.println("Type in the number corresponding to a group to view its files (or 0 to exit):");
 			int input = Input.getIntInput(1, 100);
-			System.out.printf("Sorting files...\r");
-			fs.getFileGroups().getGroup(input-1).sortFiles();
+			if(!fs.getFileGroups().getGroup(input-1).isSorted()){ //check if file group is already sorted
+				System.out.printf("Sorting files...\r");
+				fs.getFileGroups().getGroup(input-1).sortFiles();
+			}
 			//fs.displayGroupFiles(input-1);
 			fs.getFileGroups().printGroupFiles(input-1);
 			pickFile(fs, input);

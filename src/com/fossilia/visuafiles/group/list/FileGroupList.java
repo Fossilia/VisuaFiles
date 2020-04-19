@@ -23,7 +23,7 @@ public class FileGroupList extends AbstractGroupList{
 
         for(String name: Objects.requireNonNull(base.list())){
             File file = new File(basePath+"/" +name);
-            FileGroup fileGroup = new FileGroup(name.substring(0, name.lastIndexOf(".")));
+            FileGroup fileGroup = new FileGroup(name.substring(0, name.lastIndexOf("."))); //gets rid of extension
 
             String[] words;
 

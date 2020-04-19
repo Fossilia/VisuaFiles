@@ -12,6 +12,7 @@ public abstract class Group{
 	protected String name;
 	protected ArrayList<File> files = new ArrayList<>();
 	protected long size;
+	boolean sorted = false;
 
 	public Group(){
 		this.name = null;
@@ -22,7 +23,10 @@ public abstract class Group{
 	}
 
 	public void sortFiles(){
-		Sorter.sortFiles(files);
+		if(!sorted) {
+			Sorter.sortFiles(files);
+			sorted = true;
+		}
 		//Collections.sort(files, new com.fossilia.visuafiles.files.FileSortbySize());
 	}
 
@@ -118,6 +122,10 @@ public abstract class Group{
 
 	public ArrayList<File> getFiles(){
 		return files;
+	}
+
+	public boolean isSorted(){
+		return sorted;
 	}
 
 	@Override

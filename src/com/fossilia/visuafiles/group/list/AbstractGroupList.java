@@ -8,6 +8,7 @@ import java.util.ArrayList;
 
 public class AbstractGroupList {
     protected ArrayList<Group> groupList = new ArrayList<>();
+    protected boolean sorted = false;
 
     public AbstractGroupList(ArrayList<Group> groupList){
         this.groupList = groupList;
@@ -16,7 +17,10 @@ public class AbstractGroupList {
     public AbstractGroupList(){}
 
     public void sort(){
-        Sorter.sortGroups(groupList);
+        if(!sorted){
+            Sorter.sortGroups(groupList);
+            sorted = true;
+        }
     }
 
     public void addToList(Group g){
@@ -61,7 +65,7 @@ public class AbstractGroupList {
                 String percentBar = StringManipulator.getProgressBar(percent, 5);
                 String memorySize = StringManipulator.convertSize(groupList.get(i).getSize());
                 //System.out.printf("%s %5.2f%% "+groupList.get(i)+"\n", percentBar, percent);
-                System.out.printf("%3d. %-"+maxStringLength+"s%s count: %10s percent: %5.2f%% size: %-10s\n", (i+1), groupList.get(i).getName(), percentBar, groupList.get(i).getCount(), percent, memorySize);
+                System.out.printf("%3d. %-"+maxStringLength+"s%s count: %10s percent: %5.2f%% size: %15s\n", (i+1), groupList.get(i).getName(), percentBar, groupList.get(i).getCount(), percent, memorySize);
             }
         }
     }
