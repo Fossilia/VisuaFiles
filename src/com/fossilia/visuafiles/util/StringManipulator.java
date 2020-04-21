@@ -41,4 +41,13 @@ public final class StringManipulator {
             return null;
         }
     }
+
+    public String convertTime(long time){
+        if(time<1000){
+            return time+" ms";
+        }
+        else{
+            return 1000.0/(time)+" sec";
+        }
+    }
 }

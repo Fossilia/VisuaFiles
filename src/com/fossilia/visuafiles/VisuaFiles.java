@@ -17,21 +17,24 @@ public class VisuaFiles{
 	FileScanner fs = null;
 	File[] roots = null;
 	String time;
+	String sortingTime;
 	int fileViewerStart = 0;
 	int getFileViewerEnd = 20;
 
 	public VisuaFiles(){
 		sc = new Scanner(System.in);
 		fs = new FileScanner();
+		roots = File.listRoots();
 	}
 
 	public void start()throws IOException{
 		int input;
-		roots = File.listRoots();
 		printMenu();
 		input = Input.getIntInput(1, roots.length+1);
 		long startTime;
 		long endTime;
+		long startSortingTime;
+		long endSortingTime;
 
 		if(input == 1){ //custom path
 			System.out.println("Input what path you want to scan (or input 'exit'to exit):");
@@ -48,7 +51,10 @@ public class VisuaFiles{
 			time = String.format("%-10d", endTime - startTime);
 		}
 
+		startSortingTime = System.currentTimeMillis();
 		System.out.printf("Sorting file groups...\r");
+		endSortingTime = System.currentTimeMillis();
+		sortingTime = String.format("%-10d", endSortingTime - startSortingTime);
 		fs.createExtensionGroups();
 		fs.getExtensionGroups().sort();
 		//fs.sortExtensionGroups();
@@ -77,7 +83,6 @@ public class VisuaFiles{
 
 	public void printMenu(){
 		System.out.println("Welcome to [VisuaFiles]\nPick what to scan (or input 0 to exit):\n\n1. Scan a custom path.");
-		File roots[] = File.listRoots();
 		for(int i=0; i<roots.length; i++){
 			double freeSpace = roots[i].getUsableSpace()/(1024.0*1024*1024);
 			double totalSpace =  roots[i].getTotalSpace()/(1024.0*1024*1024);
@@ -93,7 +98,8 @@ public class VisuaFiles{
 		System.out.printf("Folders scanned: %-8d\n", fs.getNumberOfFolders());
 		System.out.printf("Files scanned:   %-8d\n", fs.getNumberOfFiles());
 		System.out.printf("Total size:      %-8s\n", StringManipulator.convertSize(fs.getSize()));
-		System.out.printf("Scan time:       "+time+"\n\n");
+		System.out.printf("Scan time:       "+time+"\n");
+		System.out.printf("Sorting time:    "+sortingTime+"\n\n");
 		//fs.printFileGroups(28);
 		System.out.println("---------FILE GROUPS----------");
 		//fs.getFileGroups().printGroups(28, fs.getSize());

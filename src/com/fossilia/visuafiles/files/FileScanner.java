@@ -20,6 +20,8 @@ public class FileScanner implements Global {
 
 	private File filePath;
 
+	private String filePathString;
+
 	private FileGroupList fileGroups;
 	private ExtensionGroupList extensionGroups;
 
@@ -37,16 +39,23 @@ public class FileScanner implements Global {
 
 	}
 
+	/**
+	 * Takes a path to start scan from different constructor
+	 * @param path path to scan in String form
+	 */
 	public void scanFolder(String path){
 		filePath = new File(path);
-		//System.out.println("0%");
 		double usedSpace = filePath.getTotalSpace()-filePath.getUsableSpace();
 		scanFolder(filePath, filePath, usedSpace);
 	}
 
+	/**
+	 * Takes a path to start scan from different constructor
+	 * @param path path to scan in File form
+	 */
 	public void scanFolder(File path){
 		double usedSpace = path.getTotalSpace()-path.getUsableSpace();
-		filePath = new File(path.getName());
+		filePath = path;
 		scanFolder(path, path, usedSpace);
 	}
 
