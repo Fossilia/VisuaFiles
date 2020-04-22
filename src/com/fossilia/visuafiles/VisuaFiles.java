@@ -1,7 +1,6 @@
 package com.fossilia.visuafiles;
 
 import com.fossilia.visuafiles.files.FileScanner;
-import com.fossilia.visuafiles.group.Group;
 import com.fossilia.visuafiles.util.Input;
 import com.fossilia.visuafiles.util.StringManipulator;
 
@@ -10,16 +9,15 @@ import java.io.IOException;
 import java.io.FileNotFoundException;
 import java.io.File;
 
-//import static com.fossilia.visuafiles.util.Input;
-
 public class VisuaFiles{
-	Scanner sc = null;
-	FileScanner fs = null;
-	File[] roots = null;
+	Scanner sc;
+	FileScanner fs;
+	File[] roots;
 	String time;
 	String sortingTime;
 	int fileViewerStart = 0;
 	int getFileViewerEnd = 20;
+
 
 	public VisuaFiles(){
 		sc = new Scanner(System.in);
@@ -27,7 +25,10 @@ public class VisuaFiles{
 		roots = File.listRoots();
 	}
 
-	public void start()throws IOException{
+	/**
+	 * Starts program, allows user to pick which drive or path they want to scan and scans them
+	 */
+	public void start() {
 		int input;
 		printMenu();
 		input = Input.getIntInput(1, roots.length+1);
@@ -42,22 +43,19 @@ public class VisuaFiles{
 			startTime = System.currentTimeMillis();
 			fs.scanFolder(path);
 			endTime = System.currentTimeMillis();
-			time = String.format("%-10d", endTime - startTime);
+			time = String.format("%-7f seconds", (endTime - startTime)/1000.0);
 		}
 		else{ //scan root
 			startTime = System.currentTimeMillis();
 			fs.scanFolder(roots[input-2]);
 			endTime = System.currentTimeMillis();
-			time = String.format("%-10d", endTime - startTime);
+			time = String.format("%-7f seconds", (endTime - startTime)/1000.0);
 		}
 
 		startSortingTime = System.currentTimeMillis();
 		System.out.printf("Sorting file groups...\r");
-		endSortingTime = System.currentTimeMillis();
-		sortingTime = String.format("%-10d", endSortingTime - startSortingTime);
 		fs.createExtensionGroups();
 		fs.getExtensionGroups().sort();
-		//fs.sortExtensionGroups();
 		try{
 			fs.createGroups();
 			fs.getFileGroups().sort();
@@ -68,19 +66,16 @@ public class VisuaFiles{
 		catch(IOException e){
 			System.out.println(e);
 		}
+		endSortingTime = System.currentTimeMillis(); //end time for creating an sorting groups
+		sortingTime = String.format("%-7f seconds", (endSortingTime - startSortingTime)/1000.0);
 
-		//fs.sortFileGroups();
 		printScannerOutput(fs);
-
 		pickGroup(fs);
-
-		/*input = Input.getStringInput();
-		while(!input.equals("exit")){
-			pickGroup(fs);
-		}*/
-		//fs.sort();
 	}
 
+	/**
+	 * Prints the start up menu where drives are displayed
+	 */
 	public void printMenu(){
 		System.out.println("Welcome to [VisuaFiles]\nPick what to scan (or input 0 to exit):\n\n1. Scan a custom path.");
 		for(int i=0; i<roots.length; i++){
@@ -92,8 +87,12 @@ public class VisuaFiles{
 		}
 	}
 
+	/**
+	 * Prints information about a filescanner object (which must have already run a scan)
+	 * @param fs filescanner to get output from
+	 */
 	public void printScannerOutput(FileScanner fs){
-		System.out.println("-----SCANNING OVERVIEW---------");
+		System.out.println("-----SCANNING OVERVIEW---------\n");
 		System.out.println("Results of scanning path ["+fs.getFilePath()+"]:");
 		System.out.printf("Folders scanned: %-8d\n", fs.getNumberOfFolders());
 		System.out.printf("Files scanned:   %-8d\n", fs.getNumberOfFiles());
@@ -107,11 +106,11 @@ public class VisuaFiles{
 		//fs.printExtensions(20);
 	}
 
+	/**
+	 * Allows user to pick what group to view files from
+	 * @param fs filescanner used to get groups from
+	 */
 	public void pickGroup(FileScanner fs){
-		int numInput = -1;
-		String stringInput = "";
-
-		//while(!stringInput.toLowerCase().equals("back")){
 		while(true){
 			fs.getFileGroups().printGroups(28, fs.getSize());
 			System.out.println("Type in the number corresponding to a group to view its files (or 0 to exit):");
@@ -126,8 +125,12 @@ public class VisuaFiles{
 		}
 	}
 
+	/**
+	 * Allows user to interact with the file menu with options to open files in file explorer, delete files, and scroll through files
+	 * @param fs filescanner to get data from
+	 * @param groupNum which group was picked to view files from
+	 */
 	public void pickFile(FileScanner fs, int groupNum) {
-		//System.out.println("Type in a 'open ' followed by the files number to open it in file explorer\nType in 'back' to go back group list");
 		String sInput = "";
 
 		while (!sInput.equals("back")) {

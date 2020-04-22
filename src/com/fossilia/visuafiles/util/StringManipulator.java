@@ -49,5 +49,6 @@ public final class StringManipulator {
         else{
             return 1000.0/(time)+" sec";
         }
+
     }
 }
