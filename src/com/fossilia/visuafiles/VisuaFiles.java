@@ -112,16 +112,33 @@ public class VisuaFiles{
 	 */
 	public void pickGroup(FileScanner fs){
 		while(true){
-			fs.getFileGroups().printGroups(28, fs.getSize());
-			System.out.println("Type in the number corresponding to a group to view its files (or 0 to exit):");
-			int input = Input.getIntInput(1, 100);
-			if(!fs.getFileGroups().getGroup(input-1).isSorted()){ //check if file group is already sorted
-				System.out.printf("Sorting files...\r");
-				fs.getFileGroups().getGroup(input-1).sortFiles();
+			System.out.println("Type in [1] for the files to be sorted in file groups.");
+			System.out.println("Type in [2] for the files to be sorted in extension groups.");
+			int input = Input.getIntInput(1, 2);
+			if(input == 1){
+				fs.getFileGroups().printGroups(28, fs.getSize());
 			}
-			//fs.displayGroupFiles(input-1);
-			fs.getFileGroups().printGroupFiles(input-1);
-			pickFile(fs, input);
+			else if(input == 2){
+				fs.getExtensionGroups().printGroups(28, fs.getSize());
+			}
+			System.out.println("Type in the number corresponding to a group to view its files (or 0 to exit):");
+			input = Input.getIntInput(1, 100);
+			if(input == 1){ //in case user picks file groups
+				if(!fs.getFileGroups().getGroup(input-1).isSorted()){ //check if file group is already sorted
+					System.out.printf("Sorting files...\r");
+					fs.getFileGroups().getGroup(input-1).sortFiles();
+				}
+				fs.getFileGroups().printGroupFiles(input-1);
+				pickFile(fs, input);
+			}
+			if(input == 2){ //in case user picks extension groups
+				if(!fs.getExtensionGroups().getGroup(input-1).isSorted()){ //check if file group is already sorted
+					System.out.printf("Sorting files...\r");
+					fs.getExtensionGroups().getGroup(input-1).sortFiles();
+				}
+				fs.getExtensionGroups().printGroupFiles(input-1);
+				pickFile(fs, input);
+			}
 		}
 	}
 
