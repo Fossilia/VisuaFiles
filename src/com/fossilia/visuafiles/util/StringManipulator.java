@@ -42,12 +42,15 @@ public final class StringManipulator {
         }
     }
 
-    public String convertTime(long time){
-        if(time<1000){
-            return time+" ms";
+    public static String convertTime(long time){
+        if(time<1000){ //ms
+            return String.format("%d ms", time);
+        }
+        else if(time>1000 && time<60000){ //seconds
+            return String.format("%f seconds", time/1000.0);
         }
         else{
-            return 1000.0/(time)+" sec";
+            return String.format("%f minutes", time/60000.0);
         }
 
     }

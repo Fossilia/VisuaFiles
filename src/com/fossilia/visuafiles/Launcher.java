@@ -5,13 +5,7 @@ import java.io.*;
 public class Launcher{
 	public static void main(String[]args){
 		VisuaFiles visuaFiles = new VisuaFiles();
-		try{
-			//Runtime.getRuntime().exec("explorer.exe /select, C:/");
-			visuaFiles.start();
-		}
-		catch(IOException e){
-			System.out.println(e);
-		}
+		visuaFiles.start();
 	}
 }
 

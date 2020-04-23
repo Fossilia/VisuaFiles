@@ -43,13 +43,13 @@ public class VisuaFiles{
 			startTime = System.currentTimeMillis();
 			fs.scanFolder(path);
 			endTime = System.currentTimeMillis();
-			time = String.format("%-7f seconds", (endTime - startTime)/1000.0);
+			time = StringManipulator.convertTime(endTime - startTime);
 		}
 		else{ //scan root
 			startTime = System.currentTimeMillis();
 			fs.scanFolder(roots[input-2]);
 			endTime = System.currentTimeMillis();
-			time = String.format("%-7f seconds", (endTime - startTime)/1000.0);
+			time = StringManipulator.convertTime(endTime - startTime);
 		}
 
 		startSortingTime = System.currentTimeMillis();
@@ -67,7 +67,7 @@ public class VisuaFiles{
 			System.out.println(e);
 		}
 		endSortingTime = System.currentTimeMillis(); //end time for creating an sorting groups
-		sortingTime = String.format("%-7f seconds", (endSortingTime - startSortingTime)/1000.0);
+		sortingTime = StringManipulator.convertTime(endSortingTime - startSortingTime);
 
 		printScannerOutput(fs);
 		pickGroup(fs);

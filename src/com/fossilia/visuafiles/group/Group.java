@@ -89,8 +89,8 @@ public abstract class Group{
 			input = Input.getStringInput();
 			if(input.toLowerCase().equals("yes")){
 				files.get(fileNum).delete();
-				files.remove(fileNum);
 				System.out.println(files.get(fileNum).getName()+" was deleted.");
+				files.remove(fileNum);
 				return true;
 			}
 			if(input.toLowerCase().equals("no")){
