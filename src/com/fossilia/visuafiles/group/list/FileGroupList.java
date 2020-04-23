@@ -2,6 +2,7 @@ package com.fossilia.visuafiles.group.list;
 
 import com.fossilia.visuafiles.group.FileGroup;
 import com.fossilia.visuafiles.group.Group;
+import com.fossilia.visuafiles.util.Sorter;
 import com.fossilia.visuafiles.util.StringManipulator;
 
 import java.io.*;
@@ -22,18 +23,33 @@ public class FileGroupList extends AbstractGroupList{
         FileGroup other = new FileGroup("Other files");
         ArrayList<Group> tempGroupList = extList.getGroupList(); //create copy of the list to delete from to speed up file group creation
 
-        for(String name: Objects.requireNonNull(base.list())){
-            File file = new File(basePath+"/" +name);
+        for (String name : Objects.requireNonNull(base.list())) {
+            File file = new File(basePath + "/" + name);
             FileGroup fileGroup = new FileGroup(name.substring(0, name.lastIndexOf("."))); //gets rid of extension
 
             String[] words;
-            for(int i=0; i<tempGroupList.size(); i++){
-                br = new BufferedReader(new FileReader(file));
+            ArrayList<String> groupDataList = new ArrayList<String>();
+
+            br = new BufferedReader(new FileReader(file));
+            line = br.readLine();
+
+            while (line != null) { //load data into arraylist
+                words = line.split("\t");
+                groupDataList.add(words[0]);
                 line = br.readLine();
+            }
+            br.close();
+
+            for (int i = 0; i < tempGroupList.size(); i++) {
                 //System.out.println(e.getName());
                 //boolean found = false;
 
-                while(line!=null){
+                if (Sorter.binarySearch(groupDataList, tempGroupList.get(i).getName().toUpperCase()) != -1) {
+                    fileGroup.addGroup(tempGroupList.get(i));
+                    tempGroupList.remove(i);
+                }
+
+                /*while(line!=null){
                     words = line.split("\t");
                     //System.out.println(words[0]+" "+e.getName().toUpperCase());
                     if(words[0].equals(tempGroupList.get(i).getName().toUpperCase())){
@@ -46,9 +62,10 @@ public class FileGroupList extends AbstractGroupList{
                     line = br.readLine();
                 }
                 br.close();
+            }*/
+
             }
             groupList.add(fileGroup);
-            }
             /*for(Group e: extList.getGroupList()){
                 br = new BufferedReader(new FileReader(file));
                 line = br.readLine();
@@ -69,8 +86,10 @@ public class FileGroupList extends AbstractGroupList{
                 br.close();
             }
             groupList.add(fileGroup);
-        }*/
-        //System.out.println(groupList.size());
+        }
+        //System.out.println(groupList.size());*/
+
+        }
     }
 
 

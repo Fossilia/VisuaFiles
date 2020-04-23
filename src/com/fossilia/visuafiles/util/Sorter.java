@@ -54,4 +54,22 @@ public final class Sorter {
         sortFiles(S2);
         fileMerge(S1, S2, S);
     }
+
+    public static int binarySearch(ArrayList<String> list, String word) {
+        int l = 0, r = list.size() - 1;
+        while (l <= r) {
+            int m = l + (r - l) / 2;
+            int res = word.compareTo(list.get(m));
+            // Check if x is present at mid
+            if (res == 0)
+                return m;
+            // If x greater, ignore left half
+            if (res > 0)
+                l = m + 1;
+                // If x is smaller, ignore right half
+            else
+                r = m - 1;
+        }
+        return -1;
+    }
 }
