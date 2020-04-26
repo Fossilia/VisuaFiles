@@ -18,7 +18,7 @@ public final class Input {
         while(!done){
             try{
                 input = sc.nextInt(); //gets input, may have an exception if user enters a string
-                if(input>=min && input<=max){ //checks if its in the range
+                if(input>=min && input<=max && input!=0){ //checks if its in the range
                     sc.nextLine();
                     done = true;
                 }

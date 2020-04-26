@@ -3,7 +3,6 @@ package com.fossilia.visuafiles.group.list;
 import com.fossilia.visuafiles.group.FileGroup;
 import com.fossilia.visuafiles.group.Group;
 import com.fossilia.visuafiles.util.Sorter;
-import com.fossilia.visuafiles.util.StringManipulator;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -13,22 +12,29 @@ public class FileGroupList extends AbstractGroupList{
 
     public FileGroupList(){}
 
-    public FileGroupList(String basePath, ExtensionGroupList extList) throws FileNotFoundException, IOException {
-        //groupList = new ArrayList<>();
+    /**
+     * takes a folder path and a extenison list and splits the extensions into groups determined by txt files in the folder path
+     * @param basePath path to look for text files
+     * @param extList extension list to split into groups
+     * @throws IOException
+     */
+    public FileGroupList(String basePath, ExtensionGroupList extList) throws IOException {
 
         BufferedReader br;
         File base = new File(basePath);
         String line;
 
-        FileGroup other = new FileGroup("Other files");
-        ArrayList<Group> tempGroupList = extList.getGroupList(); //create copy of the list to delete from to speed up file group creation
+        ArrayList<Group> tempGroupList = new ArrayList<>(); //create copy of the list to delete from to speed up file group creation
+        for(Group g: extList.getGroupList()){
+            tempGroupList.add(g);
+        }
 
-        for (String name : Objects.requireNonNull(base.list())) {
-            File file = new File(basePath + "/" + name);
-            FileGroup fileGroup = new FileGroup(name.substring(0, name.lastIndexOf("."))); //gets rid of extension
+        for(String name : Objects.requireNonNull(base.list())) { //go through every file found in the base folder
+            File file = new File(basePath + "/" + name); //create the file in memory
+            FileGroup fileGroup = new FileGroup(name.substring(0, name.lastIndexOf("."))); //gets rid of extension and creates fileGroup
 
-            String[] words;
-            ArrayList<String> groupDataList = new ArrayList<String>();
+            String[] words; //used to store a line in a filegroup
+            ArrayList<String> groupDataList = new ArrayList<String>(); //used to store all data in filegroup
 
             br = new BufferedReader(new FileReader(file));
             line = br.readLine();
@@ -40,57 +46,21 @@ public class FileGroupList extends AbstractGroupList{
             }
             br.close();
 
-            for (int i = 0; i < tempGroupList.size(); i++) {
-                //System.out.println(e.getName());
-                //boolean found = false;
-
-                if (Sorter.binarySearch(groupDataList, tempGroupList.get(i).getName().toUpperCase()) != -1) {
-                    fileGroup.addGroup(tempGroupList.get(i));
-                    tempGroupList.remove(i);
+            for (int i = 0; i < tempGroupList.size(); i++) { //go through every extension
+                if (Sorter.binarySearch(groupDataList, tempGroupList.get(i).getName().toUpperCase()) != -1) { //check if extension exists in current filegroup
+                    fileGroup.addGroup(tempGroupList.get(i)); //add extension to filegroup if found
+                    tempGroupList.remove(i); //remove from temporary array list so that other filegroups dont add it
                 }
-
-                /*while(line!=null){
-                    words = line.split("\t");
-                    //System.out.println(words[0]+" "+e.getName().toUpperCase());
-                    if(words[0].equals(tempGroupList.get(i).getName().toUpperCase())){
-                        fileGroup.addGroup(tempGroupList.get(i));
-                        tempGroupList.remove(i);
-                        //found = true;
-                        //System.out.println("found");
-                        break;
-                    }
-                    line = br.readLine();
-                }
-                br.close();
-            }*/
-
-            }
-            groupList.add(fileGroup);
-            /*for(Group e: extList.getGroupList()){
-                br = new BufferedReader(new FileReader(file));
-                line = br.readLine();
-                //System.out.println(e.getName());
-                //boolean found = false;
-
-                while(line!=null){
-                    words = line.split("\t");
-                    //System.out.println(words[0]+" "+e.getName().toUpperCase());
-                    if(words[0].equals(e.getName().toUpperCase())){
-                        fileGroup.addGroup(e);
-                        //found = true;
-                        //System.out.println("found");
-                        break;
-                    }
-                    line = br.readLine();
-                }
-                br.close();
             }
             groupList.add(fileGroup);
         }
-        //System.out.println(groupList.size());*/
 
+        FileGroup other = new FileGroup("Other files");
+        if(!tempGroupList.isEmpty()){ //if there are extensions not in the file group data
+            for(Group g: tempGroupList){
+                other.addGroup(g); //add all the leftover extensions to the "other" group
+            }
+            groupList.add(other);
         }
     }
-
-
 }
