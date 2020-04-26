@@ -17,7 +17,9 @@ public class VisuaFiles{
 	String sortingTime;
 	int fileViewerStart = 0;
 	int getFileViewerEnd = 20;
-
+	final int FILEGROUPS = 1;
+	final int EXTENSIONGROUPS = 2;
+	final int FOLDERGROUPS = 3;
 
 	public VisuaFiles(){
 		sc = new Scanner(System.in);
@@ -111,33 +113,37 @@ public class VisuaFiles{
 	 * @param fs filescanner used to get groups from
 	 */
 	public void pickGroup(FileScanner fs){
+		System.out.println("Type in [1] for the files to be sorted in file groups.");
+		System.out.println("Type in [2] for the files to be sorted in extension groups.");
+		int modeInput = Input.getIntInput(1, 2);
 		while(true){
-			System.out.println("Type in [1] for the files to be sorted in file groups.");
-			System.out.println("Type in [2] for the files to be sorted in extension groups.");
-			int input = Input.getIntInput(1, 2);
-			if(input == 1){
+			if(modeInput == FILEGROUPS){
 				fs.getFileGroups().printGroups(28, fs.getSize());
 			}
-			else if(input == 2){
+			else if(modeInput == EXTENSIONGROUPS){
 				fs.getExtensionGroups().printGroups(28, fs.getSize());
 			}
-			System.out.println("Type in the number corresponding to a group to view its files (or 0 to exit):");
-			input = Input.getIntInput(1, 100);
-			if(input == 1){ //in case user picks file groups
+			System.out.println("Type in the number corresponding to a group to view its files (or -1 to back to mode selection, 0 to exit):");
+			int input = Input.getIntInput(-1, 100);
+			if(input == -1){
+				pickGroup(fs);
+				return;
+			}
+			if(modeInput == FILEGROUPS){ //in case user picks file groups
 				if(!fs.getFileGroups().getGroup(input-1).isSorted()){ //check if file group is already sorted
 					System.out.printf("Sorting files...\r");
 					fs.getFileGroups().getGroup(input-1).sortFiles();
 				}
 				fs.getFileGroups().printGroupFiles(input-1);
-				pickFile(fs, input);
+				pickFile(fs, input,FILEGROUPS);
 			}
-			if(input == 2){ //in case user picks extension groups
+			if(modeInput == EXTENSIONGROUPS){ //in case user picks extension groups
 				if(!fs.getExtensionGroups().getGroup(input-1).isSorted()){ //check if file group is already sorted
 					System.out.printf("Sorting files...\r");
 					fs.getExtensionGroups().getGroup(input-1).sortFiles();
 				}
 				fs.getExtensionGroups().printGroupFiles(input-1);
-				pickFile(fs, input);
+				pickFile(fs, input, EXTENSIONGROUPS);
 			}
 		}
 	}
@@ -147,54 +153,104 @@ public class VisuaFiles{
 	 * @param fs filescanner to get data from
 	 * @param groupNum which group was picked to view files from
 	 */
-	public void pickFile(FileScanner fs, int groupNum) {
+	public void pickFile(FileScanner fs, int groupNum, int mode) {
 		String sInput = "";
 
-		while (!sInput.equals("back")) {
-			//System.out.println("Type in a 'open ' followed by the files number to open it in file explorer\nType in 'back' to go back group list");
-			System.out.println("[COMMANDS] DELETE: del (file num) | OPEN IN FILE EXPLORER: open (file num) | VIEW AGAIN: view | LOAD MORE: load (num to load) | | LOAD PREVIOUS: prev (num to load) | BACK: back | EXIT: exit");
-			sInput = Input.getStringInput();
-			if (sInput.equals("back")) break;
-			if (sInput.equals("view")) fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
-			int fileNum = -1;
-			String command = "";
-			try {
-				fileNum = Integer.parseInt(sInput.split(" ")[1]);
-				command = sInput.split(" ")[0];
-			} catch (Exception e) {
-				System.out.println("Type in a valid command!");
-				continue;
-			}
+		if(mode == FILEGROUPS){
+			while (!sInput.equals("back")) {
+				//System.out.println("Type in a 'open ' followed by the files number to open it in file explorer\nType in 'back' to go back group list");
+				System.out.println("[COMMANDS] DELETE: del (file num) | OPEN IN FILE EXPLORER: open (file num) | VIEW AGAIN: view | LOAD MORE: load (num to load) | | LOAD PREVIOUS: prev (num to load) | BACK: back | EXIT: exit");
+				sInput = Input.getStringInput();
+				if (sInput.equals("back")) break;
+				if (sInput.equals("view")) fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
+				int fileNum = -1;
+				String command = "";
+				try {
+					fileNum = Integer.parseInt(sInput.split(" ")[1]);
+					command = sInput.split(" ")[0];
+				} catch (Exception e) {
+					System.out.println("Type in a valid command!");
+					continue;
+				}
 
-			if (fileNum > 0 && fileNum <= fs.getFileGroups().getGroup(groupNum - 1).getFiles().size()) {
-				switch (command.toLowerCase()) {
-					case "open":
-						fs.getFileGroups().getGroup(groupNum - 1).openFileInExplorer(fileNum - 1);
-						System.out.println("Opened "+fs.getFileGroups().getGroup(groupNum - 1).getFiles().get(fileNum).getName()+" in file explorer.");
-						break;
-					case "del":
-						if(fs.getFileGroups().getGroup(groupNum - 1).deleteFile(fileNum - 1)){
+				if (fileNum > 0 && fileNum <= fs.getFileGroups().getGroup(groupNum - 1).getFiles().size()) {
+					switch (command.toLowerCase()) {
+						case "open":
+							fs.getFileGroups().getGroup(groupNum - 1).openFileInExplorer(fileNum - 1);
+							System.out.println("Opened "+fs.getFileGroups().getGroup(groupNum - 1).getFiles().get(fileNum).getName()+" in file explorer.");
+							break;
+						case "del":
+							if(fs.getFileGroups().getGroup(groupNum - 1).deleteFile(fileNum - 1)){
+								fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
+							}
+							break;
+						case "load":
+							fileViewerStart = getFileViewerEnd;
+							getFileViewerEnd+=fileNum;
 							fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
-						}
-						break;
-					case "load":
-						fileViewerStart = getFileViewerEnd;
-						getFileViewerEnd+=fileNum;
-						fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
-						break;
-					case "prev":
-						getFileViewerEnd = fileViewerStart;
-						fileViewerStart-=fileNum;
-						fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
-						break;
-					default:
-						System.out.println("Type in a valid command!");
+							break;
+						case "prev":
+							getFileViewerEnd = fileViewerStart;
+							fileViewerStart-=fileNum;
+							fs.getFileGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
+							break;
+						default:
+							System.out.println("Type in a valid command!");
+					}
+				}
+				else {
+					System.out.println("file number inputted is not valid!");
 				}
 			}
-			else {
-				System.out.println("file number inputted is not valid!");
+		}
+		else if(mode == EXTENSIONGROUPS){
+			while (!sInput.equals("back")) {
+				//System.out.println("Type in a 'open ' followed by the files number to open it in file explorer\nType in 'back' to go back group list");
+				System.out.println("[COMMANDS] DELETE: del (file num) | OPEN IN FILE EXPLORER: open (file num) | VIEW AGAIN: view | LOAD MORE: load (num to load) | | LOAD PREVIOUS: prev (num to load) | BACK: back | EXIT: exit");
+				sInput = Input.getStringInput();
+				if (sInput.equals("back")) break;
+				if (sInput.equals("view")) fs.getExtensionGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
+				int fileNum = -1;
+				String command = "";
+				try {
+					fileNum = Integer.parseInt(sInput.split(" ")[1]);
+					command = sInput.split(" ")[0];
+				} catch (Exception e) {
+					System.out.println("Type in a valid command!");
+					continue;
+				}
+
+				if (fileNum > 0 && fileNum <= fs.getExtensionGroups().getGroup(groupNum - 1).getFiles().size()) {
+					switch (command.toLowerCase()) {
+						case "open":
+							fs.getExtensionGroups().getGroup(groupNum - 1).openFileInExplorer(fileNum - 1);
+							System.out.println("Opened "+fs.getExtensionGroups().getGroup(groupNum - 1).getFiles().get(fileNum).getName()+" in file explorer.");
+							break;
+						case "del":
+							if(fs.getExtensionGroups().getGroup(groupNum - 1).deleteFile(fileNum - 1)){
+								fs.getExtensionGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
+							}
+							break;
+						case "load":
+							fileViewerStart = getFileViewerEnd;
+							getFileViewerEnd+=fileNum;
+							fs.getExtensionGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
+							break;
+						case "prev":
+							getFileViewerEnd = fileViewerStart;
+							fileViewerStart-=fileNum;
+							fs.getExtensionGroups().printGroupFiles(groupNum-1, fileViewerStart, getFileViewerEnd);
+							break;
+						default:
+							System.out.println("Type in a valid command!");
+					}
+				}
+				else {
+					System.out.println("file number inputted is not valid!");
+				}
 			}
 		}
+
 	}
 
 }
