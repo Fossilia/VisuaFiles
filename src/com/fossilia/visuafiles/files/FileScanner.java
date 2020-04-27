@@ -122,24 +122,11 @@ public class FileScanner implements Global {
 		}
 	}
 
-	/*public void sortExtensionGroups(){
-		if(HashImp) extensionList = new ArrayList<Group>(extensionListHash.values());
-		if(HashImp) extensionGroups = new ExtensionGroupList(new ArrayList<Group>(extensionListHash.values()));
-		extensionGroups.sort();
-		Sorter.sortGroups(extensionList);
-		//Collections.sort(extensionList, new com.fossilia.visuafiles.group.GroupSortbySize());
-	}*/
-
 	public void createExtensionGroups(){
 		//if(HashImp) extensionList = new ArrayList<Group>(extensionListHash.values());
 		if(HashImp) extensionGroups = new ExtensionGroupList(new ArrayList<Group>(extensionListHash.values()));
 	}
 
-	/*public void sortFileGroups(){
-		fileGroups.sort();
-		Sorter.sortGroups(groupList);
-		//Collections.sort(extensionList, new com.fossilia.visuafiles.group.GroupSortbySize());
-	}*/
 
 	public void printFiles(int num){
 		for(int i=0; i<num; i++){
@@ -147,101 +134,9 @@ public class FileScanner implements Global {
 		}
 	}
 
-	/*public void printExtensions(int num){
-		System.out.println(extensionList.size());
-		int limit = 0;
-		if(num<=extensionList.size()){
-			limit = num;
-		}
-		else{
-			limit = extensionList.size();
-		}
-		for(int i=0; i<limit; i++){
-			double percent = ((double)extensionList.get(i).getSize()/(double)size)*100;
-			//extensionList.get(i).sortFiles();
-			System.out.printf("%10s%10s count: %5d percent: %5.2f%% size: %s\n", extensionList.get(i).getName(), StringManipulator.getProgressBar(percent, 5), extensionList.get(i).getCount(), percent, StringManipulator.convertSize(extensionList.get(i).getSize()));
-			//extensionList.get(i).printFiles(10);
-			/*ArrayList<File> groupFiles = extensionList.get(i).getFiles();
-			for(int k=0; i<10; k++){
-				System.out.println(groupFiles.get(i));
-			}
-		}
-	}*/
-
-	public void createGroups() throws FileNotFoundException, IOException{
+	public void createGroups() throws FileNotFoundException, IOException {
 		fileGroups = new FileGroupList("DATA", extensionGroups);
-		/*BufferedReader br;
-		File base = new File("DATA");
-		String line;
-
-		FileGroup other = new FileGroup("Other files");
-		
-		for(String name: base.list()){
-			File file = new File("DATA/" +name);
-			FileGroup fileGroup = new FileGroup(name);
-
-			String[] words;
-
-			for(Group e: extensionList){
-				br = new BufferedReader(new FileReader(file));
-				line = br.readLine();
-				//System.out.println(e.getName());
-				//boolean found = false;
-				while(line!=null){
-					words = line.split("\t");
-					//System.out.println(words[0]+" "+e.getName().toUpperCase());
-					if(words[0].equals(e.getName().toUpperCase())){
-						fileGroup.addGroup(e);
-						//found = true;
-						//System.out.println("found");
-						break;
-					}
-					line = br.readLine();
-				}
-				br.close();
-			} 
-			groupList.add(fileGroup);*/
-
-		/*com.fossilia.visuafiles.group.FileGroup videoGroup = new com.fossilia.visuafiles.group.FileGroup("Video files");
-		for(com.fossilia.visuafiles.group.Group e: extensionList){
-			if(e.getName().equals("mkv") || e.getName().equals("mp4") || e.getName().equals("webm")){
-				videoGroup.addGroup(e);
-			}
-		}
-		groupList.add(videoGroup);
-		*/
 	}
-
-	/*public void sortGroup(int num){
-		groupList.get(num).sortFiles();
-	}*/
-
-	/*public void displayGroupFiles(int num){
-		groupList.get(num).printFiles(100);
-	}*/
-
-	/*public void printFileGroups(int num){
-		int limit = 0;
-		if(num<=groupList.size()){
-			limit = num;
-		}
-		else{
-			limit = groupList.size();
-		}
-		for(int i=0; i<limit; i++){
-			if(groupList.get(i).getSize()>0){
-				double percent = ((double)groupList.get(i).getSize()/(double)size)*100;
-			System.out.printf("%-20s%10s count: %5d percent: %5.2f%% size: %-10s\n", groupList.get(i).getName(), StringManipulator.getProgressBar(percent, 5), groupList.get(i).getCount(), percent, StringManipulator.convertSize(groupList.get(i).getSize()));
-			}	
-		}
-	}*/
-
-
-	/*public void sortExtensionGroupsFiles(){
-		for(Group e: extensionList){
-			e.sortFiles();
-		}
-	}*/
 
 	public ExtensionGroupList getExtensionGroups() {
 		return extensionGroups;

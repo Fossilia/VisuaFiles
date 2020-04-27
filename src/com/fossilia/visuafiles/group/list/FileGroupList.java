@@ -28,7 +28,6 @@ public class FileGroupList extends AbstractGroupList{
         for(Group g: extList.getGroupList()){
             tempGroupList.add(g);
         }
-
         for(String name : Objects.requireNonNull(base.list())) { //go through every file found in the base folder
             File file = new File(basePath + "/" + name); //create the file in memory
             FileGroup fileGroup = new FileGroup(name.substring(0, name.lastIndexOf("."))); //gets rid of extension and creates fileGroup
@@ -46,21 +45,39 @@ public class FileGroupList extends AbstractGroupList{
             }
             br.close();
 
+            boolean test = false;
+            if(fileGroup.getName().equals("Executable")){
+                test = true;
+            }
             for (int i = 0; i < tempGroupList.size(); i++) { //go through every extension
-                if (Sorter.binarySearch(groupDataList, tempGroupList.get(i).getName().toUpperCase()) != -1) { //check if extension exists in current filegroup
-                    fileGroup.addGroup(tempGroupList.get(i)); //add extension to filegroup if found
-                    tempGroupList.remove(i); //remove from temporary array list so that other filegroups dont add it
+                if(tempGroupList.get(i).getName().equals("bat")){
+                    //System.out.println("pass 1");
+                }
+                if(!tempGroupList.get(i).isCounted()){
+                    if(tempGroupList.get(i).getName().equals("bat")){
+                        //System.out.println("pass 2");
+                    }
+                    if (Sorter.binarySearch(groupDataList, tempGroupList.get(i).getName().toUpperCase(), test) != -1) { //check if extension exists in current filegroup
+                        fileGroup.addGroup(tempGroupList.get(i)); //add extension to filegroup if found
+                        //tempGroupList.remove(i); //remove from temporary array list so that other filegroups dont add it
+                        tempGroupList.get(i).setCounted();
+                        if(tempGroupList.get(i).getName().equals("bat")){
+                            //System.out.println("pass 3");
+                        }
+                    }
                 }
             }
             groupList.add(fileGroup);
         }
 
         FileGroup other = new FileGroup("Other files");
-        if(!tempGroupList.isEmpty()){ //if there are extensions not in the file group data
-            for(Group g: tempGroupList){
+
+        for(Group g: tempGroupList){
+            if(!g.isCounted()){
                 other.addGroup(g); //add all the leftover extensions to the "other" group
+                g.setCounted();
             }
-            groupList.add(other);
         }
+        groupList.add(other);
     }
 }

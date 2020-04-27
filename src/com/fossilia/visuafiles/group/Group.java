@@ -13,7 +13,7 @@ public abstract class Group{
 	protected ArrayList<File> files = new ArrayList<>();
 	protected long size;
 	boolean sorted = false;
-
+	boolean counted = false;
 	public Group(){
 		this.name = null;
 	}
@@ -126,6 +126,14 @@ public abstract class Group{
 
 	public boolean isSorted(){
 		return sorted;
+	}
+
+	public boolean isCounted(){
+		return counted;
+	}
+
+	public void setCounted(){
+		counted = true;
 	}
 
 	@Override
