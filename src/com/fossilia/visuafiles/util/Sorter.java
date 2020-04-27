@@ -61,7 +61,6 @@ public final class Sorter {
             int m = l + (r - l) / 2;
             if(list.get(m).indexOf('_')!=-1){
                list.set(m, list.get(m).replace('_', '9'));
-                System.out.println(list.get(m)+" new word");
             }
             int res = word.compareTo(list.get(m));
             // Check if x is present at mid
