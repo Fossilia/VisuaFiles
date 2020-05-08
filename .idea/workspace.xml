@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="VisuaFiles:jar" />
+      <artifact name="VisuaFiles:jar2" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b60d7c8e-10ac-44bd-bf1c-e710bc772d5c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/VisuaFiles_jar2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/VisuaFiles_jar/VisuaFiles.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/VisuaFiles_jar2/VisuaFiles.jar" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -54,7 +55,7 @@
       <recent name="C:\Users\Faisal\Documents\GitHub\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.launch">
+  <component name="RunManager" selected="JAR Application.visuafiles v2">
     <configuration name="launch" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.fossilia.visuafiles.Launcher" />
       <module name="VisuaFiles" />
@@ -72,8 +73,15 @@
       <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/VisuaFiles_jar/VisuaFiles.jar" />
       <method v="2" />
     </configuration>
+    <configuration name="visuafiles v2" type="JarApplication">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/VisuaFiles_jar2/VisuaFiles.jar" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Faisal\Documents\GitHub\VisuaFiles" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.launch" />
+      <item itemvalue="JAR Application.visuafiles v2" />
       <item itemvalue="JAR Application.Unnamed" />
       <item itemvalue="JAR Application.VisuaFiles.jar" />
     </list>
@@ -141,6 +149,12 @@
       <workItem from="1587977127061" duration="2630000" />
       <workItem from="1588011610477" duration="1850000" />
       <workItem from="1588094258370" duration="20000" />
+      <workItem from="1588118263879" duration="1000" />
+      <workItem from="1588149974784" duration="18000" />
+      <workItem from="1588350820412" duration="4000" />
+      <workItem from="1588380286138" duration="1157000" />
+      <workItem from="1588391475175" duration="10000" />
+      <workItem from="1588470657763" duration="352000" />
     </task>
     <servers />
   </component>
@@ -153,37 +167,45 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588380784568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588380784568" />
     <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser" timestamp="1587495983905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="205" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587495983905" />
-    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1579495392427">
+    <state x="690" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588380686352">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579495392427" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1588013463722">
+    <state x="690" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588380686352" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588380768338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588013463722" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1588013463722">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588380768338" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1588383438935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588013463722" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1588013463722">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588383438935" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1588383438935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588013463722" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1588013463722">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588383438935" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1588383438935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588013463722" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1588011622806">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588383438935" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1588383438935">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588011622806" />
-    <state x="342" y="141" key="new project wizard" timestamp="1579495427006">
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588383438935" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1588380717193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1579495427006" />
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588380717193" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1588470984701">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588470984701" />
   </component>
 </project>
