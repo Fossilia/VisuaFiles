@@ -79,7 +79,7 @@ public class VisuaFiles{
 	 * Prints the start up menu where drives are displayed
 	 */
 	public void printMenu(){
-		System.out.println("Welcome to [VisuaFiles]\nPick what to scan (or input 0 to exit):\n\n1. Scan a custom path.");
+		System.out.println("Welcome to [VisuaFiles]\nCreated by Faisal Bagalagel\n\nPick what to scan (or input 0 to exit):\n\n1. Scan a custom path.");
 		for(int i=0; i<roots.length; i++){
 			double freeSpace = roots[i].getUsableSpace()/(1024.0*1024*1024);
 			double totalSpace =  roots[i].getTotalSpace()/(1024.0*1024*1024);

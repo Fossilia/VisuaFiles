@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b60d7c8e-10ac-44bd-bf1c-e710bc772d5c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/VisuaFiles_jar2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/VisuaFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/VisuaFiles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +55,7 @@
       <recent name="C:\Users\Faisal\Documents\GitHub\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JAR Application.visuafiles v2">
+  <component name="RunManager" selected="Application.launch">
     <configuration name="launch" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.fossilia.visuafiles.Launcher" />
       <module name="VisuaFiles" />
@@ -155,6 +155,7 @@
       <workItem from="1588380286138" duration="1157000" />
       <workItem from="1588391475175" duration="10000" />
       <workItem from="1588470657763" duration="352000" />
+      <workItem from="1589238316243" duration="76000" />
     </task>
     <servers />
   </component>
@@ -183,22 +184,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588380768338" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1588383438935">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1589238418648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588383438935" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1588383438935">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589238418648" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1589238418648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588383438935" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1588383438935">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589238418648" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1589238418648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588383438935" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1588383438935">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589238418648" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1589238418648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588383438935" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589238418648" />
     <state x="440" y="95" key="SettingsEditor" timestamp="1588380717193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
