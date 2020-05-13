@@ -6,9 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b60d7c8e-10ac-44bd-bf1c-e710bc772d5c" name="Default Changelist" comment="">
+    <list default="true" id="b60d7c8e-10ac-44bd-bf1c-e710bc772d5c" name="Default Changelist" comment="Added some comments">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/VisuaFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/VisuaFiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/util/StringManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/util/StringManipulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/out/artifacts/VisuaFiles_jar2/VisuaFiles.jar" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
@@ -155,17 +156,41 @@
       <workItem from="1588380286138" duration="1157000" />
       <workItem from="1588391475175" duration="10000" />
       <workItem from="1588470657763" duration="352000" />
-      <workItem from="1589238316243" duration="76000" />
+      <workItem from="1589238316243" duration="216000" />
+      <workItem from="1589399835496" duration="778000" />
     </task>
+    <task id="LOCAL-00001" summary="Added credits">
+      <created>1589238506571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589238506571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
+    <MESSAGE value="Added credits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added credits" />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588380784568">
@@ -180,26 +205,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588380686352" />
+    <state x="570" y="204" key="CommitChangelistDialog2" timestamp="1589400678580">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="570" y="204" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589400678580" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588380768338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1588380768338" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1589238418648">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1589238532166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589238418648" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1589238418648">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589238532166" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1589238532166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589238418648" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1589238418648">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589238532166" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1589238532166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589238418648" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1589238418648">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589238532166" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1589238532166">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589238418648" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589238532166" />
     <state x="440" y="95" key="SettingsEditor" timestamp="1588380717193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -208,5 +237,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588470984701" />
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589400798648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589400798648" />
   </component>
 </project>
