@@ -6,9 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b60d7c8e-10ac-44bd-bf1c-e710bc772d5c" name="Default Changelist" comment="Added some comments">
+    <list default="true" id="b60d7c8e-10ac-44bd-bf1c-e710bc772d5c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/fossilia/visuafiles/util/StringManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/fossilia/visuafiles/util/StringManipulator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +156,7 @@
       <workItem from="1588391475175" duration="10000" />
       <workItem from="1588470657763" duration="352000" />
       <workItem from="1589238316243" duration="216000" />
-      <workItem from="1589399835496" duration="778000" />
+      <workItem from="1589399835496" duration="1716000" />
     </task>
     <task id="LOCAL-00001" summary="Added credits">
       <created>1589238506571</created>
@@ -166,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589238506571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completely commented out StringManipulator class.">
+      <created>1589400892509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589400892509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,7 +196,9 @@
       <path value="$PROJECT_DIR$/.." />
     </ignored-roots>
     <MESSAGE value="Added credits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added credits" />
+    <MESSAGE value="Commented all methods in StringManipulator class." />
+    <MESSAGE value="Completely commented out StringManipulator class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Completely commented out StringManipulator class." />
   </component>
   <component name="WindowStateProjectService">
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588380784568">
@@ -205,10 +213,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="304" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588380686352" />
-    <state x="570" y="204" key="CommitChangelistDialog2" timestamp="1589400678580">
+    <state x="587" y="113" key="CommitChangelistDialog2" timestamp="1589400891857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="570" y="204" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589400678580" />
+    <state x="587" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1589400891857" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588380768338">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -233,10 +241,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588380717193" />
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1588470984701">
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1589683345311">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588470984701" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1589683345311" />
     <state x="731" y="223" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1589400798648">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
