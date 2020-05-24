@@ -45,21 +45,21 @@
  (you will see 20 at the start). They are sorted from biggest to smallest file size to easily show which files are taking  
  up the most space on your drive/directory. You can interact with these files with the following commands:
   
- - del (file num):  Permenantly delete the specified file (you can't bring it back from the recycle bin).
-                    It will ask you to confirm the deletion (to make sure you don't delete the wrong file by mistake)
-                    Example command: del 12 
- - open (file num): Opens the specified file in file explorer.
-                    Example command: open 12
- - view:            Prints the files again.
-                    Example command: view
- - load (file num): Loads the next (file num) files.
-                    Example command: load 20
- - prev(file num):  Loads the previous (file num) files.
-                    Example command: prev 20
- - back:            Goes back to the previous screen (file group view/extension group view).
-                    Example command: back
- - exit:            Exits the program.
-                    Example command: exit
+ - **del (file num):**  Permenantly delete the specified file (you can't bring it back from the recycle bin).
+                        It will ask you to confirm the deletion (to make sure you don't delete the wrong file by mistake)
+                        Example command: del 12 
+ - **open (file num):** Opens the specified file in file explorer.
+                        Example command: open 12
+ - **view:**            Prints the files again.
+                        Example command: view
+ - **load (file num):** Loads the next (file num) files.
+                        Example command: load 20
+ - **prev(file num):**  Loads the previous (file num) files.
+                        Example command: prev 20
+ - **back:**            Goes back to the previous screen (file group view/extension group view).
+                        Example command: back
+ - **exit:**            Exits the program.
+                        Example command: exit
 
  ![files-view](screenshots/files-view.jpg)
  
