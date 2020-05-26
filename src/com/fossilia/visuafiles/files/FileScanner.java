@@ -13,23 +13,23 @@ import java.util.*;
 import java.io.*;
 
 public class FileScanner implements Global {
-	private long size;
-	private int files;
-	private int folders;
+	private long size; //total size of all files
+	private int files; //num of files
+	private int folders; //num of folders
 	private int percent;
 
-	private File filePath;
+	private File filePath; //path to scan
 
-	private String filePathString;
-
-	private FileGroupList fileGroups;
-	private ExtensionGroupList extensionGroups;
+	private FileGroupList fileGroups; //file group list
+	private ExtensionGroupList extensionGroups; //extenion group list
 
 	private ArrayList<File> filesList = new ArrayList<File>();
-	//private ArrayList<Group> groupList = new ArrayList<Group>();
 	private ArrayList<Group> extensionList = new ArrayList<Group>();
 	private HashMap<String, Group> extensionListHash = new HashMap<String, Group>();
 
+	/**
+	 * Constructor with no parameters
+	 */
 	public FileScanner(){
 		size = 0;
 		files = 0;
@@ -59,6 +59,13 @@ public class FileScanner implements Global {
 		scanFolder(path, path, usedSpace);
 	}
 
+	/**
+	 * Scans a path and create a hash table of extensions (adds a extensions when it is first found) then adds files
+	 * of the same extension to that created group
+	 * @param basePath the original path
+	 * @param path the current path
+	 * @param usedSpace the amount of space used up on this drive/directory used to get file scanning progress
+	 */
 	public void scanFolder(File basePath, File path, double usedSpace){
 
 		double percentageDone = ((double)size/usedSpace)*100;
@@ -122,19 +129,29 @@ public class FileScanner implements Global {
 		}
 	}
 
+	/**
+	 * Creates extension group arraylist from extension hash list (used fro scanning because look up is faster)
+	 */
 	public void createExtensionGroups(){
 		//if(HashImp) extensionList = new ArrayList<Group>(extensionListHash.values());
-		if(HashImp) extensionGroups = new ExtensionGroupList(new ArrayList<Group>(extensionListHash.values()));
+		if(HashImp) extensionGroups = new ExtensionGroupList(new ArrayList<>(extensionListHash.values()));
 	}
 
-
+	/**
+	 * prints num files of all the files scanned
+	 * @param num
+	 */
 	public void printFiles(int num){
 		for(int i=0; i<num; i++){
 			System.out.println(filesList.get(i)+" size:"+filesList.get(i).length()/(1024.0*1024.0*1024.0));
 		}
 	}
 
-	public void createGroups() throws FileNotFoundException, IOException {
+	/**
+	 * Creates file groups from path to text files and generated extension group list
+	 * @throws IOException
+	 */
+	public void createGroups() throws IOException {
 		fileGroups = new FileGroupList("DATA", extensionGroups);
 	}
 
