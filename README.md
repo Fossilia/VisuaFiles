@@ -1,4 +1,8 @@
 # VisuaFiles
+![GitHub repo size](https://img.shields.io/github/repo-size/Fossilia/VisuaFiles?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/Fossilia/VisuaFiles?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/Fossilia/VisuaFiles?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/Fossilia/VisuaFiles?color=red&style=plastic)
 
  VisuaFiles scans your files and organizes them in file groups that allows you to easily see
  exactly what type of files make up your drive or directory. 
